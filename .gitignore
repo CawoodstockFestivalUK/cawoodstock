@@ -1,0 +1,2 @@
+# don't commit the compiled _site (GitHub will compile it on `git push origin master`)
+_site/
