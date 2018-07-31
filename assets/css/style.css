@@ -14,7 +14,7 @@
     background: #333333 url("../images/header-image-cawoodstock.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
-		background-size: cover;
+		background-size: contain;
     background-position: 0% 0%;
 	}
 
