@@ -5,23 +5,137 @@
 */
 @import url("font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900");
+@import url("../fonts/KeeponTruckin.ttf");
 
 /* Basic */
 
 	body {
-		background: #222833;
+		background: #006887;
+    background: #333333 url("../images/header-image-cawoodstock.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+		background-size: cover;
+    background-position: 0% 0%;
 	}
 
 	body, input, select, textarea {
-		color: #555555;
-		font-family: 'Raleway', sans-serif;
-		font-size: 13pt;
+		color: #f2ebe1;
+		font-family: 'Keep On Truckin', sans-serif;
+		font-size: 16pt;
 		font-weight: 300;
 		line-height: 1.75em;
 	}
 
+#content {
+  background: rgba(35, 31, 32, 0.4);
+	border-radius: 40px;
+}
+
+.googlemaps iframe {
+  border-radius: 40px;
+}
+
+img.rounded {
+  display: block;
+  border-radius: 40px;
+  width:30em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Wrapper */
+
+.wrapper.orange {
+  /* orange */
+  background: linear-gradient(to bottom, rgba(245, 170, 91, 0), rgba(245, 170, 91, 0.5) );
+  padding: 6em 0;
+  text-align: center;
+}
+
+.wrapper.purple {
+  /* purple */
+	background: linear-gradient(to bottom, rgba(245, 170, 91, 0.5), rgba(102, 45, 145,0.5));
+  padding: 6em 0;
+  text-align: center;
+}
+
+.wrapper.orangepurple {
+  background: linear-gradient(to bottom, rgba(245, 170, 91, 0), rgba(245, 170, 91, 0.5), rgba(102, 45, 145,0.5) );
+  padding: 6em 0;
+	padding: 2em 0 3.5em 0;
+}
+
+	.wrapper.style3 span {
+		display: inline-block;
+		padding-top: 0.80em;
+		font-size: 2em;
+		font-weight: 600;
+	}
+
+	.wrapper.style3 .button {
+		float: right;
+	}
+
+/* Header */
+
+	#header {
+		color: #f2ebe1;
+		padding: 6em 0em 15em 0em;
+		text-align: center;
+		position: relative;
+	}
+
+		#header:before {
+			content: '';
+			position: absolute;
+			left: 0;
+			top: 0;
+			width: 100%;
+		}
+
+		#header > * {
+			position: relative;
+			z-index: 1;
+		}
+
+	.homepage #header {
+		padding: 8em 0;
+		background-position: center;
+	}
+
+/* Footer */
+
+	#footer {
+		padding: 4em 0;
+		color: #f2ebe1;
+    background: linear-gradient(to top, rgba(102, 45, 145, 0.7), rgba(102, 45, 145,0.5) )
+	}
+
+		#footer .major h2 {
+			font-size: 2em;
+			color: #f2ebe1;
+		}
+
+		#footer .major .byline {
+			font-size: 1.1em;
+		}
+
+		#footer .copyright {
+			margin-top: 3em;
+			padding-top: 3em;
+			border-top: 1px solid;
+			border-color: rgba(192, 192, 192, 0.15);
+			text-align: center;
+			color: inherit;
+		}
+
+		#footer a {
+			color: inherit;
+		}
+
+
 	a {
-		color: #3ac984;
+		color: #e962a4;
 		text-decoration: underline;
 	}
 
@@ -137,7 +251,7 @@
 		input[type="password"]:focus,
 		input[type="email"]:focus,
 		textarea:focus {
-			border-color: #3ac984;
+			border-color: #e962a4;
 		}
 
 	input[type="text"],
@@ -242,8 +356,6 @@
 			ul.default li {
 				display: block;
 				padding: 0.60em 0;
-				border-top: 1px solid;
-				border-color: rgba(192, 192, 192, 0.15);
 			}
 
 			ul.default > :first-child {
@@ -328,16 +440,16 @@
 			padding-bottom: 0.50em;
 			font-size: 1.1em;
 			font-weight: 700;
-			color: #404040;
+			color: #f2ebe1;
 		}
 
-		ul.style .fa {
+		ul.style .fas {
 			float: left;
 			display: inline-block;
 			width: 80px;
 			height: 80px;
 			margin-right: 1em;
-			background: #3ac984;
+			background: #e962a4;
 			line-height: 80px;
 			text-align: center;
 			border-radius: 10px;
@@ -386,8 +498,8 @@
 			}
 
 			table.default thead {
-				background: #555555;
-				color: #fff;
+				background: #EEEEEE;
+				color: #f2ebe1;
 			}
 
 /* Button */
@@ -406,7 +518,7 @@
 		-o-transition: background-color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out;
-		background: #3ac984;
+		background: #e962a4;
 		border-radius: 40px;
 		border: 0;
 		color: white;
@@ -441,65 +553,7 @@
 			font-size: 0.8em;
 		}
 
-/* Wrapper */
 
-	.wrapper.style1 {
-		background: #fff;
-	}
-
-	.wrapper.style2 {
-		background: #ececec;
-		padding: 6em 0;
-		text-align: center;
-	}
-
-	.wrapper.style3 {
-		padding: 2em 0 3.5em 0;
-		background: #ececec;
-	}
-
-		.wrapper.style3 span {
-			display: inline-block;
-			padding-top: 0.80em;
-			font-size: 2em;
-			font-weight: 600;
-		}
-
-		.wrapper.style3 .button {
-			float: right;
-		}
-
-/* Header */
-
-	#header {
-		background: #333333 url("../images/header-img.jpg") no-repeat;
-		background-size: cover;
-		color: #fff;
-		padding: 6em 0;
-		text-align: center;
-		background-position: 0% 65%;
-		position: relative;
-	}
-
-		#header:before {
-			content: '';
-			position: absolute;
-			left: 0;
-			top: 0;
-			width: 100%;
-			height: 100%;
-			background: rgba(16, 32, 48, 0.25);
-		}
-
-		#header > * {
-			position: relative;
-			z-index: 1;
-		}
-
-	.homepage #header {
-		padding: 8em 0;
-		background-position: center;
-	}
 
 	#logo {
 		font-size: 2em;
@@ -517,7 +571,7 @@
 		}
 
 			#nav > ul > li a {
-				color: #FFF;
+				color: #f2ebe1;
 				text-decoration: none;
 				font-size: 1.2em;
 			}
@@ -527,11 +581,11 @@
 			}
 
 			#nav > ul > li:hover a {
-				color: #fff;
+				color: #f2ebe1;
 			}
 
 			#nav > ul > li.active {
-				background: #3ac984;
+				background: #e962a4;
 			}
 
 				#nav > ul > li.active a {
@@ -546,7 +600,7 @@
 
 	.dropotron {
 		margin-top: -2px;
-		background: #3ac984;
+		background: #e962a4;
 		border-radius: 10px;
 		color: white;
 		min-width: 12em;
@@ -559,12 +613,12 @@
 		}
 
 			.dropotron > li > a {
-				color: #FFF;
+				color: #f2ebe1;
 				text-decoration: none;
 			}
 
 			.dropotron > li.active > a, .dropotron > li:hover > a {
-				color: #FFF;
+				color: #f2ebe1;
 			}
 
 		.dropotron.level-0 {
@@ -621,38 +675,9 @@
 		}
 
 		#main .sidebar .default a {
-			color: #464646;
+			color: #eeeeee;
 		}
 
 		#main .sidebar > :first-child {
 			margin-bottom: 3em;
-		}
-
-/* Footer */
-
-	#footer {
-		padding: 4em 0;
-		color: #fff;
-	}
-
-		#footer .major h2 {
-			font-size: 2em;
-			color: #FFF;
-		}
-
-		#footer .major .byline {
-			font-size: 1.1em;
-		}
-
-		#footer .copyright {
-			margin-top: 3em;
-			padding-top: 3em;
-			border-top: 1px solid;
-			border-color: rgba(192, 192, 192, 0.15);
-			text-align: center;
-			color: inherit;
-		}
-
-		#footer a {
-			color: inherit;
 		}
