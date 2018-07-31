@@ -6,6 +6,7 @@
 @import url("font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900");
 @import url("../fonts/KeeponTruckin.ttf");
+@font-face {font-family: KeeponTruckin; src: url("../fonts/KeeponTruckin.ttf"); format(“true type”); }
 
 /* Basic */
 
@@ -14,19 +15,20 @@
     background: #333333 url("../images/header-image-cawoodstock.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
-		background-size: contain;
+		background-size: cover;
     background-position: 0% 0%;
 	}
 
 	body, input, select, textarea {
 		color: #f2ebe1;
-		font-family: 'Keep On Truckin', sans-serif;
+		font-family: 'KeepOnTruckin', sans-serif;
 		font-size: 16pt;
 		font-weight: 300;
 		line-height: 1.75em;
 	}
 
 #content {
+  padding: 2em;
   background: rgba(35, 31, 32, 0.4);
 	border-radius: 40px;
 }
@@ -351,6 +353,7 @@ img.rounded {
 
 		ul.default {
 			list-style: none;
+      padding: 1em;
 		}
 
 			ul.default li {
