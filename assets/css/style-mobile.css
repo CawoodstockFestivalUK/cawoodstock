@@ -10,6 +10,10 @@
 		font-size: 11pt;
 	}
 
+  body {
+    background-size: contain;
+  }
+
 	.button {
 		display: block;
 		width: 100%;
