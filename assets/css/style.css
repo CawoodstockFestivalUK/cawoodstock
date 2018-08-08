@@ -29,12 +29,13 @@
 
 #content {
   padding: 2em;
-  background: rgba(35, 31, 32, 0.4);
+  background: rgba(35, 31, 32, 0.5);
 	border-radius: 40px;
 }
 
-.googlemaps iframe {
-  border-radius: 40px;
+.underlined {
+  margin-bottom: 30px;
+  border-bottom: solid 2px rgba(35, 31, 32, 0.6);
 }
 
 img.rounded {
@@ -137,7 +138,7 @@ img.rounded {
 
 
 	a {
-		color: #e962a4;
+		color: #d68de0;
 		text-decoration: underline;
 	}
 
