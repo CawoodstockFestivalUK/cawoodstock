@@ -36,6 +36,7 @@
 .underlined {
   margin-bottom: 30px;
   border-bottom: solid 2px rgba(35, 31, 32, 0.6);
+  list-style: none
 }
 
 img.rounded {
