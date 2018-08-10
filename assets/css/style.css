@@ -33,6 +33,10 @@
 	border-radius: 40px;
 }
 
+.sold {
+  color: #e52746;
+}
+
 .underlined {
   margin-bottom: 30px;
   border-bottom: solid 2px rgba(35, 31, 32, 0.6);
