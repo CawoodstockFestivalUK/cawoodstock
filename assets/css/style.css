@@ -10,27 +10,37 @@
 
 /* Basic */
 
-	body {
-		background: #2c130d;
-    background: #2c130d url("../images/header-image-cawoodstock.png");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-		background-size: cover;
-    background-position: 0% 0%;
-	}
+body {
+	background: #2c130d;
+  background: #2c130d url("../images/header-image-cawoodstock.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+	background-size: cover;
+  background-position: 0% 0%;
+}
 
-	body, input, select, textarea {
-		color: #f2ebe1;
-		font-family: 'KeepOnTruckin', sans-serif;
-		font-size: 16pt;
-		font-weight: 300;
-		line-height: 1.75em;
-	}
+body, input, select, textarea {
+	color: #f2ebe1;
+	font-family: 'KeepOnTruckin', sans-serif;
+	font-size: 16pt;
+	font-weight: 300;
+	line-height: 1.75em;
+}
 
 #content {
   padding: 2em;
   background: rgba(35, 31, 32, 0.5);
 	border-radius: 40px;
+}
+
+.bands img {
+  height: 200px;
+}
+
+.bands li {
+  margin-bottom: 30px;
+  border-bottom: solid 2px rgba(35, 31, 32, 0.6);
+  list-style: none
 }
 
 .sold {
