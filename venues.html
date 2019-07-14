@@ -8,99 +8,38 @@ layout: main
 		<div class="container">
 			<div class="row">
 
-				<!-- Sidebar -->
+				<!-- SIDEBAR MENU -->
 				<div id="sidebar" class="4u sidebar">
 					<section>
 						<!-- <header class="major">
 							<h2>Our Cawoodstock Venues</h2>
 						</header> -->
 						<ul class="default">
-							<li><a href="#castle">The Castle Inn</a></li>
-							<li><a href="#jolly">The Jolly Sailor</a></li>
-							<li><a href="#ferry">The Ferry Inn</a></li>
-							<li><a href="#skiclub">White Cross Waterski Club</a></li>
-							<li><a href="#grangeside">Grangeside Nurseries</a></li>
-							<li><a href="#caravan">Cawood Park Caravan Site</a></li>
-							<li><a href="#postie">The Pickled Postie</a></li>
-							<li><a href="#obs">The Old Boys School</a></li>
+              {% for venue in site.data.venues %}
+  							<li><a href="#{{ venue.name | slugify }}"> {{venue.name}} </a></li>
+              {% endfor %}
 						</ul>
 					</section>
 				</div>
 
-				<!-- Content -->
+				<!-- VENUES LIST -->
 				<div id="content" class="8u skel-cell-important">
 					<section>
 						<header class="major">
 							<h2>{{ page.title }}</h2>
 							<span class="byline">Participating festival venues</span>
 						</header>
+
             <ul class="default">
-              <li class="underlined">
-                <h3><a name="castle">The Castle Inn</a></h3>
-                <a href="https://www.facebook.com/CastleInnPub">
-                  <img src="assets/images/castle-freya.png" alt="The Castle Inn" width="200px">
-                </a>
-                <p><i class="fas fa-map-marker-alt"></i> 7 Wistowgate, Cawood, Selby YO8 3SH</p>
-              </li>
-              <li class="underlined">
-                <h3><a name="jolly">The Jolly Sailor</a></h3>
-                <a href="https://www.facebook.com/jolly.cawood">
-                  <img src="assets/images/jolly-sailor.jpg" alt="The Jolly Sailor" width="200px">
-                </a>
-                <p>The Jolly Sailor is Cawood's regular music venue pub, with regular music acts every Friday and Saturday, a monthly acoustic jam session, and Cawood bands The Sicknotes and  Chris and Sarah. Contact Kathy Reece-King <a href="https://www.facebook.com/kathyreeceking">via Facebook</a></p>
-                <p><i class="fas fa-map-marker-alt"></i> 5 Market Place, Cawood YO8 3SR</p>
-              </li>
-              <li class="underlined">
-                <h3><a name="ferry">The Ferry Inn</a></h3>
-                <a href="https://www.facebook.com/TheFerryInnAllNew/">
-                  <img src="assets/images/ferry-inn.jpg" alt="The Ferry Inn" width="200px">
-                </a>
-                <p>The Ferry Inn is an historic 16th century inn, serving 5 real ales and fine pub cuisine in a traditional pub atmosphere.</p>
-                <p><i class="fas fa-map-marker-alt"></i> 2 King St, Cawood, Selby YO8 3TL</p>
-              </li>
-              <li class="underlined">
-                <h3><a name="skiclub">White Cross Waterski Club</a></h3>
-                <a href="https://www.facebook.com/Whitecrossskiclub/">
-                  <img src="assets/images/skiclub.jpg" alt="White Cross Ski Club" width="200px">
-                </a>
-                <p>The White Cross Ski Club is a water ski and wakeboard club, first opened in 1961, and with a brand new purpose built member bar and recreation facility. The Ski Club is holding a Family Fun Day over the Cawoodstock weekend, with music, food, boat rides on the river Ouse, and lots more. Information on starting water ski and wakeboarding, and Club membership, can be obtained from any existing member or by contacting the Club via their <a href="https://www.facebook.com/Whitecrossskiclub/">Facebook page</a>.</p>
-                <p>Cawoodstock @ White Cross Waterski Club are supporting:
-                  <a href="https://www.YorkshireAirAmbulance.org.uk">https://www.YorkshireAirAmulance.org.uk</a>,
-                  <a href="https://www.YorkRescueBoat.com">https://www.YorkRescueBoat.com</a>,
-                  <a href="https://www.bluecross.org.uk/yorkshire-thirsk-rehoming-centre">https://www.bluecross.org.uk/yorkshire-thirsk-rehoming-centre</a>
-                  raising funds for a defibrillator to be located at the ski club for village use, and raising money to support Cawoodstock 2019.</p>
-                <p><i class="fas fa-map-marker-alt"></i> Rythergate, Cawood, Selby YO8 3TP</p>
-              </li>
-              <li class="underlined">
-                <h3><a name="grangeside">Grangeside Nurseries</a></h3>
-                <a href="https://www.facebook.com/Grangeside-Nurseries-218832071806414/">
-                  <img src="assets/images/grangeside.jpg" alt="Grangeside Nurseries" width="200px">
-                </a>
-                <p>Grangeside Nurseries and Cafe, a hidden gem in the heart of historic Cawood. We pride ourselves on high quality plants specialising in those that are especially useful to bees and pollinating insects and actively promote environmentally conscientious gardening. We have a cosy cafe with plenty of outdoor seating, serving breakfast baps, lunches and great coffee and cakes</p>
-                <p><i class="fas fa-map-marker-alt"></i> Thorpe Lane, Cawood, YO8 3SG</p>
-              </li>
-              <li class="underlined">
-                <h3><a name="postie">The Pickled Postie</a></h3>
-                <a href="https://www.facebook.com/Thepickledpostie/">
-                  <img src="assets/images/pickled-postie.jpg" alt="The Pickled Postie" width="200px">
-                </a>
-                <p><i class="fas fa-map-marker-alt"></i> 2 High St, Cawood, Selby YO8 3TH</p>
-              </li>
-              <li class="underlined">
-                <h3><a name="caravan">Cawood Park Caravan Site</a></h3>
-                <a href="https://www.facebook.com/CawoodPark/">
-                  <img src="assets/images/cawood-park.jpg" alt="Cawood Park Caravan Site" width="200px">
-                </a>
-                <p><i class="fas fa-map-marker-alt"></i> Ryther Rd, Cawood, York YO8 3TT</p>
-              </li>
-              <li class="underlined">
-                <h3><a name="obs">The Old Boys' School</a></h3>
-                <a href="https://www.facebook.com/Cawood-Old-Boys-School-192183871361101/">
-                  <img src="assets/images/obs.jpg" alt="Old Boys School Cawood" width="200px"></a>
-                <p>The Old Boys' School is used as a community centre and village hall for Cawood. <br/><br/> Over Cawoodstock Saturday, the Old Boys' School will host Refreshments & children's activities including design-your-own Cawoodstock wristband & maracas, sand art, rock painting & much more! There will be a small charge to cover costs. All children must be accompanied by an adult.</p>
-                <p>Donations given at the OBS activities will support Cawood Rainbows and Brownies.</p>
-                <p><i class="fas fa-map-marker-alt"></i> Old Boys School Lane, off Rythergate, YO8 3TY</p>
-              </li>
+              {% for venue in site.data.venues %}
+                <li class="underlined">
+                  <h3><a name="venue"> {{ venue.name }} </a></h3>
+                  <a href="{{ venue.web }}">
+                    <img src="{{ venue.img }}" alt="{{ venue.name }} - Image missing?" width="200px"></a>
+                  <p>{{ venue.blurb }}</p>
+                  <p><i class="fas fa-map-marker-alt"></i>   {{ venue.address }}</p>
+                </li>
+              {% endfor %}
             </ul>
 					</section>
 				</div>
