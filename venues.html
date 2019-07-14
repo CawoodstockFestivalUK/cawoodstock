@@ -33,7 +33,7 @@ layout: main
             <ul class="default">
               {% for venue in site.data.venues %}
                 <li class="underlined">
-                  <h3><a name="venue"> {{ venue.name }} </a></h3>
+                  <h3><a name="{{ venue.name | slugify }}"> {{ venue.name }} </a></h3>
                   <a href="{{ venue.web }}">
                     <img src="{{ venue.img }}" alt="{{ venue.name }} - Image missing?" width="200px"></a>
                   <p>{{ venue.blurb }}</p>
