@@ -1,0 +1,126 @@
+- name: "Natural Antagonists"
+  blurb: "a blend of melodic guitar and vocal harmonies performing original and well-known material"
+  img:
+  lineup:
+  facebook:
+  web:
+  playing-this-year: false
+
+- name: "Michael Stanns (Ryan Shaw Music)"
+  blurb: "assets/images/ryanshaw.jpg"
+  img:
+  lineup:
+  facebook: "https://www.facebook.com/ryan.shaw.16568"
+  web:
+  playing-this-year: false
+
+- name: "Shab 'Elvis' Hussain"
+  blurb: "Cawood's own Elvis!"
+  img: "assets/images/shab.jpg"
+  lineup:
+  facebook: "https://www.facebook.com/shahab.hussain.399"
+  web:
+  playing-this-year: false
+
+- name: "Pop Friction"
+  blurb: |
+    Edgy, current and different are all words that can be used to describe POP FRICTION. A great female fronted pop trio - Great vocals and an  awesome display of musicianship on guitar too. Dancing shoes at the ready
+  img: "assets/images/popfriction.jpg"
+  lineup:
+  facebook: "https://www.facebook.com/pg/popfrictionband/"
+  web:
+  playing-this-year: false
+
+- name: "The Sicknotes"
+  blurb: |
+    Rockabilly, rock, and pop covers in their own famous 'ramshackle' style - from pop tunes to danceable swing-a-billy and cool sultry jazz
+  img: "assets/images/sicknotes.jpg"
+  lineup: |
+    Gaz Rowntree (Drums), Kerrie Hewick (Vocals, Tanbourine), Marcus Baw (Guitar), Patrick Morris (Double Bass)
+  facebook: "https://www.facebook.com/SicknotesOfCawood/"
+  web:
+  playing-this-year: true
+
+- name: "the Yorkuleles"
+  blurb: "York-based Ukulele Club and Orchestra"
+  img: "assets/images/yorkuleles.jpg"
+  lineup:
+  facebook: "https://www.facebook.com/yorkuleles/"
+  web: "https://www.yorkuleles.co.uk"
+  playing-this-year: true
+
+- name: "Disco Factor"
+  blurb: |
+    Some of the best disco tunes to have made their way on to the radio at the height of the Disco era. Disco Factor are a choreographed group with 2 girls and 1 guy who just love to entertain. If these don’t get you on the dance floor, nothing will!
+  img: "assets/images/discofactor.jpg"
+  lineup:
+  facebook: "https://www.facebook.com/discofactor/"
+  web:
+  playing-this-year: false
+
+- name: "Band Formed Of Members Of The Bands Formerly Known As Kingzilla and Honeybuzzard"
+  blurb: "Guitar-based rock and blues with wailing blues-harp and vocals"
+  img:
+  lineup:
+  facebook: "https://www.facebook.com/paul.featherstone.1441"
+  web:
+  playing-this-year: false
+
+- name: "Strider's Budgie"
+  blurb: "Guitar-based rock and blues with wailing blues-harp and vocals"
+  img:
+  lineup: "Billy, Paul, Ben, Moz and Richard"
+  facebook: "https://www.facebook.com/paul.featherstone.1441"
+  web:
+  playing-this-year: true
+
+- name: "The Renames"
+  blurb: "Soft and country rock favourites plus a few of our own songs thrown in"
+  img: "assets/images/renames.jpg"
+  lineup:
+  facebook: "https://www.facebook.com/pg/theremainsyork/posts/?ref=page_internal"
+  web:
+  playing-this-year: false
+
+- name: "Kit Frost & Sarah Finn"
+  blurb: "Cawoodian jazzy piano and vocal duo covering modern classics and jazz greats"
+  img: "assets/images/chrissarah.jpg"
+  lineup: "Kit Frost (Chris Foster) and Sarah Finn"
+  facebook: "https://www.facebook.com/clfoster2"
+  web:
+  playing-this-year: true
+
+- name: "Glamchop"
+  blurb: "Rock/pop and oldies"
+  img:
+  lineup:
+  facebook:
+  web:
+  playing-this-year: true
+
+- name: "Mark Byrne"
+  blurb:
+  img: "assets/images/markbyrne.jpg"
+  lineup:
+  facebook: "https://www.facebook.com/dearmarkbyrne"
+  web:
+  playing-this-year: true
+
+- name: "KAYA"
+  blurb: |
+    KAYA are a new and innovative band who are pushing the boundaries of contemporary and popular music. They play original material with catchy, melodic, sharp and generally joyful songs, designed to lift the audience's spirits, interspersed with classic covers.
+  img: "assets/images/kaya.jpg"
+  lineup:
+  facebook: "https://www.facebook.com/KayaBandOfficial/"
+  web:
+  playing-this-year: true
+
+- name: "Pineapple Head"
+  blurb: |
+    An attempt to play complicated music by bafoons with all the commitment but exactly half the talent required. Their attempts are usually thwarted by improvisation they just can't help doing, mashups and mistakes that have them in stitches.
+  img:
+  lineup: |
+    Ben Styles: vocals, guitars (both long and short with varying numbers of strings) synths and looping. Gaz Rowntree: vocals, guitars, harmonica, synths and live loop workstation.
+  facebook: "https://www.facebook.com/TheOnlyPineAppleHead/"
+  web:
+  playing-this-year: true
