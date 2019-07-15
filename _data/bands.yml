@@ -69,7 +69,7 @@
 - name: "Strider's Budgie"
   blurb: "Guitar-based rock and blues with wailing blues-harp and vocals"
   img:
-  lineup: "Billy, Paul, Ben, Moz and Richard"
+  lineup: "Billy, Paul, Ben, John, Richard"
   facebook: "https://www.facebook.com/paul.featherstone.1441"
   web:
   playing-this-year: true
@@ -88,7 +88,7 @@
   lineup: "Kit Frost (Chris Foster) and Sarah Finn"
   facebook: "https://www.facebook.com/clfoster2"
   web:
-  playing-this-year: true
+  playing-this-year: false
 
 - name: "Glamchop"
   blurb: "Rock/pop and oldies"
@@ -96,7 +96,7 @@
   lineup:
   facebook:
   web:
-  playing-this-year: true
+  playing-this-year: false
 
 - name: "Mark Byrne"
   blurb:
@@ -113,12 +113,12 @@
   lineup:
   facebook: "https://www.facebook.com/KayaBandOfficial/"
   web:
-  playing-this-year: true
+  playing-this-year: false
 
 - name: "Pineapple Head"
   blurb: |
     An attempt to play complicated music by bafoons with all the commitment but exactly half the talent required. Their attempts are usually thwarted by improvisation they just can't help doing, mashups and mistakes that have them in stitches.
-  img:
+  img: "assets/images/pineapple-head.jpg"
   lineup: |
     Ben Styles: vocals, guitars (both long and short with varying numbers of strings) synths and looping. Gaz Rowntree: vocals, guitars, harmonica, synths and live loop workstation.
   facebook: "https://www.facebook.com/TheOnlyPineAppleHead/"

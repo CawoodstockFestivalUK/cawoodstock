@@ -1,0 +1,20 @@
+# SATURDAY SCHEDULE DATA
+
+# DATA TEMPLATE
+# - start-time:     (mandatory - will be ordered by start time automatically)
+#   end-time:       (optional)
+#   kids-activity:  default false. if true will display Kids Activity icon
+#   name:     (optional, but highly recommended!)
+#   description: (optional)
+#   link:           (to bands or other event pages for further info)
+#   venue:          (optional) (will eventually link through to venues page)
+#   venue-link:     (optional - venue information link)
+
+- start-time: 2100
+  end-time:
+  kids-activity: false
+  name: "The Sicknotes Of Cawood"
+  description:
+  link:
+  venue: "The Jolly Sailor Inn"
+  venue-link: "venues#the-jolly-sailor"
