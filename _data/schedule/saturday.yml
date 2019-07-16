@@ -3,9 +3,9 @@
 # DATA TEMPLATE
 # - start-time:     (mandatory - will be ordered by start time automatically)
 #   end-time:       (optional)
-#   kids-activity:  default false. if true will display Kids Activity icon
-#   name:     (optional, but highly recommended!)
-#   description: (optional)
+#   kids-activity:  (default false. if true will display Kids Activity icon)
+#   name:           (optional, but highly recommended!)
+#   description:    (optional)
 #   link:           (to bands or other event pages for further info)
 #   venue:          (optional) (will eventually link through to venues page)
 #   venue-link:     (optional - venue information link)
@@ -18,3 +18,12 @@
   link:
   venue: "The Jolly Sailor Inn"
   venue-link: "venues#the-jolly-sailor"
+
+- start-time: 2000
+  end-time: 2230
+  kids-activity: true
+  name: "Grease Movie Singalong In the Polytunnel"
+  description: "**BOOKING REQUIRED** - go to [link required!] to book"
+  link:
+  venue: "Grangeside Nurseries"
+  venue-link: "venues#grangeside-nurseries"

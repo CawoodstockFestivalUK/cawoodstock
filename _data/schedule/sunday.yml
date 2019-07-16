@@ -4,17 +4,44 @@
 # - start-time:     (mandatory - will be ordered by start time automatically)
 #   end-time:       (optional)
 #   kids-activity:  default false. if true will display Kids Activity icon
-#   name:     (optional, but highly recommended!)
-#   description: (optional)
+#   name:           (optional, but highly recommended!)
+#   description:    (optional)
 #   link:           (to bands or other event pages for further info)
 #   venue:          (optional) (will eventually link through to venues page)
 #   venue-link:     (optional - venue information link)
 
 - start-time: 2100
-  end-time:
+  end-time: "'til late"
   kids-activity: false
   name: "The Sicknotes Of Cawood"
-  description:
+  description: "Rocking the permanent surf party that is Cawood's awesome Waterski Club, are The Sicknotes Of Cawood, closing their world tour of Cawood and headlining the festival for the second year running!"
   link:
   venue: "The White Cross Ski Club"
+  venue-link: "venues#white-cross-waterski-club"
+
+- start-time: 1500
+  end-time: 1700
+  kids-activity: true
+  name: "The Yorkuleles"
+  description: "York's famous ukulele club return to Cawoodstock and the Ski Club, with their grand ukulele orchestra to play hits and singalongs for all the family"
+  link: "bands#the-yorkuleles"
+  venue: "The White Cross Ski Club"
+  venue-link: "venues#white-cross-waterski-club"
+
+- start-time: 1800
+  end-time: 1930
+  kids-activity:
+  name: "Pineapple Head"
+  description: "A new band to Cawoodstock, but featuring the familiar cheeky face of Gaz Rowntree, this multi-instrumentalist duo promise they are 'two half wits that almost play the same song at the same time'!"
+  link: "bands#pineapple-head"
+  venue: "The Ferry Inn"
+  venue-link: "venues#the-ferry-inn"
+
+- start-time:
+  end-time:
+  kids-activity:
+  name:
+  description:
+  link:
+  venue:
   venue-link:
