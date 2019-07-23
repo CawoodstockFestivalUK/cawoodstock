@@ -37,11 +37,12 @@
   venue: "The Ferry Inn"
   venue-link: "venues#the-ferry-inn"
 
-- start-time:
+- start-time: 2030
   end-time:
   kids-activity:
-  name:
-  description:
+  name: The KEY_TARS
+  description: |
+    Finishing the August Bank Holiday entertainment are THE KEY_TARS. A superb, versatile all male trio featuring guitar, lead guitar and key boards. No work tomorrow so a good time will be had by all!
   link:
-  venue:
-  venue-link:
+  venue: "Cawood Park Caravan Site"
+  venue-link: "https://www.yorkshireholidayparks.co.uk/cawood-holiday-park/about-cawood-park/"

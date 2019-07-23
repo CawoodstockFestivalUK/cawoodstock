@@ -29,3 +29,13 @@
   link: "other-activities#youthjam"
   venue: "The Jolly Sailor"
   venue-link: "venues#the-jolly-sailor"
+
+- start-time: 2030
+  end-time:
+  kids-activity: true
+  name: "Family Fun Night"
+  description: |
+     Cawoodstock Quiz, Bingo, Play Your Cardas Right and Lotto Draw
+  link:
+  venue: "Cawood Park Caravan Site"
+  venue-link: "https://www.yorkshireholidayparks.co.uk/cawood-holiday-park/about-cawood-park/"

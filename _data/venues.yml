@@ -69,9 +69,9 @@
   participating: true
 
 - name: "Cawood Park Caravan Site"
-  blurb:
+  blurb: "Cawood Park is located in a tranquil location on the banks of the River Wharfe between Tadcaster and  Selby"
   web: "https://www.facebook.com/CawoodPark/"
-  phone:
+  phone: "01757 268450"
   address: "Ryther Rd, Cawood, York YO8 3TT"
   location:
   img: "assets/images/cawood-park.jpg"
