@@ -39,3 +39,13 @@
   link:
   venue: "Cawood Park Caravan Site"
   venue-link: "https://www.yorkshireholidayparks.co.uk/cawood-holiday-park/about-cawood-park/"
+
+- start-time: 2100
+  end-time:
+  kids-activity: false
+  name: "Kit Frost"
+  description: |
+    Piano and vocals from Cawood's own Kit
+  link: "bands#kit-frost"
+  venue: "The Jolly Sailor Inn"
+  venue-link: "venues#the-jolly-sailor"

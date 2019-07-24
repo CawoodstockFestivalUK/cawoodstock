@@ -46,3 +46,39 @@
   link:
   venue: "Cawood Park Caravan Site"
   venue-link: "https://www.yorkshireholidayparks.co.uk/cawood-holiday-park/about-cawood-park/"
+
+- start-time: 1600
+  end-time: 1800
+  kids-activity: false
+  name: "Peter Brown"
+  description:
+  link:
+  venue: "The Jolly Sailor Inn"
+  venue-link: "venues#the-jolly-sailor"
+
+- start-time: 1800
+  end-time: 2000
+  kids-activity: false
+  name: "Surprise Band!"
+  description:
+  link:
+  venue: "The Jolly Sailor Inn"
+  venue-link: "venues#the-jolly-sailor"
+
+- start-time: 2000
+  end-time: 2100
+  kids-activity: false
+  name: "Harrison Rimmer"
+  description:
+  link:
+  venue: "The Jolly Sailor Inn"
+  venue-link: "venues#the-jolly-sailor"
+
+- start-time: 2100
+  end-time: 2300
+  kids-activity: false
+  name: "Ryan Ellerby"
+  description:
+  link:
+  venue: "The Jolly Sailor Inn"
+  venue-link: "venues#the-jolly-sailor"

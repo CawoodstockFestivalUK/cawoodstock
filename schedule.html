@@ -8,24 +8,20 @@ layout: main
 		<div class="container">
 			<div class="row">
 
-				<!-- SIDEBAR MENU -->
-				<div id="sidebar" class="3u sidebar">
-					<section>
-
-						<ul class="default">
-              {% for festivalday in site.data.schedule.dates %}
-  							<li><a href='#{{ festivalday["day"] }}'>{{ festivalday["date"] }}</a></li>
-              {% endfor %}
-						</ul>
-					</section>
-				</div>
 
 				<!-- Content -->
-				<div id="content" class="9u skel-cell-important">
+				<div id="content" class="12u skel-cell-important">
+
 					<section>
 						<header class="major">
 							<h2>{{ page.title }}</h2>
-							<span>Cawoodstock is a family festival and children are welcome throughout Cawoodstock. Activities particularly suitable for children are marked with <i class="fas fa-child" title="Kids' Activity"></i> Gigs in the later evening and in pubs may not be quite as suitable for children, and the venues may have their own family policies which you should abide by.</span>
+							<span>Cawoodstock is a family festival and children are welcome throughout Cawoodstock. Activities particularly suitable for children are marked with <i class="fas fa-child" title="Kids' Activity"></i> Gigs in the later evening and in pubs may not be quite as suitable for children, and the venues may have their own family policies which you should abide by.
+              </span>
+              <p>
+                {% for festivalday in site.data.schedule.dates %}
+                  <a href='#{{ festivalday["day"] }}'>{{ festivalday["date"] }}</a> -
+                {% endfor %}
+              </p>
 						</header>
             <!-- unfortunately you cannot make dynamically-named includes in jekyll -->
             <!-- hence this hard-coded list -->

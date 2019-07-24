@@ -11,7 +11,7 @@
 #   venue-link:     (optional - venue information link)
 
 - start-time: 2100
-  end-time:
+  end-time: "late"
   kids-activity: false
   name: "The Sicknotes Of Cawood"
   description:
@@ -34,6 +34,35 @@
   name: "GENETICS"
   description: |
     Something a little bit diﬀerent, as always very talented and as always entertaining, but its really not very often we bring a father and daughter duo to the stage, but tonight we do just that! GENETICS are a superb keyboards and vocal duo. A little bit of something for everyone on the set list too.
-  link: 
+  link:
   venue: "Cawood Park Caravan Site"
   venue-link: "https://www.yorkshireholidayparks.co.uk/cawood-holiday-park/about-cawood-park/"
+
+- start-time: 1300
+  end-time: 1600
+  kids-activity: true
+  name: "Acoustic Jamming Session"
+  description: |
+    All are welcome for a very informal, very relaxed acoustic jamming session. Any non-amplified instrument, any kind of music, those who wish to will take in turns to lead a jam, everybody's encouraged to join in and play along. Singers also welcome, let's have a big afternoon jam!
+  link:
+  venue: "The Jolly Sailor Inn"
+  venue-link: "venues#the-jolly-sailor"
+
+- start-time: 1600
+  end-time: 1800
+  kids-activity: false
+  name: "KAYA - Band"
+  description: |
+    Great local band who have played Cawoodstock before, returning to rock the house once again
+  link: "bands#kaya"
+  venue: "The Jolly Sailor Inn"
+  venue-link: "venues#the-jolly-sailor"
+
+- start-time: 1800
+  end-time: 2000
+  kids-activity: false
+  name: "GlamChop"
+  description: 
+  link:           (to bands or other event pages for further info)
+  venue:          (optional) (will eventually link through to venues page)
+  venue-link:     (optional - venue information link)
