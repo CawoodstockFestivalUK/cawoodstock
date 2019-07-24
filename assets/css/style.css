@@ -519,6 +519,16 @@ img.rounded {
 				color: #f2ebe1;
 			}
 
+th.time {
+  width: 180px;
+}
+
+th.venue {
+  width: 200px;
+}
+
+
+
 /* Button */
 
 	input[type="submit"],

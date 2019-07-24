@@ -1,7 +1,6 @@
 <table class="default">
-  <th>Time</th>
-  <th>Venue</th>
-  <th>Event / Band / Activity</th>
+  {% include schedule-table-header-row.html %}
+
   {% assign events = site.data.schedule.saturday | sort: 'start-time' %}
   {% for event in events %}
     <tr>
