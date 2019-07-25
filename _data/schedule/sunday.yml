@@ -37,7 +37,7 @@
   venue: "The Ferry Inn"
   venue-link: "venues#the-ferry-inn"
 
-- start-time: 2030
+- start-time: 2045
   end-time:
   kids-activity:
   name: The KEY_TARS
@@ -76,18 +76,20 @@
 
 - start-time: 1400
   end-time: 1500
-  kids-activity: false
+  kids-activity: true
   name: "Hannah and the Enchanted Harp"
-  description:
+  description: |
+    Hannah and her Enchanted harp will entertain and transport young children into a wonderful fairy world with live harp music, singing, dancing, stories and bubbles! Dressing up is encouraged!
   link:
   venue: "The White Cross Ski Club"
   venue-link: "venues#white-cross-waterski-club"
 
 - start-time: 1700
   end-time: 1800
-  kids-activity: false
+  kids-activity: true
   name: "Hannah and the Enchanted Harp"
-  description:
+  description: |
+    Hannah and her Enchanted harp will entertain and transport young children into a wonderful fairy world with live harp music, singing, dancing, stories and bubbles! Dressing up is encouraged!
   link:
   venue: "The White Cross Ski Club"
   venue-link: "venues#white-cross-waterski-club"
