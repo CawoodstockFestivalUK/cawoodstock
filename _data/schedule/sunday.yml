@@ -74,11 +74,29 @@
   venue: "The Jolly Sailor Inn"
   venue-link: "venues#the-jolly-sailor"
 
-- start-time: 2100
-  end-time: 2300
+- start-time: 1400
+  end-time: 1500
   kids-activity: false
-  name: "Ryan Ellerby"
+  name: "Hannah and the Enchanted Harp"
   description:
   link:
-  venue: "The Jolly Sailor Inn"
-  venue-link: "venues#the-jolly-sailor"
+  venue: "The White Cross Ski Club"
+  venue-link: "venues#white-cross-waterski-club"
+
+- start-time: 1700
+  end-time: 1800
+  kids-activity: false
+  name: "Hannah and the Enchanted Harp"
+  description:
+  link:
+  venue: "The White Cross Ski Club"
+  venue-link: "venues#white-cross-waterski-club"
+
+- start-time: 1800
+  end-time: 1900
+  kids-activity: false
+  name: "Shab 'Elvis' Hussain"
+  description:
+  link:
+  venue: "The White Cross Ski Club"
+  venue-link: "venues#white-cross-waterski-club"

@@ -62,7 +62,17 @@
   end-time: 2000
   kids-activity: false
   name: "GlamChop"
-  description: 
+  description:
   link:           (to bands or other event pages for further info)
   venue:          (optional) (will eventually link through to venues page)
   venue-link:     (optional - venue information link)
+
+- start-time: 1400
+  end-time: 1600
+  kids-activity: true
+  name: "Cawood Brownies & Rainbows"
+  description: |
+    Children's creative activities for all ages including sand art (back by popular request!), face painting, glitter tattoos & homemade refreshments
+  link:
+  venue: "Cawood Old Boys' School"
+  venue-link: "venues#old-boys-school"
