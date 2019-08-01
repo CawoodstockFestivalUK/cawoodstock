@@ -102,3 +102,23 @@
   link:
   venue: "The White Cross Ski Club"
   venue-link: "venues#white-cross-waterski-club"
+
+- start-time: 1300
+  end-time: 1630
+  kids-activity: true
+  name: "Walking Through War 1939-1945 exhibition"
+  description: |
+    Cawood Church will have a "Walking Through War 1939-1945" exhibition, remembering the 80th anniversary since the outbreak of World War 2. This will be on the following dates to coincide with the Cawoodstock event. Children's activities will be provided and refreshments served. Music from the period will add to the atmosphere of the event in our historic church.
+  link:
+  venue: "Cawood Church"
+  venue-link: 
+
+- start-time: 1200
+  end-time: 2300
+  kids-activity: true
+  name: "Outdoor Gin and Real Ales Fest @ Cawoodstock"
+  description: |
+    All-day Gin and Real Ales stands outdoors at the Castle Inn, with outdoor performances, face painting, and charity photo booth!
+  link:
+  venue: "The Castle Inn"
+  venue-link: "venues#the-castle-inn"

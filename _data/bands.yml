@@ -82,13 +82,13 @@
   web:
   playing-this-year: false
 
-- name: "Kit Frost & Sarah Finn"
-  blurb: "Cawoodian jazzy piano and vocal duo covering modern classics and jazz greats"
-  img: "assets/images/chrissarah.jpg"
-  lineup: "Kit Frost (Chris Foster) and Sarah Finn"
-  facebook: "https://www.facebook.com/clfoster2"
+- name: "Kit Frost"
+  blurb: "Cawoodian jazzy piano and vocals covering modern classics and jazz greats"
+  img: "assets/images/kit-frost.jpg"
+  lineup: "Kit Frost"
+  facebook: "https://www.facebook.com/KitFrostmusic/"
   web:
-  playing-this-year: false
+  playing-this-year: true
 
 - name: "Glamchop"
   blurb: "Rock/pop and oldies"
@@ -113,14 +113,32 @@
   lineup:
   facebook: "https://www.facebook.com/KayaBandOfficial/"
   web:
-  playing-this-year: false
+  playing-this-year: true
 
 - name: "Pineapple Head"
   blurb: |
-    An attempt to play complicated music by bafoons with all the commitment but exactly half the talent required. Their attempts are usually thwarted by improvisation they just can't help doing, mashups and mistakes that have them in stitches.
+    An attempt to play complicated music by buffoons with all the commitment but exactly half the talent required. Their attempts are usually thwarted by improvisation they just can't help doing, mashups and mistakes that have them in stitches.
   img: "assets/images/pineapple-head.jpg"
   lineup: |
     Ben Styles: vocals, guitars (both long and short with varying numbers of strings) synths and looping. Gaz Rowntree: vocals, guitars, harmonica, synths and live loop workstation.
   facebook: "https://www.facebook.com/TheOnlyPineAppleHead/"
+  web:
+  playing-this-year: true
+
+- name: "Hannah and the Enchanted Harp"
+  blurb: |
+    Teacher and Musician - although called 'Hannah the Harp', I also sing, and play piano too! Teaching all ages harp and piano. Also available for weddings/ events - send a message to discuss how I can help you for your special day.
+  img: "assets/images/hannah-the-harp.jpg"
+  lineup: Hannah Luckins
+  facebook: "https://www.facebook.com/HannahTheHarp/"
+  web:
+  playing-this-year: true
+
+- name: Strider's Budgie
+  blurb: |
+    Talented and raucous local blues band, with blues harp
+  img: "assets/images/striders-budgie.jpg"
+  lineup: "John Hewick, Ben Arblaster, Paul Featherstone, Billy , Richard Bogie"
+  facebook:
   web:
   playing-this-year: true

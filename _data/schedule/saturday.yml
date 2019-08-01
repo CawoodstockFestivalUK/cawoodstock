@@ -14,7 +14,8 @@
   end-time: "late"
   kids-activity: false
   name: "The Sicknotes Of Cawood"
-  description:
+  description: |
+    The Sicknotes return to their home venue bringing more of their Ramshackle Sound and unusual blend of rockabilly, jazz, blues and pop.
   link:
   venue: "The Jolly Sailor Inn"
   venue-link: "venues#the-jolly-sailor"
@@ -76,3 +77,13 @@
   link:
   venue: "Cawood Old Boys' School"
   venue-link: "venues#old-boys-school"
+
+- start-time: 1200
+  end-time: 2300
+  kids-activity: true
+  name: "Outdoor Gin and Real Ales Fest @ Cawoodstock"
+  description: |
+    All-day Gin and Real Ales stands outdoors at the Castle Inn, with outdoor performances, face painting, and charity photo booth!
+  link: 
+  venue: "The Castle Inn"
+  venue-link: "venues#the-castle-inn"

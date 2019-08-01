@@ -86,3 +86,12 @@
   location:
   img: "assets/images/obs.jpg"
   participating: true
+
+- name: "Cawood All Saints' Church"
+  blurb: 
+  web: "http://www.allsaintscawood.org.uk/"
+  phone:
+  address: "All Saints Church, Church End, Cawood, YO8 3SN"
+  location:
+  img: "assets/images/all-saints.jpg"
+  participating: true

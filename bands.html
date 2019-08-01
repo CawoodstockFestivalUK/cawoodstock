@@ -33,23 +33,29 @@ layout: main
                 {% if band.playing-this-year %}
                   <li>
                     <h3><a name="{{ band.name | slugify }}">{{ band.name }}</a></h3>
-                    <img src="{{ band.img }}" alt="{{band.name}} - Image missing?">
-                    <p>{{ band.blurb }}</p>
-                    {% if band.lineup %}
-                      <p>Lineup: {{ band.lineup }} </p>
-                    {% endif %}
-                    {% if band.facebook %}
-                      <p><a href="{{ band.facebook }}">
-                        <i class="fab fa-facebook"></i>
-                            {{ band.facebook }}
-                      </a></p>
-                    {% endif %}
-                    {% if band.web %}
-                      <p><a href="{{ band.web }}">
-                        <i class="fas fa-globe"></i>
-                            {{ band.web }}
-                      </a></p>
-                    {% endif %}
+                    <div class="row">
+                        <div class="3u">
+                          <img src="{{ band.img }}" alt="{{band.name}} - Image missing?">
+                        </div>
+                        <div class="9u">
+                          <p>{{ band.blurb }}</p>
+                          {% if band.lineup %}
+                            <p>Lineup: {{ band.lineup }} </p>
+                          {% endif %}
+                          {% if band.facebook %}
+                            <p><a href="{{ band.facebook }}">
+                              <i class="fab fa-facebook"></i>
+                                  {{ band.facebook }}
+                            </a></p>
+                          {% endif %}
+                          {% if band.web %}
+                            <p><a href="{{ band.web }}">
+                              <i class="fas fa-globe"></i>
+                                  {{ band.web }}
+                            </a></p>
+                          {% endif %}
+                        </div>
+                      </div>
                   </li>
                 {% endif %}
               {% endfor %}
