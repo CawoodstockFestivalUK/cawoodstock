@@ -35,7 +35,7 @@
   kids-activity: true
   name: "Family Fun Night"
   description: |
-     Cawoodstock Quiz, Bingo, Play Your Cardas Right and Lotto Draw
+     Cawoodstock Quiz, Bingo, Play Your Cards Right, and Lotto Draw
   link:
   venue: "Cawood Park Caravan Site"
   venue-link: "https://www.yorkshireholidayparks.co.uk/cawood-holiday-park/about-cawood-park/"
@@ -58,3 +58,23 @@
   link: "bands#stryder-s-budgie"
   venue: "The Jolly Sailor Inn"
   venue-link: "venues#the-jolly-sailor"
+
+- start-time: 1600
+  end-time: 2000
+  kids-activity: true
+  name: "Evening Barbecue at the Ferry Inn"
+  description: |
+    Enjoy the Ferry's delicious home-cooked barbecue, no need to book, just drop in for some great food!
+  link: ""
+  venue: "The Ferry Inn"
+  venue-link: "venues#the-ferry-inn"
+
+- start-time: 1900
+  end-time: 2100
+  kids-activity: false
+  name: "Julian Socha"
+  description: |
+    Electric and Acoustic Guitarist Singer-Songwriter returns to the Ferry Inn, our opening artist for Cawoodstock 2019.
+  link: "bands#julian-socha"
+  venue: "The Ferry Inn"
+  venue-link: "venues#the-ferry-inn"

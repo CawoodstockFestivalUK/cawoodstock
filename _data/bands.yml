@@ -142,3 +142,11 @@
   facebook:
   web:
   playing-this-year: true
+
+- name: "Julian Socha"
+  blurb: "Electric and Acoustic Guitarist Singer-Songwriter"
+  img: "assets/images/julian-socha.jpg"
+  lineup: "Julian Socha"
+  facebook: "https://www.facebook.com/juliansochamusic/"
+  web:
+  playing-this-year: true
