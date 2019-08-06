@@ -24,8 +24,8 @@
   end-time: 2230
   kids-activity: true
   name: "Grease Movie Singalong In the Polytunnel"
-  description: "**BOOKING REQUIRED** - go to [link required!] to book"
-  link:
+  description: "<<- click the link to go to the event's own information page. **BOOKING REQUIRED** - this event was hugely popular last year so don't delay!"
+  link: "https://www.facebook.com/events/2345170045560529/"
   venue: "Grangeside Nurseries"
   venue-link: "venues#grangeside-nurseries"
 

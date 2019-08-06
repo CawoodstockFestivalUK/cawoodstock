@@ -69,8 +69,9 @@
   end-time: 2100
   kids-activity: false
   name: "Harrison Rimmer"
-  description:
-  link:
+  description: |
+    Celebrated local singer-songriter and jam session legend joins Cawoodstock for 2019
+  link: "https://www.facebook.com/harrison.rimmer"
   venue: "The Jolly Sailor Inn"
   venue-link: "venues#the-jolly-sailor"
 
@@ -98,8 +99,9 @@
   end-time: 1900
   kids-activity: false
   name: "Shab 'Elvis' Hussain"
-  description:
-  link:
+  description: |
+    Cawood's one and only Elvis impersonator returns to Cawoodstock for 2019, bringing the classic older rock'n'roll Sun Records-era Elvis to the Ski Club's stage, backed by a skiffle-style band.
+  link: "bands#shab-elvis-hussain"
   venue: "The White Cross Ski Club"
   venue-link: "venues#white-cross-waterski-club"
 
@@ -111,7 +113,7 @@
     Cawood Church will have a "Walking Through War 1939-1945" exhibition, remembering the 80th anniversary since the outbreak of World War 2. This will be on the following dates to coincide with the Cawoodstock event. Children's activities will be provided and refreshments served. Music from the period will add to the atmosphere of the event in our historic church.
   link:
   venue: "Cawood Church"
-  venue-link: 
+  venue-link:
 
 - start-time: 1200
   end-time: 2300

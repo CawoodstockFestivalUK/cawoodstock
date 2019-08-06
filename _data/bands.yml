@@ -16,11 +16,11 @@
 
 - name: "Shab 'Elvis' Hussain"
   blurb: "Cawood's own Elvis!"
-  img: "assets/images/shab.jpg"
-  lineup:
+  img: "assets/images/shab2.jpg"
+  lineup: "Shahab Hussain. Skiffle band: various members of The Sicknotes of Cawood"
   facebook: "https://www.facebook.com/shahab.hussain.399"
   web:
-  playing-this-year: false
+  playing-this-year: true
 
 - name: "Pop Friction"
   blurb: |
@@ -148,5 +148,13 @@
   img: "assets/images/julian-socha.jpg"
   lineup: "Julian Socha"
   facebook: "https://www.facebook.com/juliansochamusic/"
+  web:
+  playing-this-year: true
+
+- name: "Harrison Rimmer"
+  blurb: "Celebrated local singer-songriter and jam session legend joins Cawoodstock for 2019"
+  img: "assets/images/harrison-rimmer.jpg"
+  lineup: "Harrison Rimmer"
+  facebook: "https://www.facebook.com/harrison.rimmer"
   web:
   playing-this-year: true
