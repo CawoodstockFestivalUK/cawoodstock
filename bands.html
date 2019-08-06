@@ -12,7 +12,8 @@ layout: main
 				<div id="sidebar" class="3u sidebar">
 					<section>
 						<ul class="default">
-              {% for band in site.data.bands %}
+              {% assign bands = site.data.bands | sort: 'name' %}
+              {% for band in bands %}
                 {% if band.playing-this-year %}
                   <li><a href="#{{ band.name | slugify }}">{{ band.name }}</a></li>
                 {% endif %}
@@ -29,7 +30,7 @@ layout: main
 							<span class="byline">Bands on at Cawoodstock 2019</span>
 						</header>
             <ul>
-              {% for band in site.data.bands %}
+              {% for band in bands %}
                 {% if band.playing-this-year %}
                   <li>
                     <h3><a name="{{ band.name | slugify }}">{{ band.name }}</a></h3>
