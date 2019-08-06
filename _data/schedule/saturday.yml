@@ -30,7 +30,7 @@
   venue-link: "venues#grangeside-nurseries"
 
 - start-time: 2045
-  end-time:
+  end-time: 2330
   kids-activity: false
   name: "GENETICS"
   description: |
@@ -92,9 +92,8 @@
 - start-time: 2100
   end-time: 2300
   kids-activity: false
-  name: "Julian Socha"
-  description: |
-    Electric and Acoustic Guitarist Singer-Songwriter Julian Socha returns to the Ferry Inn for the opening night of Cawoodstock
-  link: "https://www.facebook.com/events/2456711207882203/"
+  name: "Stryder's Budgie"
+  description:
+  link: "bands#stryder-s-budgie"
   venue: "The Ferry Inn"
   venue-link: "venues#the-ferry-inn"
