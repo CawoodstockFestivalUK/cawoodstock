@@ -82,9 +82,18 @@
 - start-time: 1200
   end-time: 2300
   kids-activity: true
-  name: "Outdoor Gin and Real Ales Fest @ Cawoodstock"
+  name: "Family Day, with Outdoor Gin and Real Ales Fest @ Cawoodstock"
   description: |
     All-day Gin and Real Ales stands outdoors at the Castle Inn, with outdoor performances, face painting, and charity photo booth!
   link:
   venue: "The Castle Inn"
   venue-link: "venues#the-castle-inn"
+
+- start-time: 2100
+  end-time: 2300
+  kids-activity: false
+  name: "Stryder's Budgie"
+  description:
+  link: "bands#stryder-s-budgie"
+  venue: "The Ferry Inn"
+  venue-link: "venues#the-ferry-inn"

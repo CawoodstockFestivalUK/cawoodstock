@@ -41,11 +41,20 @@
   venue-link: "https://www.yorkshireholidayparks.co.uk/cawood-holiday-park/about-cawood-park/"
 
 - start-time: 2100
-  end-time:
+  end-time: 2200
   kids-activity: false
   name: "Kit Frost"
   description: |
     Piano and vocals from Cawood's own Kit Frost, covering jazz, soul, and R&B classics
   link: "bands#kit-frost"
+  venue: "The Jolly Sailor Inn"
+  venue-link: "venues#the-jolly-sailor"
+
+- start-time: 2200
+  end-time: late
+  kids-activity: false
+  name: "Stryder's Budgie"
+  description:
+  link: "bands#stryder-s-budgie"
   venue: "The Jolly Sailor Inn"
   venue-link: "venues#the-jolly-sailor"
