@@ -63,10 +63,11 @@
   end-time: 2000
   kids-activity: false
   name: "GlamChop"
-  description:
-  link:           (to bands or other event pages for further info)
-  venue:          (optional) (will eventually link through to venues page)
-  venue-link:     (optional - venue information link)
+  description: |
+    Glam Chop is a four-piece covers band, comprising Graham, Laura, Stewart and Marc, with a varied repertoire to get you singing along and tapping your toes!
+  link: "bands#glamchop"
+  venue: "The Jolly Sailor Inn"
+  venue-link: "venues#the-jolly-sailor"
 
 - start-time: 1400
   end-time: 1600
@@ -84,6 +85,6 @@
   name: "Outdoor Gin and Real Ales Fest @ Cawoodstock"
   description: |
     All-day Gin and Real Ales stands outdoors at the Castle Inn, with outdoor performances, face painting, and charity photo booth!
-  link: 
+  link:
   venue: "The Castle Inn"
   venue-link: "venues#the-castle-inn"

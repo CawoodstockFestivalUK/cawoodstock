@@ -92,11 +92,11 @@
 
 - name: "Glamchop"
   blurb: "Rock/pop and oldies"
-  img:
+  img: "assets/images/glamchop.jpg"
   lineup:
-  facebook:
+  facebook: https://www.facebook.com/GlamChopCoversBand/
   web:
-  playing-this-year: false
+  playing-this-year: true
 
 - name: "Mark Byrne"
   blurb:
