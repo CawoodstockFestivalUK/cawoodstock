@@ -11,7 +11,7 @@
 #   venue-link:     (optional - venue information link)
 
 - start-time: 2100
-  end-time:
+  end-time: 2330
   kids-activity: false
   name: "The Sicknotes Of Cawood"
   description: |
@@ -31,12 +31,12 @@
   venue-link: "venues#the-jolly-sailor"
 
 - start-time: 2030
-  end-time:
+  end-time: 2300
   kids-activity: true
   name: "Family Fun Night"
   description: |
      Cawoodstock Quiz, Bingo, Play Your Cards Right, and Lotto Draw
-  link:
+  link: "#"
   venue: "Cawood Park Caravan Site"
   venue-link: "https://www.yorkshireholidayparks.co.uk/cawood-holiday-park/about-cawood-park/"
 
@@ -51,7 +51,7 @@
   venue-link: "venues#the-jolly-sailor"
 
 - start-time: 2200
-  end-time: late
+  end-time: 2330
   kids-activity: false
   name: "Stryder's Budgie"
   description:
