@@ -97,3 +97,12 @@
   link: "bands#stryder-s-budgie"
   venue: "The Ferry Inn"
   venue-link: "venues#the-ferry-inn"
+
+- start-time: 1800
+  end-time: 1930
+  kids-activity:
+  name: "Pineapple Head"
+  description: "A new band to Cawoodstock, but featuring the familiar cheeky face of Gaz Rowntree, this multi-instrumentalist duo promise they are 'two half wits that almost play the same song at the same time'!"
+  link: "bands#pineapple-head"
+  venue: "The Ferry Inn"
+  venue-link: "venues#the-ferry-inn"
