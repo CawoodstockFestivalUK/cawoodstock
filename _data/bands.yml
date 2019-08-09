@@ -36,7 +36,7 @@
     Rockabilly, rock, and pop covers in their own famous 'ramshackle' style - from pop tunes to danceable swing-a-billy and cool sultry jazz
   img: "assets/images/sicknotes.jpg"
   lineup: |
-    Gaz Rowntree (Drums), Kerrie Hewick (Vocals, Tanbourine), Marcus Baw (Guitar), Patrick Morris (Double Bass)
+    Gaz Rowntree (Drums), Kerrie Hewick (Vocals, Tambourine), Marcus Baw (Guitar), Patrick Morris (Double Bass)
   facebook: "https://www.facebook.com/SicknotesOfCawood/"
   web:
   playing-this-year: true
@@ -66,10 +66,10 @@
   web:
   playing-this-year: false
 
-- name: "Strider's Budgie"
-  blurb: "Guitar-based rock and blues with wailing blues-harp and vocals"
-  img:
-  lineup: "Billy, Paul, Ben, John, Richard"
+- name: "Stryder's Budgie"
+  blurb: "A lump of cosmic froak right in your ears"
+  img: "assets/images/stryders-budgie.jpg"
+  lineup: "John Budgie, Paul Budgie, Billy Budgie, Ben Budgie, Richard Budgie"
   facebook: "https://www.facebook.com/paul.featherstone.1441"
   web:
   playing-this-year: true
@@ -134,15 +134,6 @@
   web:
   playing-this-year: true
 
-- name: "Stryder's Budgie"
-  blurb: |
-    Talented and raucous local blues band, with blues harp
-  img: "assets/images/striders-budgie.jpg"
-  lineup: "John Hewick, Ben Arblaster, Paul Featherstone, Billy , Richard Bogie"
-  facebook:
-  web:
-  playing-this-year: true
-
 - name: "Julian Socha"
   blurb: "Electric and Acoustic Guitarist Singer-Songwriter"
   img: "assets/images/julian-socha.jpg"
@@ -156,5 +147,58 @@
   img: "assets/images/harrison-rimmer.jpg"
   lineup: "Harrison Rimmer"
   facebook: "https://www.facebook.com/harrison.rimmer"
+  web:
+  playing-this-year: true
+
+- name: "Miles Salter"
+  blurb: |
+    Miles Salter heads up Miles and The Chain Gang and plays acoustically in North Yorkshire. He is also a writer, poet and events manager. Miles takes his cues from Bruce Springsteen, Van Morrison, Bob Dylan and more.
+  img: "assets/images/miles-salter.jpg"
+  lineup: "Miles Salter"
+  facebook: "https://www.facebook.com/miles.salter.9"
+  web:
+  playing-this-year: true
+
+- name: "Deb Simpson"
+  blurb: |
+    original and cover songs in the style of Joan Baez, Joni Mitchell, Sandy Denny and others of the 60's folk revival era. A part of York's music scene for just over 4 years, although she has played and sung for most of her life.
+  img: "assets/images/debra-simpson.jpg"
+  lineup: "Deb Simpson"
+  facebook: "https://www.facebook.com/debra.simpson.79"
+  web:
+  playing-this-year: true
+
+- name: "No Debris"
+  blurb: |
+   a York and Selby based trio of vocals, guitars, mandolin, harmonica, cajon and the occasional toot of treble recorder. Along with some original stuff we also cover the likes of The Eagles, Creedence Clearwater Revival, Simon & Garfunkel, Nanci Griffiths, Bob Dylan and more.
+  img: "assets/images/folk-ish.png"
+  lineup: "Deb Simpson, Brian Worrall and Dave Hume"
+  facebook:
+  web:
+  playing-this-year: true
+
+- name: "Folk-ish"
+  blurb: |
+    original and cover songs in the style of Joan Baez, Joni Mitchell, Sandy Denny and others of the 60's folk revival era. A part of York's music scene for just over 4 years, although she has played and sung for most of her life.
+  img: "assets/images/folk-ish.png"
+  lineup:
+  facebook: "https://www.facebook.com/folkish1"
+  web:
+  playing-this-year: true
+
+- name: "Waifs n Strays"
+  blurb: |
+    Since forming in early 2016 Waifs & Strays have played at a number of events at local venues in and around York.
+  img: "assets/images/waifs-n-strays.jpg"
+  lineup: "Diane Neville-Beck, Maria Parks, JJ Langley, Kate Scott-Huges, Reid B"
+  facebook: "https://www.facebook.com/waifsandstraysyork/"
+  web:
+  playing-this-year: true
+
+- name: "Ryan Ellerby"
+  blurb: |
+  img: "assets/images/ryan-ellerby.jpg"
+  lineup: 
+  facebook: "https://www.facebook.com/RME207/"
   web:
   playing-this-year: true

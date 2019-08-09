@@ -77,7 +77,7 @@
   img: "assets/images/cawood-park.jpg"
   participating: true
 
-- name: "The Old Boys' School"
+- name: "Cawood Old Boys' School"
   blurb: |
     The Old Boys' School is used as a community centre and village hall for Cawood
   web: "https://www.facebook.com/Cawood-Old-Boys-School-192183871361101/"
@@ -88,7 +88,7 @@
   participating: true
 
 - name: "Cawood All Saints' Church"
-  blurb: 
+  blurb:
   web: "http://www.allsaintscawood.org.uk/"
   phone:
   address: "All Saints Church, Church End, Cawood, YO8 3SN"

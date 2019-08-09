@@ -1,33 +1,12 @@
 # SATURDAY SCHEDULE DATA
 
-# DATA TEMPLATE
-# - start-time:     (mandatory - will be ordered by start time automatically)
-#   end-time:       (optional)
-#   kids-activity:  (default false. if true will display Kids Activity icon)
-#   name:           (optional, but highly recommended!)
-#   description:    (optional)
-#   link:           (to bands or other event pages for further info)
-#   venue:          (optional) (will eventually link through to venues page)
-#   venue-link:     (optional - venue information link)
-
-- start-time: 2100
-  end-time: "late"
-  kids-activity: false
-  name: "The Sicknotes Of Cawood"
-  description: |
-    The Sicknotes return to their home venue bringing more of their Ramshackle Sound and unusual blend of rockabilly, jazz, blues and pop.
-  link:
-  venue: "The Jolly Sailor Inn"
-  venue-link: "venues#the-jolly-sailor"
-
 - start-time: 2100
   end-time: 2330
   kids-activity: true
   name: "Grease Movie Singalong In the Polytunnel"
-  description: "^^^ click the link to go to the event's own information page. **BOOKING REQUIRED** - this event was hugely popular last year so don't delay!"
+  description: "^^^ click the link to go to the event's own information page. **BOOKING REQUIRED** - Singalong Cinema was hugely popular last year so don't delay!"
   link: "https://www.facebook.com/events/2345170045560529/"
   venue: "Grangeside Nurseries"
-  venue-link: "venues#grangeside-nurseries"
 
 - start-time: 2045
   end-time: 2330
@@ -37,37 +16,42 @@
     Something a little bit diﬀerent, as always very talented and as always entertaining, but its really not very often we bring a father and daughter duo to the stage, but tonight we do just that! GENETICS are a superb keyboards and vocal duo. A little bit of something for everyone on the set list too.
   link:
   venue: "Cawood Park Caravan Site"
-  venue-link: "https://www.yorkshireholidayparks.co.uk/cawood-holiday-park/about-cawood-park/"
 
 - start-time: 1300
-  end-time: 1600
+  end-time: 1500
   kids-activity: true
-  name: "Acoustic Jamming Session"
+  name: "Open Acoustic Jam & Singalong Session"
   description: |
-    All are welcome for a very informal, very relaxed acoustic jamming session. Any non-amplified instrument, any kind of music, those who wish to will take in turns to lead a jam, everybody's encouraged to join in and play along. Singers also welcome, let's have a big afternoon jam!
-  link:
-  venue: "The Jolly Sailor Inn"
-  venue-link: "venues#the-jolly-sailor"
+    All are welcome for a very informal, very relaxed acoustic jamming session. Come all ye singers! Join with (non-amplified) instruments, singing and playing any kind of music. Everybody's encouraged to join in and play along, let's have a big afternoon jam!
+  link: ""
+  venue: "The Jolly Sailor"
 
 - start-time: 1600
-  end-time: 1800
+  end-time: 1730
   kids-activity: false
   name: "KAYA - Band"
   description: |
     Great local band who have played Cawoodstock before, returning to rock the house once again
   link: "bands#kaya"
-  venue: "The Jolly Sailor Inn"
-  venue-link: "venues#the-jolly-sailor"
+  venue: "The Jolly Sailor"
 
-- start-time: 1800
-  end-time: 2000
+- start-time: 1830
+  end-time: 2030
   kids-activity: false
   name: "GlamChop"
   description: |
     Glam Chop is a four-piece covers band, comprising Graham, Laura, Stewart and Marc, with a varied repertoire to get you singing along and tapping your toes!
   link: "bands#glamchop"
-  venue: "The Jolly Sailor Inn"
-  venue-link: "venues#the-jolly-sailor"
+  venue: "The Jolly Sailor"
+
+- start-time: 2100
+  end-time: "late"
+  kids-activity: false
+  name: "The Sicknotes Of Cawood"
+  description: |
+    The Sicknotes return to their home venue bringing more of their Ramshackle Sound and unusual blend of rockabilly, jazz, blues and pop.
+  link:
+  venue: "The Jolly Sailor"
 
 - start-time: 1400
   end-time: 1600
@@ -75,9 +59,8 @@
   name: "Cawood Brownies & Rainbows"
   description: |
     Children's creative activities for all ages including sand art (back by popular request!), face painting, glitter tattoos & homemade refreshments
-  link:
+  link: ""
   venue: "Cawood Old Boys' School"
-  venue-link: "venues#old-boys-school"
 
 - start-time: 1200
   end-time: 2300
@@ -85,18 +68,17 @@
   name: "Family Day, with Outdoor Gin and Real Ales Fest @ Cawoodstock"
   description: |
     All-day Gin and Real Ales stands outdoors at the Castle Inn, with outdoor performances, face painting, and charity photo booth!
-  link:
+  link: ""
   venue: "The Castle Inn"
-  venue-link: "venues#the-castle-inn"
 
 - start-time: 2100
   end-time: 2300
   kids-activity: false
   name: "Stryder's Budgie"
-  description:
+  description: |
+    A lump of cosmic froak right in your ears
   link: "bands#stryder-s-budgie"
   venue: "The Ferry Inn"
-  venue-link: "venues#the-ferry-inn"
 
 - start-time: 1800
   end-time: 1930
@@ -105,4 +87,3 @@
   description: "A new band to Cawoodstock, but featuring the familiar cheeky face of Gaz Rowntree, this multi-instrumentalist duo promise they are 'two half wits that almost play the same song at the same time'!"
   link: "bands#pineapple-head"
   venue: "The Ferry Inn"
-  venue-link: "venues#the-ferry-inn"

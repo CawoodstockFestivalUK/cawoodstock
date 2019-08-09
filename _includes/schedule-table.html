@@ -7,7 +7,7 @@
       <p>{{ event.description }}</p>
     </td>
     <td>
-      <a href="{{ event.venue-link }}">{{ event.venue }}</a>
+      <a href="venues#{{ event.venue | slugify }}">{{ event.venue }}</a>
     </td>
   </tr>
 {% endfor %}
