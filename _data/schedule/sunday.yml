@@ -19,11 +19,19 @@
   venue: "White Cross Waterski Club"
 
 - start-time: 1500
-  end-time: 1700
+  end-time: 1600
   kids-activity: true
   name: "The Yorkuleles"
   description: "York's famous ukulele club return to Cawoodstock and the Ski Club, with their grand ukulele orchestra to play hits and singalongs for all the family"
   link: "bands#the-yorkuleles"
+  venue: "White Cross Waterski Club"
+
+- start-time: 1500
+  end-time: 1600
+  kids-activity: true
+  name: "Michael Collinson"
+  description: "Michael Collinson from The Lights acoustic duo plays us an acoustic solo set"
+  link: "bands#michael-collinson"
   venue: "White Cross Waterski Club"
 
 - start-time: 1700
@@ -32,7 +40,15 @@
   name: "Hannah and the Enchanted Harp"
   description: |
     Hannah and her Enchanted harp will entertain and transport young children into a wonderful fairy world with live harp music, singing, dancing, stories and bubbles! Dressing up is encouraged!
-  link:
+  link: "bands#hannah-and-the-enchanted-harp"
+  venue: "White Cross Waterski Club"
+
+- start-time: 1400
+  end-time: 2300
+  kids-activity: true
+  name: "Family Fun day at White Cross Ski Club"
+  description: "Boat rides 2pm-5pm then prebookable booze cruises 5:30 till 7pm. Licenced bar, food by the Pickled Postie and fairy crafting fun."
+  link: "venues#white-cross-waterski-club"
   venue: "White Cross Waterski Club"
 
 - start-time: 1800
@@ -100,9 +116,10 @@
 - start-time: 1730
   end-time: 1930
   kids-activity: false
-  name: "Open Mic"
+  name: "Open Mic Session"
   description: |
-  link:
+    Bring your instruments and your favourite party piece and wow the Cawoodstock crowd with your open mic spotlight!
+  link: "venues#the-jolly-sailor"
   venue: "The Jolly Sailor"
 
 - start-time: 2000
@@ -134,7 +151,7 @@
 - start-time: 1200
   end-time: 2300
   kids-activity: true
-  name: "Outdoor Gin and Real Ales Fest @ Cawoodstock"
+  name: "Family Day, with Outdoor Gin and Real Ales Fest @ Cawoodstock"
   description: |
     All-day Gin and Real Ales stands outdoors at the Castle Inn, with outdoor performances, face painting, and charity photo booth!
   link:

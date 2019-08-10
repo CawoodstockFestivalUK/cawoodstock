@@ -7,7 +7,7 @@
   playing-this-year: false
 
 - name: "Michael Stanns (Ryan Shaw Music)"
-  blurb: "assets/images/ryanshaw.jpg"
+  blurb: "ryanshaw.jpg"
   img:
   lineup:
   facebook: "https://www.facebook.com/ryan.shaw.16568"
@@ -16,7 +16,7 @@
 
 - name: "Shab 'Elvis' Hussain"
   blurb: "Cawood's own Elvis!"
-  img: "assets/images/shab2.jpg"
+  img: "shab2.jpg"
   lineup: "Shahab Hussain. Skiffle band: various members of The Sicknotes of Cawood"
   facebook: "https://www.facebook.com/shahab.hussain.399"
   web:
@@ -25,7 +25,7 @@
 - name: "Pop Friction"
   blurb: |
     Edgy, current and different are all words that can be used to describe POP FRICTION. A great female fronted pop trio - Great vocals and an  awesome display of musicianship on guitar too. Dancing shoes at the ready
-  img: "assets/images/popfriction.jpg"
+  img: "popfriction.jpg"
   lineup:
   facebook: "https://www.facebook.com/pg/popfrictionband/"
   web:
@@ -34,7 +34,7 @@
 - name: "The Sicknotes"
   blurb: |
     Rockabilly, rock, and pop covers in their own famous 'ramshackle' style - from pop tunes to danceable swing-a-billy and cool sultry jazz
-  img: "assets/images/sicknotes.jpg"
+  img: "sicknotes.jpg"
   lineup: |
     Gaz Rowntree (Drums), Kerrie Hewick (Vocals, Tambourine), Marcus Baw (Guitar), Patrick Morris (Double Bass)
   facebook: "https://www.facebook.com/SicknotesOfCawood/"
@@ -43,7 +43,7 @@
 
 - name: "the Yorkuleles"
   blurb: "York-based Ukulele Club and Orchestra"
-  img: "assets/images/yorkuleles.jpg"
+  img: "yorkuleles.jpg"
   lineup:
   facebook: "https://www.facebook.com/yorkuleles/"
   web: "https://www.yorkuleles.co.uk"
@@ -52,7 +52,7 @@
 - name: "Disco Factor"
   blurb: |
     Some of the best disco tunes to have made their way on to the radio at the height of the Disco era. Disco Factor are a choreographed group with 2 girls and 1 guy who just love to entertain. If these don’t get you on the dance floor, nothing will!
-  img: "assets/images/discofactor.jpg"
+  img: "discofactor.jpg"
   lineup:
   facebook: "https://www.facebook.com/discofactor/"
   web:
@@ -68,7 +68,7 @@
 
 - name: "Stryder's Budgie"
   blurb: "A lump of cosmic froak right in your ears"
-  img: "assets/images/stryders-budgie.jpg"
+  img: "stryders-budgie.jpg"
   lineup: "John Budgie, Paul Budgie, Billy Budgie, Ben Budgie, Richard Budgie"
   facebook: "https://www.facebook.com/paul.featherstone.1441"
   web:
@@ -76,7 +76,7 @@
 
 - name: "The Renames"
   blurb: "Soft and country rock favourites plus a few of our own songs thrown in"
-  img: "assets/images/renames.jpg"
+  img: "renames.jpg"
   lineup:
   facebook: "https://www.facebook.com/pg/theremainsyork/posts/?ref=page_internal"
   web:
@@ -84,7 +84,7 @@
 
 - name: "Kit Frost"
   blurb: "Cawoodian jazzy piano and vocals covering modern classics and jazz greats"
-  img: "assets/images/kit-frost.jpg"
+  img: "kit-frost.jpg"
   lineup: "Kit Frost"
   facebook: "https://www.facebook.com/KitFrostmusic/"
   web:
@@ -92,7 +92,7 @@
 
 - name: "Glamchop"
   blurb: "Rock/pop and oldies"
-  img: "assets/images/glamchop.jpg"
+  img: "glamchop.jpg"
   lineup:
   facebook: https://www.facebook.com/GlamChopCoversBand/
   web:
@@ -100,7 +100,7 @@
 
 - name: "Mark Byrne"
   blurb:
-  img: "assets/images/markbyrne.jpg"
+  img: "markbyrne.jpg"
   lineup:
   facebook: "https://www.facebook.com/dearmarkbyrne"
   web:
@@ -109,7 +109,7 @@
 - name: "KAYA"
   blurb: |
     KAYA are a new and innovative band who are pushing the boundaries of contemporary and popular music. They play original material with catchy, melodic, sharp and generally joyful songs, designed to lift the audience's spirits, interspersed with classic covers.
-  img: "assets/images/kaya.jpg"
+  img: "kaya.jpg"
   lineup:
   facebook: "https://www.facebook.com/KayaBandOfficial/"
   web:
@@ -118,7 +118,7 @@
 - name: "Pineapple Head"
   blurb: |
     An attempt to play complicated music by buffoons with all the commitment but exactly half the talent required. Their attempts are usually thwarted by improvisation they just can't help doing, mashups and mistakes that have them in stitches.
-  img: "assets/images/pineapple-head.jpg"
+  img: "pineapple-head.jpg"
   lineup: |
     Ben Styles: vocals, guitars (both long and short with varying numbers of strings) synths and looping. Gaz Rowntree: vocals, guitars, harmonica, synths and live loop workstation.
   facebook: "https://www.facebook.com/TheOnlyPineAppleHead/"
@@ -128,7 +128,7 @@
 - name: "Hannah and the Enchanted Harp"
   blurb: |
     Teacher and Musician - although called 'Hannah the Harp', I also sing, and play piano too! Teaching all ages harp and piano. Also available for weddings/ events - send a message to discuss how I can help you for your special day.
-  img: "assets/images/hannah-the-harp.jpg"
+  img: "hannah-the-harp.jpg"
   lineup: Hannah Luckins
   facebook: "https://www.facebook.com/HannahTheHarp/"
   web:
@@ -136,7 +136,7 @@
 
 - name: "Julian Socha"
   blurb: "Electric and Acoustic Guitarist Singer-Songwriter"
-  img: "assets/images/julian-socha.jpg"
+  img: "julian-socha.jpg"
   lineup: "Julian Socha"
   facebook: "https://www.facebook.com/juliansochamusic/"
   web:
@@ -144,7 +144,7 @@
 
 - name: "Harrison Rimmer"
   blurb: "Celebrated local singer-songriter and jam session legend joins Cawoodstock for 2019"
-  img: "assets/images/harrison-rimmer.jpg"
+  img: "harrison-rimmer.jpg"
   lineup: "Harrison Rimmer"
   facebook: "https://www.facebook.com/harrison.rimmer"
   web:
@@ -153,7 +153,7 @@
 - name: "Miles Salter"
   blurb: |
     Miles Salter heads up Miles and The Chain Gang and plays acoustically in North Yorkshire. He is also a writer, poet and events manager. Miles takes his cues from Bruce Springsteen, Van Morrison, Bob Dylan and more.
-  img: "assets/images/miles-salter.jpg"
+  img: "miles-salter.jpg"
   lineup: "Miles Salter"
   facebook: "https://www.facebook.com/miles.salter.9"
   web:
@@ -162,7 +162,7 @@
 - name: "Deb Simpson"
   blurb: |
     original and cover songs in the style of Joan Baez, Joni Mitchell, Sandy Denny and others of the 60's folk revival era. A part of York's music scene for just over 4 years, although she has played and sung for most of her life.
-  img: "assets/images/debra-simpson.jpg"
+  img: "debra-simpson.jpg"
   lineup: "Deb Simpson"
   facebook: "https://www.facebook.com/debra.simpson.79"
   web:
@@ -171,7 +171,7 @@
 - name: "No Debris"
   blurb: |
    a York and Selby based trio of vocals, guitars, mandolin, harmonica, cajon and the occasional toot of treble recorder. Along with some original stuff we also cover the likes of The Eagles, Creedence Clearwater Revival, Simon & Garfunkel, Nanci Griffiths, Bob Dylan and more.
-  img: "assets/images/folk-ish.png"
+  img: "folk-ish.png"
   lineup: "Deb Simpson, Brian Worrall and Dave Hume"
   facebook:
   web:
@@ -180,7 +180,7 @@
 - name: "Folk-ish"
   blurb: |
     original and cover songs in the style of Joan Baez, Joni Mitchell, Sandy Denny and others of the 60's folk revival era. A part of York's music scene for just over 4 years, although she has played and sung for most of her life.
-  img: "assets/images/folk-ish.png"
+  img: "folk-ish.png"
   lineup:
   facebook: "https://www.facebook.com/folkish1"
   web:
@@ -189,7 +189,7 @@
 - name: "Waifs n Strays"
   blurb: |
     Since forming in early 2016 Waifs & Strays have played at a number of events at local venues in and around York.
-  img: "assets/images/waifs-n-strays.jpg"
+  img: "waifs-n-strays.jpg"
   lineup: "Diane Neville-Beck, Maria Parks, JJ Langley, Kate Scott-Huges, Reid B"
   facebook: "https://www.facebook.com/waifsandstraysyork/"
   web:
@@ -197,8 +197,8 @@
 
 - name: "Ryan Ellerby"
   blurb: |
-  img: "assets/images/ryan-ellerby.jpg"
-  lineup: 
+  img: "ryan-ellerby.jpg"
+  lineup:
   facebook: "https://www.facebook.com/RME207/"
   web:
   playing-this-year: true

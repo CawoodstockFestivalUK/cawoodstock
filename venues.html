@@ -39,7 +39,7 @@ layout: main
                   <div class="row">
                     <div class="3u">
                       <a href="{{ venue.web }}">
-                      <img src="{{ venue.img }}" alt="{{ venue.name }} - Image missing?" width="200px"></a>
+                      <img src="assets/images/{{ venue.name | slugify }}.jpg" alt="{{ venue.name }} - No Image?" width="200px"></a>
                     </div>
                     <div class="9u">
                       <p>{{ venue.blurb }}</p>

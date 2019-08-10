@@ -16,7 +16,6 @@
   phone:
   address: "7 Wistowgate, Cawood, Selby YO8 3SH"
   location:
-  img: "assets/images/castle-freya.png"
   participating: true
 
 - name: "The Jolly Sailor"
@@ -26,7 +25,6 @@
   phone:
   address: "5 Market Place, Cawood YO8 3SR"
   location:
-  img: "assets/images/jolly-sailor.jpg"
   participating: true
 
 - name: "The Ferry Inn"
@@ -36,7 +34,6 @@
   phone:
   address: 2 King St, Cawood, Selby YO8 3TL
   location:
-  img: "assets/images/ferry-inn.jpg"
   participating: true
 
 - name: "White Cross Waterski Club"
@@ -46,7 +43,6 @@
   phone:
   address: "Rythergate, Cawood, Selby YO8 3TP"
   location:
-  img: "assets/images/skiclub.jpg"
   participating: true
 
 - name: "Grangeside Nurseries"
@@ -56,7 +52,6 @@
   phone:
   address: "Thorpe Lane, Cawood, YO8 3SG"
   location:
-  img: "assets/images/grangeside.jpg"
   participating: true
 
 - name: "The Pickled Postie"
@@ -65,7 +60,6 @@
   phone:
   address: "2 High St, Cawood, Selby YO8 3TH"
   location:
-  img: "assets/images/pickled-postie.jpg"
   participating: true
 
 - name: "Cawood Park Caravan Site"
@@ -74,7 +68,6 @@
   phone: "01757 268450"
   address: "Ryther Rd, Cawood, York YO8 3TT"
   location:
-  img: "assets/images/cawood-park.jpg"
   participating: true
 
 - name: "Cawood Old Boys' School"
@@ -84,7 +77,6 @@
   phone:
   address: "Old Boys School Lane, off Rythergate, YO8 3TY"
   location:
-  img: "assets/images/obs.jpg"
   participating: true
 
 - name: "Cawood All Saints' Church"
@@ -93,5 +85,4 @@
   phone:
   address: "All Saints Church, Church End, Cawood, YO8 3SN"
   location:
-  img: "assets/images/all-saints.jpg"
   participating: true
