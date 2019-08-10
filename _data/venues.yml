@@ -1,15 +1,5 @@
 # CAWOODSTOCK VENUES LIST
 
-# ***TEMPLATE***
-# - name:
-#   blurb:
-#   web:
-#   phone:
-#   address:
-#   location:
-#   img:
-#   participating: true
-
 - name: "The Castle Inn"
   web: "https://www.facebook.com/CastleInnPub"
   blurb:
