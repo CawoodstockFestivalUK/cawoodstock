@@ -211,3 +211,12 @@
   facebook: "https://www.facebook.com/michael.collinson.182"
   web:
   playing-this-year: true
+
+- name: "Peter Brown"
+  blurb: |
+    Lead singer and singer songwriter of Fool’s Mate. Playing a mix of his own material and Fool's Mate material, with choice covers in his own style.
+  img: "peter-brown.jpg"
+  lineup:
+  facebook: "https://www.facebook.com/peter.brown.5439"
+  web: "https://www.facebook.com/Foolsmateband/"
+  playing-this-year: true

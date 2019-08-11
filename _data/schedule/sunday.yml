@@ -107,10 +107,10 @@
 - start-time: 1600
   end-time: 1700
   kids-activity: false
-  name: "Peter Brown from Fool's Mate"
+  name: "Peter Brown"
   description: |
-    Peter Brown sings and plays guitar with Fool's Mate!!! Which are well known around here!!! They play folk and popular covers
-  link:
+    Lead singer and singer songwriter of Fool’s Mate. Playing a mix of his own material and Fool's Mate material, with choice covers in his own style.
+  link: "bands#peter-brown"
   venue: "The Jolly Sailor"
 
 - start-time: 1730

@@ -17,13 +17,22 @@
   link:
   venue: "Cawood Park Caravan Site"
 
-- start-time: 1300
-  end-time: 1500
+- start-time: 1100
+  end-time: 1400
   kids-activity: true
   name: "Open Acoustic Jam & Singalong Session"
   description: |
     All are welcome for a very informal, very relaxed acoustic jamming session. Come all ye singers! Join with (non-amplified) instruments, singing and playing any kind of music. Everybody's encouraged to join in and play along, let's have a big afternoon jam!
   link: ""
+  venue: "The Jolly Sailor"
+
+- start-time: 1400
+  end-time: 1530
+  kids-activity: false
+  name: "The Renames"
+  description: |
+    Another top local band who have played Cawoodstock before, last time they created a great atmosphere at the Ski Club in 2018, back again this time in the Jolly
+  link: "bands#the-renames"
   venue: "The Jolly Sailor"
 
 - start-time: 1600
