@@ -41,6 +41,17 @@ body, input, select, textarea {
   list-style: none
 }
 
+#print .time th {
+  width: 500px;
+}
+
+#print .event th {
+
+}
+
+#print .venue th {
+
+}
 .sold {
   color: #e52746;
 }
