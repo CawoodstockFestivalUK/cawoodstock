@@ -75,12 +75,13 @@
   playing-this-year: true
 
 - name: "The Renames"
-  blurb: "Soft and country rock favourites plus a few of our own songs thrown in"
+  blurb: |
+    Local York band, popular around the local pub and festival circuit. Mathilde, Dan and Derek look forward to returning to Cawoodstock again this year.
   img: "renames.jpg"
   lineup:
-  facebook: "https://www.facebook.com/pg/theremainsyork/posts/?ref=page_internal"
+  facebook: "https://www.facebook.com/therenamesyork/"
   web:
-  playing-this-year: false
+  playing-this-year: true
 
 - name: "Kit Frost"
   blurb: "Cawoodian jazzy piano and vocals covering modern classics and jazz greats"
