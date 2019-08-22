@@ -1,4 +1,6 @@
 # SUNDAY SCHEDULE DATA
+# * venue relative links are inferred: "venues#slugified-venue-name"
+
 
 - start-time: 1400
   end-time: 1500
@@ -162,6 +164,6 @@
   kids-activity: true
   name: "Breakfast Jazz @ The Postie"
   description: |
-    Live jazz with The Bousfield International Trio, while you savour a lavish full cooked breakfast at Cawood's local foodie HQ. BOOKING ESSENTIAL - capacity is limited so to avoid disappointment, book in person at the Pickled Postie, or contact them via Facebook.
+    Live jazz with The Other Bousfield International Jazz Trio, while you savour a lavish full cooked breakfast at Cawood's local foodie HQ. BOOKING ESSENTIAL - capacity is very limited so to avoid disappointment, book in person at the Pickled Postie, or contact them via Facebook.
   link: "https://www.facebook.com/events/352548638992396/"
   venue: "The Pickled Postie"

@@ -1,6 +1,11 @@
+# * The NAME field (slugified) will be used to create an anchor on the bands page
+# * If you set PLAYING THIS YEAR to false then the band won't show on the page
+# * DON'T REMOVE BANDS, JUST DISABLE THEM AS ABOVE
+# * Image relative path is inferred: "lower-case-slugified-band-name.jpg"
+
+
 - name: "Natural Antagonists"
   blurb: "a blend of melodic guitar and vocal harmonies performing original and well-known material"
-  img:
   lineup:
   facebook:
   web:
@@ -8,7 +13,6 @@
 
 - name: "Michael Stanns (Ryan Shaw Music)"
   blurb: "ryanshaw.jpg"
-  img:
   lineup:
   facebook: "https://www.facebook.com/ryan.shaw.16568"
   web:
@@ -16,7 +20,6 @@
 
 - name: "Shab 'Elvis' Hussain"
   blurb: "Cawood's own Elvis!"
-  img: "shab2.jpg"
   lineup: "Shahab Hussain. Skiffle band: various members of The Sicknotes of Cawood"
   facebook: "https://www.facebook.com/shahab.hussain.399"
   web:
@@ -25,7 +28,6 @@
 - name: "Pop Friction"
   blurb: |
     Edgy, current and different are all words that can be used to describe POP FRICTION. A great female fronted pop trio - Great vocals and an  awesome display of musicianship on guitar too. Dancing shoes at the ready
-  img: "popfriction.jpg"
   lineup:
   facebook: "https://www.facebook.com/pg/popfrictionband/"
   web:
@@ -34,7 +36,6 @@
 - name: "The Sicknotes"
   blurb: |
     Rockabilly, rock, and pop covers in their own famous 'ramshackle' style - from pop tunes to danceable swing-a-billy and cool sultry jazz
-  img: "sicknotes.jpg"
   lineup: |
     Gaz Rowntree (Drums), Kerrie Hewick (Vocals, Tambourine), Marcus Baw (Guitar), Patrick Morris (Double Bass)
   facebook: "https://www.facebook.com/SicknotesOfCawood/"
@@ -43,7 +44,6 @@
 
 - name: "the Yorkuleles"
   blurb: "York-based Ukulele Club and Orchestra"
-  img: "yorkuleles.jpg"
   lineup:
   facebook: "https://www.facebook.com/yorkuleles/"
   web: "https://www.yorkuleles.co.uk"
@@ -52,7 +52,6 @@
 - name: "Disco Factor"
   blurb: |
     Some of the best disco tunes to have made their way on to the radio at the height of the Disco era. Disco Factor are a choreographed group with 2 girls and 1 guy who just love to entertain. If these don’t get you on the dance floor, nothing will!
-  img: "discofactor.jpg"
   lineup:
   facebook: "https://www.facebook.com/discofactor/"
   web:
@@ -60,15 +59,14 @@
 
 - name: "Band Formed Of Members Of The Bands Formerly Known As Kingzilla and Honeybuzzard"
   blurb: "Guitar-based rock and blues with wailing blues-harp and vocals"
-  img:
   lineup:
   facebook: "https://www.facebook.com/paul.featherstone.1441"
   web:
   playing-this-year: false
+  # this band is now called Stryder's Budgie
 
 - name: "Stryder's Budgie"
   blurb: "A lump of cosmic froak right in your ears"
-  img: "stryders-budgie.jpg"
   lineup: "John Budgie, Paul Budgie, Billy Budgie, Ben Budgie, Richard Budgie"
   facebook: "https://www.facebook.com/paul.featherstone.1441"
   web:
@@ -77,7 +75,6 @@
 - name: "The Renames"
   blurb: |
     Local York band, popular around the local pub and festival circuit. Mathilde, Dan and Derek look forward to returning to Cawoodstock again this year.
-  img: "renames.jpg"
   lineup:
   facebook: "https://www.facebook.com/therenamesyork/"
   web:
@@ -85,7 +82,6 @@
 
 - name: "Kit Frost"
   blurb: "Cawoodian jazzy piano and vocals covering modern classics and jazz greats"
-  img: "kit-frost.jpg"
   lineup: "Kit Frost"
   facebook: "https://www.facebook.com/KitFrostmusic/"
   web:
@@ -93,15 +89,14 @@
 
 - name: "Glamchop"
   blurb: "Rock/pop and oldies"
-  img: "glamchop.jpg"
   lineup:
   facebook: https://www.facebook.com/GlamChopCoversBand/
   web:
   playing-this-year: true
 
 - name: "Mark Byrne"
-  blurb:
-  img: "markbyrne.jpg"
+  blurb: |
+    Mark Byrne, natively Scottish but adopted and naturalised to Cawood, is a hugely talented, enthusiastic and yet almost studiously elusive musician. He hasn't given me a blurb about him, so I just made one up.
   lineup:
   facebook: "https://www.facebook.com/dearmarkbyrne"
   web:
@@ -110,7 +105,6 @@
 - name: "KAYA"
   blurb: |
     KAYA are a new and innovative band who are pushing the boundaries of contemporary and popular music. They play original material with catchy, melodic, sharp and generally joyful songs, designed to lift the audience's spirits, interspersed with classic covers.
-  img: "kaya.jpg"
   lineup:
   facebook: "https://www.facebook.com/KayaBandOfficial/"
   web:
@@ -119,7 +113,6 @@
 - name: "Pineapple Head"
   blurb: |
     An attempt to play complicated music by buffoons with all the commitment but exactly half the talent required. Their attempts are usually thwarted by improvisation they just can't help doing, mashups and mistakes that have them in stitches.
-  img: "pineapple-head.jpg"
   lineup: |
     Ben Styles: vocals, guitars (both long and short with varying numbers of strings) synths and looping. Gaz Rowntree: vocals, guitars, harmonica, synths and live loop workstation.
   facebook: "https://www.facebook.com/TheOnlyPineAppleHead/"
@@ -129,7 +122,6 @@
 - name: "Hannah and the Enchanted Harp"
   blurb: |
     Teacher and Musician - although called 'Hannah the Harp', I also sing, and play piano too! Teaching all ages harp and piano. Also available for weddings/ events - send a message to discuss how I can help you for your special day.
-  img: "hannah-the-harp.jpg"
   lineup: Hannah Luckins
   facebook: "https://www.facebook.com/HannahTheHarp/"
   web:
@@ -137,7 +129,6 @@
 
 - name: "Julian Socha"
   blurb: "Electric and Acoustic Guitarist Singer-Songwriter"
-  img: "julian-socha.jpg"
   lineup: "Julian Socha"
   facebook: "https://www.facebook.com/juliansochamusic/"
   web:
@@ -145,7 +136,6 @@
 
 - name: "Harrison Rimmer"
   blurb: "Celebrated local singer-songriter and jam session legend joins Cawoodstock for 2019"
-  img: "harrison-rimmer.jpg"
   lineup: "Harrison Rimmer"
   facebook: "https://www.facebook.com/harrison.rimmer"
   web:
@@ -154,7 +144,6 @@
 - name: "Miles Salter"
   blurb: |
     Miles Salter heads up Miles and The Chain Gang and plays acoustically in North Yorkshire. He is also a writer, poet and events manager. Miles takes his cues from Bruce Springsteen, Van Morrison, Bob Dylan and more.
-  img: "miles-salter.jpg"
   lineup: "Miles Salter"
   facebook: "https://www.facebook.com/miles.salter.9"
   web:
@@ -163,7 +152,6 @@
 - name: "Deb Simpson"
   blurb: |
     original and cover songs in the style of Joan Baez, Joni Mitchell, Sandy Denny and others of the 60's folk revival era. A part of York's music scene for just over 4 years, although she has played and sung for most of her life.
-  img: "debra-simpson.jpg"
   lineup: "Deb Simpson"
   facebook: "https://www.facebook.com/debra.simpson.79"
   web:
@@ -172,7 +160,6 @@
 - name: "No Debris"
   blurb: |
    a York and Selby based trio of vocals, guitars, mandolin, harmonica, cajon and the occasional toot of treble recorder. Along with some original stuff we also cover the likes of The Eagles, Creedence Clearwater Revival, Simon & Garfunkel, Nanci Griffiths, Bob Dylan and more.
-  img: "folk-ish.png"
   lineup: "Deb Simpson, Brian Worrall and Dave Hume"
   facebook:
   web:
@@ -181,7 +168,6 @@
 - name: "Folk-ish"
   blurb: |
     original and cover songs in the style of Joan Baez, Joni Mitchell, Sandy Denny and others of the 60's folk revival era. A part of York's music scene for just over 4 years, although she has played and sung for most of her life.
-  img: "folk-ish.png"
   lineup:
   facebook: "https://www.facebook.com/folkish1"
   web:
@@ -190,7 +176,6 @@
 - name: "Waifs n Strays"
   blurb: |
     Since forming in early 2016 Waifs & Strays have played at a number of events at local venues in and around York.
-  img: "waifs-n-strays.jpg"
   lineup: "Diane Neville-Beck, Maria Parks, JJ Langley, Kate Scott-Huges, Reid B"
   facebook: "https://www.facebook.com/waifsandstraysyork/"
   web:
@@ -198,7 +183,6 @@
 
 - name: "Ryan Ellerby"
   blurb: |
-  img: "ryan-ellerby.jpg"
   lineup:
   facebook: "https://www.facebook.com/RME207/"
   web:
@@ -207,7 +191,6 @@
 - name: "Michael Collinson"
   blurb: |
     Michael Collinson from The Lights acoustic duo, playing acoustic solo this year at Cawoodstock
-  img: "michael-collinson.jpg"
   lineup:
   facebook: "https://www.facebook.com/michael.collinson.182"
   web:
@@ -216,8 +199,15 @@
 - name: "Peter Brown"
   blurb: |
     Lead singer and singer songwriter of Fool’s Mate. Playing a mix of his own material and Fool's Mate material, with choice covers in his own style.
-  img: "peter-brown.jpg"
   lineup:
   facebook: "https://www.facebook.com/peter.brown.5439"
   web: "https://www.facebook.com/Foolsmateband/"
+  playing-this-year: true
+
+- name: "The Bousfield International Jazz Trio"
+  blurb: |
+    A great jazz trio formed especially for Cawoodstock, showcasing native Cawoodian and future trombone superstar Isaac Bousfield, with jazz classics and easy tunes backed by double bass and guitar
+  lineup: "Isaac Bousfield, Marcus Bousfield, Patricio Morríz"
+  facebook:
+  web:
   playing-this-year: true

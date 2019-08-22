@@ -1,4 +1,6 @@
 # FRIDAY SCHEDULE DATA
+# * venue relative links are inferred: "venues#slugified-venue-name"
+
 
 - start-time: 1500
   end-time: 1600

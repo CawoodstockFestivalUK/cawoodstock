@@ -1,4 +1,5 @@
 # SATURDAY SCHEDULE DATA
+# * venue relative links are inferred: "venues#slugified-venue-name"
 
 - start-time: 2100
   end-time: 2330
@@ -91,8 +92,18 @@
 
 - start-time: 1800
   end-time: 1930
-  kids-activity:
+  kids-activity: false
   name: "Pineapple Head"
-  description: "A new band to Cawoodstock, but featuring the familiar cheeky face of Gaz Rowntree, this multi-instrumentalist duo promise they are 'two half wits that almost play the same song at the same time'!"
+  description: |
+    A new band to Cawoodstock, but featuring the familiar cheeky face of Gaz Rowntree, this multi-instrumentalist duo promise they are 'two halfwits that almost play the same song at the same time'!
   link: "bands#pineapple-head"
   venue: "The Ferry Inn"
+
+- start-time: 1300
+  end-time: 1430
+  kids-activity: false
+  name: "The Bousfield International Jazz Trio"
+  description: |
+    A great jazz trio formed especially for Cawoodstock, showcasing native Cawoodian and future trombone superstar Isaac Bousfield, with jazz classics and easy tunes backed by double bass and guitar, in the relaxing surrounds of Grangeside Nurseries.
+  link: "bands#the-bousfield-international-jazz-trio"
+  venue: "Grangeside Nurseries"
