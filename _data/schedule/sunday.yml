@@ -92,9 +92,8 @@
   end-time: 1345
   kids-activity: false
   name: "Folk-ish"
-  description: |
-   a York and Selby based trio of vocals, guitars, mandolin, harmonica, cajon and the occasional toot of treble recorder. Along with some original stuff we also cover the likes of The Eagles, Creedence Clearwater Revival, Simon & Garfunkel, Nanci Griffiths, Bob Dylan and more.
-  link: "bands#no-debris"
+  description:
+  link: "bands#folk-ish"
   venue: "The Jolly Sailor"
 
 - start-time: 1400
