@@ -17,7 +17,7 @@ layout: main
 							<h2>{{ page.title }}</h2>
 							{% include info/children.html %}
               <p>
-                {% for festivalday in site.data.schedule.dates %}
+                {% for festivalday in site.data.key-data.dates %}
                   <a href='#{{ festivalday["day"] }}'>{{ festivalday["date"] }}</a> -
                 {% endfor %}
               </p>

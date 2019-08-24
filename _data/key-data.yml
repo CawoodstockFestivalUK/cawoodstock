@@ -11,5 +11,5 @@ dates:
   - day: sunday
     date: "Sunday 25th August"
 
-  - day: monday
-    date: "Monday 26th August"
+  # - day: monday
+  #   date: "Monday 26th August"
