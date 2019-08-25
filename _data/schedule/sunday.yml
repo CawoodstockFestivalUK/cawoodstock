@@ -22,9 +22,9 @@
 - start-time: 1400
   end-time: 1800
   kids-activity: false
-  name: "Outdoor BBQ at the Ski Club"
+  name: "Wood Fired PIZZA @ Ski Club"
   description: |
-     Freshly-cooked BBQ food by The Pickled Postie On Tour - starting 2pm, followed by a kids tea and then a Postie supper! Keep on rocking all day and night with Ian's great BBQ food!
+     Freshly-cooked wood-fired pizza by The Pickled Postie On Tour. Keep on rocking all day and night with Ian's great food!
   link:
   venue: "White Cross Waterski Club"
 
@@ -60,6 +60,15 @@
   description: |
     Mark Byrne of Excel and the Macros entertains with a selection of true crowd-pleaser singalong type songs, accompanied by a dedicated band of Cawoodstock die-hards who are by now existing on just caffeine, booze, and the high of playing music for y'all
   link: "bands#mark-byrne"
+  venue: "White Cross Waterski Club"
+
+- start-time: 1900
+  end-time: 2100
+  kids-activity: false
+  name: "Home Made Curry @ Ski Club"
+  description: |
+     Just when you start getting those late evening festival munchies, the Ski Club pull a blinder with a curry served right there for you so you can keep on rocking!
+  link:
   venue: "White Cross Waterski Club"
 
 - start-time: 1930
