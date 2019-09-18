@@ -3,7 +3,8 @@
 	templated.co @templatedco
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 */
-/* @import url("../css/font-awesome.min.css"); */
+@import url("font-awesome.min.css");
+@import url("https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900");
 @import url("../fonts/KeeponTruckin.ttf");
 @font-face {font-family: KeeponTruckin; src: url("../fonts/KeeponTruckin.ttf"); format(“true type”); }
 
@@ -33,25 +34,15 @@ body, input, select, textarea {
 }
 
 .bands img {
-  width: 200px;
+  height: 200px;
 }
 
 .bands li {
-  margin-bottom: 15px;
+  margin-bottom: 30px;
+  border-bottom: solid 2px rgba(35, 31, 32, 0.6);
   list-style: none
 }
 
-#print .time th {
-  width: 500px;
-}
-
-#print .event th {
-
-}
-
-#print .venue th {
-
-}
 .sold {
   color: #e52746;
 }
@@ -75,20 +66,21 @@ img.rounded {
 .wrapper.orange {
   /* orange */
   background: linear-gradient(to bottom, rgba(245, 170, 91, 0), rgba(245, 170, 91, 0.5) );
-  padding: 1em 0 3em 0;
+  padding: 6em 0;
   text-align: center;
 }
 
 .wrapper.purple {
   /* purple */
 	background: linear-gradient(to bottom, rgba(245, 170, 91, 0.5), rgba(102, 45, 145,0.5));
-  padding: 3em 0 6em 0;
+  padding: 6em 0;
   text-align: center;
 }
 
 .wrapper.orangepurple {
   background: linear-gradient(to bottom, rgba(245, 170, 91, 0), rgba(245, 170, 91, 0.5), rgba(102, 45, 145,0.5) );
-  padding: 3em 0 6em 0;
+  padding: 6em 0;
+	padding: 2em 0 3.5em 0;
 }
 
 	.wrapper.style3 span {
@@ -106,7 +98,7 @@ img.rounded {
 
 	#header {
 		color: #f2ebe1;
-		padding: 6em 0em 3em 0em;
+		padding: 6em 0em 6em 0em;
 		text-align: center;
 		position: relative;
 	}
@@ -178,7 +170,7 @@ img.rounded {
 	}
 
 	p, ul, ol, dl, table, blockquote {
-		margin: 0 0 0 0;
+		margin: 0 0 2em 0;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -529,7 +521,6 @@ img.rounded {
 				color: #f2ebe1;
 			}
 
-
 /* Button */
 
 	input[type="submit"],
@@ -687,7 +678,7 @@ img.rounded {
 	}
 
 	#main {
-		padding:  3em 0 6em 0;
+		padding: 6em 0;
 	}
 
 		#main .sidebar .major {

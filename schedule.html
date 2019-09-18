@@ -1,5 +1,5 @@
 ---
-title: Schedule
+title: Cawoodstock Schedule
 layout: main
 ---
 
@@ -8,31 +8,234 @@ layout: main
 		<div class="container">
 			<div class="row">
 
+				<!-- Sidebar -->
+				<div id="sidebar" class="3u sidebar">
+					<section>
+						<!-- <header class="major">
+							<h2>Mauris vulputate</h2>
+						</header> -->
+						<ul class="default">
+							<li><a href="#friday">Friday 24th August</a></li>
+							<li><a href="#saturday">Saturday 25th August</a></li>
+							<li><a href="#sunday">Sunday 26th August</a></li>
+						</ul>
+					</section>
+				</div>
 
 				<!-- Content -->
-				<div id="content" class="12u skel-cell-important">
-
+				<div id="content" class="9u skel-cell-important">
 					<section>
 						<header class="major">
 							<h2>{{ page.title }}</h2>
-							{% include info/children.html %}
-              <p>
-                {% for festivalday in site.data.key-data.dates %}
-                  <a href='#{{ festivalday["day"] }}'>{{ festivalday["date"] }}</a> -
-                {% endfor %}
-              </p>
+							<span>Cawoodstock is a family festival and children are welcome throughout Cawoodstock. Activities particularly suitable for children are marked with <i class="fas fa-child" title="Kids' Activity"></i> Gigs in the later evening and in pubs may not be quite as suitable for children, and the venues may have their own policies which you should abide by.</span>
 						</header>
-            <!-- unfortunately you cannot make dynamically-named includes in jekyll -->
-            <!-- hence this hard-coded list -->
             <ul class="default">
-                <li><h2><a name="friday">{{ site.data.key-data.dates[0]["date"] }}</a></h2></li>
-                {% include friday-schedule.html %}
-                <li><h2><a name="saturday">{{ site.data.key-data.dates[1]["date"] }}</a></h2></li>
-                {% include saturday-schedule.html %}
-                <li><h2><a name="sunday">{{ site.data.key-data.dates[2]["date"] }}</a></h2></li>
-                {% include sunday-schedule.html %}
-                <!-- <li><h2><a name="monday">{{ site.data.schedule.dates[3]["date"] }}</a></h2></li>
-                {% include monday-schedule.html %} -->
+              <li><h2><a name="friday">Friday 24th August</a></h2></li>
+              <table class="default">
+                <th>Time</th>
+                <th>Event / Band / Activity</th>
+                <th>Venue</th>
+                <tr>
+                  <td>3pm - 5pm</td>
+                  <td><i class="fas fa-child" title="Kids' Activity"></i> <a href="other-activities#youthjam">Young Musician’s Open Jam</a> - The first time we've tried this! A fun, simple singalong and jam session just for young musicians - sing your favourite songs & play instruments with your friends and a live acoustic band!</td>
+                  <td><a href="venues#postie">The Pickled Postie</a></td>
+                </tr>
+                <tr>
+                  <td>6pm - 11pm</td>
+                  <td><a href="venues#skiclub">White Cross Ski Club</a> Clubhouse Bar open to non-members - call in to say hello and take a look around their new clubhouse, built by the hard work of their members.</td>
+                  <td><a href="venues#skiclub">White Cross Ski Club</a></td>
+                </tr>
+                <tr>
+                  <td>9pm</td>
+                  <td>Ryan 'n' Kieran</td>
+                  <td><a href="venues#jolly">The Jolly Sailor</a></td>
+                </tr>
+                <tr>
+                  <td>9pm</td>
+                  <td><strike><a href="https://www.facebook.com/218832071806414/photos/gm.1779457285494961/620370134985937/?type=3&theater">
+                      The Greatest Showman - Singalong Cinema in the Polytunnel</a> £4 on the door</strike> <span class="sold">SOLD OUT!</span></td>
+                  <td><a href="venues#grangeside">Grangeside Nurseries and Café</a> in association with <a href="http://www.selbyglobe.co.uk/">Selby Globe Community Cinema</a></td>
+                </tr>
+                <tr>
+                  <td>9pm - 11pm+</td>
+                  <td><a href="bands#sicknotes">The Sicknotes</a> - Danceable Rockabilly, pop , rock, rock'n'roll and more -  in their inimitable 'Ramshackle' style! Material ranges from Imelda May, Stray Cats and Eddie Cochrane to Queen, Paloma Faith, and Portugal - The Man</td>
+                  <td><a href="venues#castle">The Castle Inn</a></td>
+                </tr>
+              </table>
+
+              <li><h2><a name="saturday">Saturday 25th August</a></h2></li>
+              <table class="default">
+                <th>Time</th>
+                <th>Event / Band / Activity</th>
+                <th>Venue</th>
+                <tr>
+                  <td>11am - 3pm</td>
+                  <td><i class="fas fa-child" title="Kids' Activity"></i> Henna Tattoo Artist -  come and get a temporary henna tattoo for the festival weekend!</td>
+                  <td><a href="venues#grangeside">Grangeside Nurseries</a></td>
+                </tr>
+                <tr>
+                  <td>12 noon - 2pm</td>
+                  <td>Piano Al Fresco with Kath Backhouse - Pianist and Singer</td>
+                  <td><a href="venues#grangeside">Grangeside Nurseries</a></td>
+                </tr>
+                <tr>
+                  <td>12 noon - 5pm</td>
+                  <td><i class="fas fa-child" title="Kids' Activity"></i> Cawood Rocks! - rock decorating</td>
+                  <td><a href="venues#castle">The Castle Inn</a></td>
+                </tr>
+                <tr>
+                  <td>12 noon</td>
+                  <td>Stalls from 12pm at the <a href="venues#jolly">The Jolly Sailor</a></td>
+                  <td><a href="venues#jolly">The Jolly Sailor</a></td>
+                </tr>
+                <tr>
+                  <td>1pm - 3pm</td>
+                  <td><a href="bands#kaya">KAYA</a> - up-and-coming York-based band</td>
+                  <td><a href="venues#castle">The Castle Inn</a></td>
+                </tr>
+                <tr>
+                  <td>1pm - 9pm</td>
+                  <td><i class="fas fa-child" title="Kids' Activity"></i> <a href="https://www.facebook.com/events/669970853370243/">Family Fun Day</a> - BBQ - Bouncy Castle - Coconut Shy - Tattoos - Raffle - Cakes & Sweets - Live Music</a></td>
+                  <td><a href="venues#ferry">The Ferry Inn</a></td>
+                </tr>
+                <tr>
+                  <td>1pm - 3pm</td>
+                  <td>Join-in Open Jamming session - come along and join in with a bar-room singalong and jamming session - bring instruments and play along - or just come along and join in the atmosphere</td>
+                  <td><a href="venues#jolly">The Jolly Sailor</a></td>
+                </tr>
+                <tr>
+                  <td>2pm - 5pm</td>
+                  <td><i class="fas fa-child" title="Kids' Activity"></i> <a href="venues#obs">Childrens' activities and refreshments</a> - design-your-own Cawoodstock wristband & maracas, sand art, rock painting & much more!</td>
+                  <td><a href="/venues#obs">The Old Boys' School</a></td>
+                </tr>
+                <tr>
+                  <td>3pm - 5pm</td>
+                  <td>Cawood's Got Talent</td>
+                  <td><a href="venues#jolly">The Jolly Sailor</a></td>
+                </tr>
+                <tr>
+                  <td>3pm - 5pm</td>
+                  <td>Marcus and Isaac Bousfield - Jazz Trombone & Guitar</td>
+                  <td><a href="venues#grangeside">Grangeside Nurseries</a></td>
+                </tr>
+                <tr>
+                  <td>6pm - 8pm</td>
+                  <td><a href="bands#markbyrne">Mark Byrne</a> - acoustic solo</td>
+                  <td><a href="venues#ferry">The Ferry Inn</a></td>
+                </tr>
+                <tr>
+                  <td>7pm - 8pm</td>
+                  <td>Shab Hussain - Cawood's Elvis</td>
+                  <td><a href="venues#jolly">The Jolly Sailor</a></td>
+                </tr>
+                <tr>
+                  <td>6pm - 1am</td>
+                  <td><a href="venues#skiclub">White Cross Ski Club</a> - Bar open 6pm till 1am with disco & karaoke fun - free Chilli Con Carne supper -  Evening booze cruise boat rides from Ski Club - prebookable slots available (book by messaging this <a href="https://www.facebook.com/Cawoodstock-at-White-Cross-WaterSki-Club-2144915025798213/">Facebook page</a>)</td>
+                  <td><a href="venues#skiclub">White Cross Ski Club</a></td>
+                </tr>
+                <tr>
+                  <td>8pm till late</td>
+                  <td>Disco and Karaoke</td>
+                  <td><a href="venues#castle">The Castle Inn</a></td>
+                </tr>
+                <tr>
+                  <td>9pm - 11pm+</td>
+                  <td><a href="bands#sicknotes">The Sicknotes</a> - Danceable Rockabilly, pop , rock, rock'n'roll and more -  in their inimitable 'Ramshackle' style! Material ranges from Imelda May, Stray Cats and Eddie Cochrane to Queen, Paloma Faith, and Portugal - The Man</td>
+                  <td><a href="venues#jolly">The Jolly Sailor</a></td>
+                </tr>
+                <tr>
+                  <td>9pm - 11pm</td>
+                  <td><a href="bands#popfriction">Pop Friction</a> - Edgy, current and different are all words that can be used to describe POP FRICTION. A great female fronted pop trio - Great vocals and an  awesome display of musicianship on guitar too. Dancing shoes at the ready</td>
+                  <td><a href="venues#caravan">Cawood Park</a></td>
+                </tr>
+              </table>
+
+              <li><h2><a name="sunday">Sunday 26th August</a></h2></li>
+              <table class="default">
+                <th>Time</th>
+                <th>Event / Band / Activity</th>
+                <th>Venue</th>
+                <tr>
+                  <td>10am -</td>
+                  <td>Musical Sunday Breakfast - music, coffee, bacon etc</td>
+                  <td><a href="venues#postie">The Pickled Postie</a></td>
+                </tr>
+                <tr>
+                  <td>11am - 3pm</td>
+                  <td><i class="fas fa-child" title="Kids' Activity"></i> Henna Tattoo Artist -  come and get a temporary henna tattoo for the festival weekend!</td>
+                  <td><a href="venues#grangeside">Grangeside Nurseries</a></td>
+                </tr>
+                <tr>
+                  <td>12noon till late</td>
+                  <td><i class="fas fa-child" title="Kids' Activity"></i> Family Fun Day & Boat Rides, with BBQ food by <a href="venues.html#postie">The Pickled Postie</a></td>
+                  <td><a href="venues#skiclub">White Cross Ski Club</a></td>
+                </tr>
+                <tr>
+                  <td>12 noon - 1pm</td>
+                  <td>Cawood’s very own Elvis - <a href="bands#shab">Shahab Hussain</a></td>
+                  <td><a href="venues#skiclub">White Cross Ski Club</a></td>
+                </tr>
+                <tr>
+                  <td>12pm onwards</td>
+                  <td><i class="fas fa-child" title="Kids' Activity"></i> <a href="https://www.facebook.com/clayfever2015/">Clayfever</a> - pottery crafts and painting</td>
+                  <td><a href="venues#castle">The Castle Inn</a></td>
+                </tr>
+                <tr>
+                  <td>1pm - 2pm</td>
+                  <td><a href="bands#ryanshaw">Michael Stanns (Ryan Shaw music)</a></td>
+                  <td><a href="venues#skiclub">White Cross Ski Club</a></td>
+                </tr>
+                <tr>
+                  <td>2pm - 4pm</td>
+                  <td>Piano Al Fresco with Kath Backhouse - Pianist and Singer</td>
+                  <td><a href="venues#grangeside">Grangeside Nurseries</a></td>
+                </tr>
+                <tr>
+                  <td>2pm - 3pm</td>
+                  <td><a href="bands#yorkuleles">Yorkuleles</a> - Ukulele Club and Orchestra</td>
+                  <td><a href="venues#skiclub">White Cross Ski Club</a></td>
+                </tr>
+                <tr>
+                  <td>3pm - 4pm</td>
+                  <td><a href="bands#renames">The Renames</a> - Soft and country rock favourites with some original songs too!</td>
+                  <td><a href="venues#skiclub">White Cross Ski Club</a></td>
+                </tr>
+                <tr>
+                  <td>4pm - 5pm</td>
+                  <td><a href="bands#markbyrne">Mark Byrne</a> - acoustic solo</td>
+                  <td><a href="venues#skiclub">White Cross Ski Club</a></td>
+                </tr>
+                <tr>
+                  <td>5pm - 6pm</td>
+                  <td>Marcus and Isaac Bousfield - Jazz Trombone & Guitar</td>
+                  <td><a href="venues#skiclub">White Cross Ski Club</a></td>
+                </tr>
+                <tr>
+                  <td>6pm - 8pm</td>
+                  <td><a href="bands#chrissarah">Chris & Sarah - Jazz Duo</a></td>
+                  <td><a href="venues#jolly">The Jolly Sailor</a></td>
+                </tr>
+                <tr>
+                  <td>7pm - 8pm</td>
+                  <td><a href="bands#nat-antag">Natural Antagonists</a> - melodic guitar and vocal harmonies performing original and well-known material</td>
+                  <td><a href="venues#ferry">The Ferry Inn</a></td>
+                </tr>
+                <tr>
+                  <td>9pm - 12mn</td>
+                  <td>Excel and the Marcos</td>
+                  <td><a href="venues#jolly">The Jolly Sailor</a></td>
+                </tr>
+                <tr>
+                  <td>9pm - 11pm</td>
+                  <td><a href="bands#discofactor">Disco Factor</a> - Some of the best disco tunes to have made their way on to the radio at the height of the Disco era. Disco Factor are a choreographed group with 2 girls and 1 guy who just love to entertain. If these don’t get you on the dance floor, nothing will!</td>
+                  <td><a href="venues#caravan">Cawood Park</a></td>
+                </tr>
+                <tr>
+                  <td>9pm - 11+</td>
+                  <td><a href="bands#sicknotes">The Sicknotes</a> - Danceable Rockabilly, pop , rock, rock'n'roll and more -  in their inimitable 'Ramshackle' style! Material ranges from Imelda May, Stray Cats and Eddie Cochrane to Queen, Paloma Faith, and Portugal - The Man</td>
+                  <td><a href="venues#skiclub">White Cross Ski Club</a></td>
+                </tr>
+              </table>
             </ul>
 					</section>
 				</div>
