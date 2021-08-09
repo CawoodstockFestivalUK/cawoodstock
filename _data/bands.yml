@@ -9,7 +9,7 @@
   lineup:
   facebook:
   web:
-  playing-this-year: false
+  playing-this-year: true
 
 - name: "Michael Stanns (Ryan Shaw Music)"
   blurb: "ryanshaw.jpg"
@@ -20,7 +20,7 @@
 
 - name: "Shab 'Elvis' Hussain"
   blurb: "Cawood's own Elvis!"
-  lineup: "Shahab Hussain. Skiffle band: various members of The Sicknotes of Cawood"
+  lineup: "Shahab Hussain. Skiffle band: Patrick Morris, Gaz Rowntree, Marcus Baw"
   facebook: "https://www.facebook.com/shahab.hussain.399"
   web:
   playing-this-year: true
@@ -85,7 +85,7 @@
   lineup: "Kit Frost"
   facebook: "https://www.facebook.com/KitFrostmusic/"
   web:
-  playing-this-year: false
+  playing-this-year: true
 
 - name: "Glamchop"
   blurb: "Rock/pop and oldies"
@@ -139,7 +139,7 @@
   lineup: "Harrison Rimmer"
   facebook: "https://www.facebook.com/harrison.rimmer"
   web:
-  playing-this-year: false
+  playing-this-year: true
 
 - name: "Miles Salter"
   blurb: |
@@ -155,7 +155,7 @@
   lineup: "Deb Simpson"
   facebook: "https://www.facebook.com/debra.simpson.79"
   web:
-  playing-this-year: false
+  playing-this-year: true
 
 - name: "No Debris"
   blurb: |
@@ -179,7 +179,7 @@
   lineup: "Diane Neville-Beck, Maria Parks, JJ Langley, Kate Scott-Huges, Reid B"
   facebook: "https://www.facebook.com/waifsandstraysyork/"
   web:
-  playing-this-year: false
+  playing-this-year: true
 
 - name: "Ryan Ellerby"
   blurb: |
@@ -195,7 +195,7 @@
   lineup:
   facebook: "https://www.facebook.com/michael.collinson.182"
   web:
-  playing-this-year: false
+  playing-this-year: true
 
 - name: "Peter Brown"
   blurb: |
@@ -211,4 +211,4 @@
   lineup: "Isaac Bousfield, Marcus Bousfield, Patricio Morríz, Marcus Baw"
   facebook:
   web:
-  playing-this-year: false
+  playing-this-year: true

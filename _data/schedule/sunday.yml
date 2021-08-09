@@ -2,186 +2,48 @@
 # * venue relative links are inferred: "venues#slugified-venue-name"
 
 
-- start-time: 1400
-  end-time: 1500
+
+- start-time: 1200
+  end-time: 1300
   kids-activity: true
-  name: "Hannah and the Enchanted Harp"
+  name: "Young Musicians's Open Jam Session"
   description: |
-    Hannah and her Enchanted harp will entertain and transport young children into a wonderful fairy world with live harp music, singing, dancing, stories and bubbles! Dressing up is encouraged!
-  link:
-  venue: "White Cross Waterski Club"
-
-- start-time: 1400
-  end-time: 2300
+    A fun, simple singalong and jam session just for young musicians to get them into jamming! Sing your favourite songs & play instruments with your friends and a live acoustic band! Nobody's going to be put on the spot to play solo, it's a joint effort - a jam, not an open mic. Plenty of musical parents will be around to help out and get everyone involved.
+  link: "other-activities#youthjam"
+  venue: "The Jolly Sailor"
+  
+- start-time: 1200
+  end-time: 1300
   kids-activity: true
-  name: "Family Fun day at White Cross Ski Club"
-  description: "Boat rides 2pm-5pm then prebookable booze cruises 5:30 till 7pm. Licenced bar, food by the Pickled Postie and fairy crafting fun."
-  link: "venues#white-cross-waterski-club"
-  venue: "White Cross Waterski Club"
-
-- start-time: 1400
-  end-time: 1800
-  kids-activity: false
-  name: "Wood Fired PIZZA @ Ski Club"
-  description: |
-     Freshly-cooked wood-fired pizza by The Pickled Postie On Tour. Keep on rocking all day and night with Ian's great food!
+  name: "Yorky Pud Street Band (outside)"
+  description:
   link:
-  venue: "White Cross Waterski Club"
-
-- start-time: 1500
-  end-time: 1600
-  kids-activity: true
-  name: "The Yorkuleles"
-  description: "York's famous ukulele club return to Cawoodstock and the Ski Club, with their grand ukulele orchestra to play hits and singalongs for all the family"
-  link: "bands#the-yorkuleles"
-  venue: "White Cross Waterski Club"
-
-- start-time: 1600
-  end-time: 1700
-  kids-activity: true
-  name: "Michael Collinson"
-  description: "Michael Collinson from The Lights acoustic duo plays us an acoustic solo set"
-  link: "bands#michael-collinson"
-  venue: "White Cross Waterski Club"
-
-- start-time: 1700
-  end-time: 1800
-  kids-activity: true
-  name: "Hannah and the Enchanted Harp"
-  description: |
-    Hannah and her Enchanted harp will entertain and transport young children into a wonderful fairy world with live harp music, singing, dancing, stories and bubbles! Dressing up is encouraged!
-  link: "bands#hannah-and-the-enchanted-harp"
-  venue: "White Cross Waterski Club"
-
-- start-time: 1800
-  end-time: 1900
-  kids-activity: false
-  name: "Mark Byrne and Friends"
-  description: |
-    Mark Byrne of Excel and the Macros entertains with a selection of true crowd-pleaser singalong type songs, accompanied by a dedicated band of Cawoodstock die-hards who are by now existing on just caffeine, booze, and the high of playing music for y'all
-  link: "bands#mark-byrne"
-  venue: "White Cross Waterski Club"
-
-- start-time: 1900
-  end-time: 2100
-  kids-activity: false
-  name: "Home Made Curry @ Ski Club"
-  description: |
-     Just when you start getting those late evening festival munchies, the Ski Club pull a blinder with a curry served right there for you so you can keep on rocking!
-  link:
-  venue: "White Cross Waterski Club"
-
-- start-time: 1930
-  end-time: 2030
-  kids-activity: false
-  name: "Shab 'Elvis' Hussain"
-  description: |
-    Cawood's one and only Elvis impersonator returns to Cawoodstock, bringing the classic older rock'n'roll Sun Records-era Elvis to the Ski Club's stage, backed by a skiffle-style band.
-  link: "bands#shab-elvis-hussain"
-  venue: "White Cross Waterski Club"
-
-- start-time: 2100
-  end-time: "'til late"
-  kids-activity: false
-  name: "The Sicknotes Of Cawood"
-  description: "Rocking the permanent surf party that is Cawood's awesome Waterski Club, are The Sicknotes Of Cawood, closing their world tour of Cawood and headlining the festival for the second year running!"
-  link:
-  venue: "White Cross Waterski Club"
-
-- start-time: 2045
-  end-time:
-  kids-activity:
-  name: The KEY_TARS
-  description: |
-    Finishing the August Bank Holiday entertainment are THE KEY_TARS. A superb, versatile all male trio featuring guitar, lead guitar and key boards. No work tomorrow so a good time will be had by all!
-  link:
-  venue: "Cawood Park Caravan Site"
-
-- start-time: 1145
-  end-time: 1230
-  kids-activity: false
-  name: "No Debris"
-  description: |
-   a York and Selby based trio of vocals, guitars, mandolin, harmonica, cajon and the occasional toot of treble recorder. Along with some original stuff we also cover the likes of The Eagles, Creedence Clearwater Revival, Simon & Garfunkel, Nanci Griffiths, Bob Dylan and more.
-  link: "bands#no-debris"
   venue: "The Jolly Sailor"
 
-- start-time: 1245
-  end-time: 1345
+- start-time: 1300
+  end-time: 1430
   kids-activity: false
-  name: "Folk-ish"
+  name: "Debra Simpson"
   description: |
-    Folk-ish are a highly diverse group of musicians, ranging in ages from 11 to 77! They bring together a host of different instruments, styles and tastes, and smush them together into a band... Expect an eclectic mix of pop, rock and country covers - there’s something for everyone to sing along to!
-  link: "bands#folk-ish"
+    original and cover songs in the style of Joan Baez, Joni Mitchell, Sandy Denny and others of the 60's folk revival era. A part of York's music scene for just over 4 years, although she has played and sung for most of her life.
+  link: "bands#deb-simpson"
   venue: "The Jolly Sailor"
-
-- start-time: 1400
-  end-time: 1500
-  kids-activity: false
-  name: "Waifs n Strays"
-  description: |
-   Since forming in early 2016 Waifs & Strays have played at a number of events at local venues in and around York
+  
+- start-time: 1200
+  end-time: 1300
+  kids-activity: true
+  name: "Waifs and Strays"
+  description:
   link: "bands#waifs-n-strays"
   venue: "The Jolly Sailor"
-
-- start-time: 1600
-  end-time: 1700
-  kids-activity: false
-  name: "Peter Brown"
-  description: |
-    Lead singer and singer songwriter of Fool’s Mate. Playing a mix of his own material and Fool's Mate material, with choice covers in his own style.
-  link: "bands#peter-brown"
-  venue: "The Jolly Sailor"
-
-- start-time: 1730
-  end-time: 1930
-  kids-activity: false
-  name: "Open Mic Session"
-  description: |
-    Bring your instruments and your favourite party piece and wow the Cawoodstock crowd with your open mic spotlight!
-  link: "venues#the-jolly-sailor"
-  venue: "The Jolly Sailor"
-
-- start-time: 2000
+  
+- start-time: 1930
   end-time: 2100
   kids-activity: false
   name: "Harrison Rimmer"
   description: |
-    Celebrated local singer-songriter and jam session legend.
+    Celebrated local singer-songriter and jam session legend returns to Cawoodstock for his third year!
   link: "bands#harrison-rimmer"
   venue: "The Jolly Sailor"
 
-- start-time: 2115
-  end-time: 2230
-  kids-activity: false
-  name: "Ryan Ellerby"
-  description: |
-  link: "bands#ryan-ellerby"
-  venue: "The Jolly Sailor"
 
-- start-time: 1300
-  end-time: 1630
-  kids-activity: true
-  name: "Walking Through War 1939-1945 exhibition"
-  description: |
-    Cawood Church will have a "Walking Through War 1939-1945" exhibition, remembering the 80th anniversary since the outbreak of World War 2. This will be on the following dates to coincide with the Cawoodstock event. Children's activities will be provided and refreshments served. Music from the period will add to the atmosphere of the event in our historic church.
-  link:
-  venue: "Cawood All Saints' Church"
-
-- start-time: 1200
-  end-time: 2300
-  kids-activity: true
-  name: "Family Day, with Outdoor Gin and Real Ales Fest @ Cawoodstock"
-  description: |
-    All-day Gin and Real Ales stands outdoors at the Castle Inn, with outdoor performances, face painting, and charity photo booth!
-  link:
-  venue: "The Castle Inn"
-
-- start-time: 1000
-  end-time: 1200
-  kids-activity: true
-  name: "Breakfast Jazz @ The Postie"
-  description: |
-    Live jazz with The Other Bousfield International Jazz Trio, while you savour a lavish full cooked breakfast at Cawood's local foodie HQ. BOOKING ESSENTIAL - capacity is very limited so to avoid disappointment, book in person at the Pickled Postie, or contact them via Facebook.
-  link: "https://www.facebook.com/events/352548638992396/"
-  venue: "The Pickled Postie"
