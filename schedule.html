@@ -18,18 +18,18 @@ layout: main
 							{% include info/children.html %}
               <p>
                 {% for festivalday in site.data.key-data.dates %}
-                  <a href='#{{ festivalday["day"] }}'>{{ festivalday["date"] }}</a> -
+                  <a href='#{{ festivalday[0] }}'>{{ festivalday[1] }}</a> -
                 {% endfor %}
               </p>
 						</header>
             <!-- unfortunately you cannot make dynamically-named includes in jekyll -->
             <!-- hence this hard-coded list -->
             <ul class="default">
-                <li><h2><a name="friday">{{ site.data.key-data.dates[0]["date"] }}</a></h2></li>
+                <li><h2><a name="friday">{{ site.data.key-data.dates['friday'] }}</a></h2></li>
                 {% include friday-schedule.html %}
-                <li><h2><a name="saturday">{{ site.data.key-data.dates[1]["date"] }}</a></h2></li>
+                <li><h2><a name="saturday">{{ site.data.key-data.dates['saturday'] }}</a></h2></li>
                 {% include saturday-schedule.html %}
-                <li><h2><a name="sunday">{{ site.data.key-data.dates[2]["date"] }}</a></h2></li>
+                <li><h2><a name="sunday">{{ site.data.key-data.dates['sunday'] }}</a></h2></li>
                 {% include sunday-schedule.html %}
                 <!-- <li><h2><a name="monday">{{ site.data.schedule.dates[3]["date"] }}</a></h2></li>
                 {% include monday-schedule.html %} -->

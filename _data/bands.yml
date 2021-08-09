@@ -47,7 +47,7 @@
   lineup:
   facebook: "https://www.facebook.com/yorkuleles/"
   web: "https://www.yorkuleles.co.uk"
-  playing-this-year: true
+  playing-this-year: false
 
 - name: "Disco Factor"
   blurb: |
@@ -70,7 +70,7 @@
   lineup: "John Budgie, Paul Budgie, Billy Budgie, Ben Budgie, Richard Budgie"
   facebook: "https://www.facebook.com/paul.featherstone.1441"
   web:
-  playing-this-year: true
+  playing-this-year: false
 
 - name: "The Renames"
   blurb: |
@@ -78,14 +78,14 @@
   lineup:
   facebook: "https://www.facebook.com/therenamesyork/"
   web:
-  playing-this-year: true
+  playing-this-year: false
 
 - name: "Kit Frost"
   blurb: "Cawoodian jazzy piano and vocals covering modern classics and jazz greats"
   lineup: "Kit Frost"
   facebook: "https://www.facebook.com/KitFrostmusic/"
   web:
-  playing-this-year: true
+  playing-this-year: false
 
 - name: "Glamchop"
   blurb: "Rock/pop and oldies"
@@ -108,7 +108,7 @@
   lineup:
   facebook: "https://www.facebook.com/KayaBandOfficial/"
   web:
-  playing-this-year: true
+  playing-this-year: false
 
 - name: "Pineapple Head"
   blurb: |
@@ -117,7 +117,7 @@
     Ben Styles: vocals, guitars (both long and short with varying numbers of strings) synths and looping. Gaz Rowntree: vocals, guitars, harmonica, synths and live loop workstation.
   facebook: "https://www.facebook.com/TheOnlyPineAppleHead/"
   web:
-  playing-this-year: true
+  playing-this-year: false
 
 - name: "Hannah and the Enchanted Harp"
   blurb: |
@@ -125,7 +125,7 @@
   lineup: Hannah Luckins
   facebook: "https://www.facebook.com/HannahTheHarp/"
   web:
-  playing-this-year: true
+  playing-this-year: false
 
 - name: "Julian Socha"
   blurb: "Electric and Acoustic Guitarist Singer-Songwriter"
@@ -139,7 +139,7 @@
   lineup: "Harrison Rimmer"
   facebook: "https://www.facebook.com/harrison.rimmer"
   web:
-  playing-this-year: true
+  playing-this-year: false
 
 - name: "Miles Salter"
   blurb: |
@@ -147,7 +147,7 @@
   lineup: "Miles Salter"
   facebook: "https://www.facebook.com/miles.salter.9"
   web:
-  playing-this-year: true
+  playing-this-year: false
 
 - name: "Deb Simpson"
   blurb: |
@@ -155,7 +155,7 @@
   lineup: "Deb Simpson"
   facebook: "https://www.facebook.com/debra.simpson.79"
   web:
-  playing-this-year: true
+  playing-this-year: false
 
 - name: "No Debris"
   blurb: |
@@ -163,7 +163,7 @@
   lineup: "Deb Simpson, Brian Worrall and Dave Hume"
   facebook:
   web:
-  playing-this-year: true
+  playing-this-year: false
 
 - name: "Folk-ish"
   blurb: |
@@ -171,7 +171,7 @@
   lineup:
   facebook: "https://www.facebook.com/folkish1"
   web:
-  playing-this-year: true
+  playing-this-year: false
 
 - name: "Waifs n Strays"
   blurb: |
@@ -179,14 +179,15 @@
   lineup: "Diane Neville-Beck, Maria Parks, JJ Langley, Kate Scott-Huges, Reid B"
   facebook: "https://www.facebook.com/waifsandstraysyork/"
   web:
-  playing-this-year: true
+  playing-this-year: false
 
 - name: "Ryan Ellerby"
   blurb: |
+    Ryan is a local soloist and acoustic act, bringing his unique style to Cawoodstock
   lineup:
   facebook: "https://www.facebook.com/RME207/"
   web:
-  playing-this-year: true
+  playing-this-year: false
 
 - name: "Michael Collinson"
   blurb: |
@@ -194,7 +195,7 @@
   lineup:
   facebook: "https://www.facebook.com/michael.collinson.182"
   web:
-  playing-this-year: true
+  playing-this-year: false
 
 - name: "Peter Brown"
   blurb: |
@@ -202,12 +203,12 @@
   lineup:
   facebook: "https://www.facebook.com/peter.brown.5439"
   web: "https://www.facebook.com/Foolsmateband/"
-  playing-this-year: true
+  playing-this-year: false
 
 - name: "The Bousfield International Jazz Trio"
   blurb: |
-    A great jazz trio formed especially for Cawoodstock, showcasing native Cawoodian and future trombone superstar Isaac Bousfield, with jazz classics and easy tunes backed by double bass and guitar
-  lineup: "Isaac Bousfield, Marcus Bousfield, Patricio Morríz"
+    A great jazz trio formed from four people especially for Cawoodstock, showcasing native Cawoodian and future trombone superstar Isaac Bousfield, with jazz classics and easy tunes backed by jazz bass, violin and guitar.
+  lineup: "Isaac Bousfield, Marcus Bousfield, Patricio Morríz, Marcus Baw"
   facebook:
   web:
-  playing-this-year: true
+  playing-this-year: false

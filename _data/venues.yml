@@ -6,7 +6,7 @@
   phone:
   address: "7 Wistowgate, Cawood, Selby YO8 3SH"
   location:
-  participating: true
+  participating: false
 
 - name: "The Jolly Sailor"
   web: "https://www.facebook.com/jolly.cawood"
@@ -33,7 +33,7 @@
   phone:
   address: "Rythergate, Cawood, Selby YO8 3TP"
   location:
-  participating: true
+  participating: false
 
 - name: "Grangeside Nurseries"
   blurb: |
@@ -42,7 +42,7 @@
   phone:
   address: "Thorpe Lane, Cawood, YO8 3SG"
   location:
-  participating: true
+  participating: false
 
 - name: "The Pickled Postie"
   blurb:
@@ -50,7 +50,7 @@
   phone:
   address: "2 High St, Cawood, Selby YO8 3TH"
   location:
-  participating: true
+  participating: false
 
 - name: "Cawood Park Caravan Site"
   blurb: "Cawood Park is located in a tranquil location on the banks of the River Wharfe between Tadcaster and  Selby"
@@ -58,7 +58,7 @@
   phone: "01757 268450"
   address: "Ryther Rd, Cawood, York YO8 3TT"
   location:
-  participating: true
+  participating: false
 
 - name: "Cawood Old Boys' School"
   blurb: |
@@ -67,7 +67,7 @@
   phone:
   address: "Old Boys School Lane, off Rythergate, YO8 3TY"
   location:
-  participating: true
+  participating: false
 
 - name: "Cawood All Saints' Church"
   blurb:
@@ -75,4 +75,4 @@
   phone:
   address: "All Saints Church, Church End, Cawood, YO8 3SN"
   location:
-  participating: true
+  participating: false

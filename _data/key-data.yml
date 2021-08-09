@@ -2,14 +2,9 @@
 
 year: 2021
 dates:
-  - day: friday
-    date: "Friday 27rd August"
-
-  - day: saturday
-    date: "Saturday 28th August"
-
-  - day: sunday
-    date: "Sunday 26th August"
+  friday: "Friday 27rd August"
+  saturday: "Saturday 28th August"
+  sunday: "Sunday 29th August"
 
   # - day: monday
   #   date: "Monday 26th August"
