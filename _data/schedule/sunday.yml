@@ -46,4 +46,17 @@
   link: "bands#harrison-rimmer"
   venue: "The Jolly Sailor"
 
-
+- start-time: 1700
+  end-time: 2100
+  kids-activity: false
+  name: "DJ Alex Malam"
+  description: "Playing chilled out dance Ibiza classics"
+  link: 
+  venue: "The Ferry Inn"
+  
+- start-time: 2100
+  end-time: "late"
+  kids-activity: false
+  name: "Jam Night"
+  description: "Cawoodstock's big night of jamming is likely to form up on the Sunday evening after Harry Rimmer. All welcome, bring your instruments and pints and chord charts"
+  venue: "The Jolly Sailor"
