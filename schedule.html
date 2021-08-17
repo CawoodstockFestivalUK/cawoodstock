@@ -4,39 +4,47 @@ layout: main
 ---
 
 <!-- Main -->
-	<div id="main" class="wrapper orangepurple">
-		<div class="container">
-			<div class="row">
+<div id="main" class="wrapper orangepurple">
+  <div class="container">
+    <div class="row">
 
 
-				<!-- Content -->
-				<div id="content" class="12u skel-cell-important">
+      <!-- Content -->
+      <div id="content" class="12u skel-cell-important">
 
-					<section>
-						<header class="major">
-							<h2>{{ page.title }}</h2>
-							{% include info/children.html %}
-              <p>
-                {% for festivalday in site.data.key-data.dates %}
-                  <a href='#{{ festivalday[0] }}'>{{ festivalday[1] }}</a> -
-                {% endfor %}
-              </p>
-						</header>
-            <!-- unfortunately you cannot make dynamically-named includes in jekyll -->
-            <!-- hence this hard-coded list -->
-            <ul class="default">
-                <li><h2><a name="friday">{{ site.data.key-data.dates['friday'] }}</a></h2></li>
-                {% include friday-schedule.html %}
-                <li><h2><a name="saturday">{{ site.data.key-data.dates['saturday'] }}</a></h2></li>
-                {% include saturday-schedule.html %}
-                <li><h2><a name="sunday">{{ site.data.key-data.dates['sunday'] }}</a></h2></li>
-                {% include sunday-schedule.html %}
-                <!-- <li><h2><a name="monday">{{ site.data.schedule.dates[3]["date"] }}</a></h2></li>
-                {% include monday-schedule.html %} -->
-            </ul>
-					</section>
-				</div>
+        <section>
+          <header class="major">
+            <h2>{{ page.title }}</h2>
+            {% include info/children.html %}
+            <p>
+              {% for festivalday in site.data.key-data.dates %}
+              <a href='#{{ festivalday[0] }}'>{{ festivalday[1] }}</a> -
+              {% endfor %}
+            </p>
+          </header>
+          <!-- unfortunately you cannot make dynamically-named includes in jekyll -->
+          <!-- hence this hard-coded list -->
+          <ul class="default">
+            <li>
+              <h2><a name="friday">{{ site.data.key-data.dates['friday'] }}</a></h2>
+            </li>
+            {% include friday-schedule.html %}
+            <li>
+              <h2><a name="saturday">{{ site.data.key-data.dates['saturday'] }}</a></h2>
+            </li>
+            {% include saturday-schedule.html %}
+            <li>
+              <h2><a name="sunday">{{ site.data.key-data.dates['sunday'] }}</a></h2>
+            </li>
+            {% include sunday-schedule.html %}
+            <li>
+              <h2><a name="sunday">{{ site.data.key-data.dates['monday'] }}</a></h2>
+            </li>
+            {% include monday-schedule.html %}
+          </ul>
+        </section>
+      </div>
 
-			</div>
-		</div>
-	</div>
+    </div>
+  </div>
+</div>

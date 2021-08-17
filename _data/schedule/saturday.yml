@@ -1,6 +1,15 @@
 # SATURDAY SCHEDULE DATA
 # * venue relative links are inferred: "venues#slugified-venue-name"
 
+- start-time: 1100
+  end-time: 1400
+  kids-activity: true
+  name: "Refreshments at Cawood Church"
+  description: |
+    Refreshments are served at Cawood's historic church on Cawoodstock Saturday, Sunday and Monday, in aid of church funds. Please do go along to see this beautiful church, one of very few  Royal Peculiars (exempt from the jurisdiction of the diocese and the province in which it lies and subject to the direct jurisdiction of the monarch) outside London. You will also be supporting Cawood church by buying refreshments.
+  link: 
+  venue: "Cawood All Saints' Church"
+
 - start-time: 1200
   end-time: 1300
   kids-activity: false
@@ -20,8 +29,9 @@
 - start-time: 1430
   end-time: 1530
   kids-activity: false
-  name: "Lydia and Marcus Bousfield"
-  description: 
+  name: "The Lydia Bousfield Group"
+  description: |
+    Lydia will line up with her brother Isaac, on bass, Aunty Amanda on viola and Dad, Marcus on electric guitar to sing songs written by Sting, Amy Winehouse, Damien Rice, and several well-known Jazz standards.
   link:
   venue: "The Jolly Sailor"
   
