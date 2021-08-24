@@ -14,8 +14,9 @@
   end-time: 1300
   kids-activity: false
   name: "Sophie Moss"
-  description: 
-  link:
+  description: |
+    Sophie is a Singer/Songwriter from Castleford, West Yorkshire.
+  link: https://www.facebook.com/sophiemossartist/
   venue: "The Jolly Sailor"
   
 - start-time: 1300
@@ -25,6 +26,14 @@
   description: "Michael Collinson from The Lights acoustic duo plays us an acoustic solo set"
   link: "bands#michael-collinson"
   venue: "The Jolly Sailor"
+  
+- start-time: 1400
+  end-time: 1600
+  kids-activity: true
+  name: Kids Crafts in the Old Boys' School
+  description: |
+    On Saturday 28th August, alongside Cawoodstock & the Fairy Trail, Cawood Brownies & Rainbows will be hosting a joint fund raising event at the OBS from 2-4pm, offering a range of children's crafts for all ages including the ever-popular sand art & fairy-themed activities. We will also be serving hot & cold drinks & home made refreshments. Please come along and support us if you can! All profits will be used by our Rainbow & Brownie leaders to support the fun, varied & challenging programme of activities we offer to our young people.
+  link: https://www.facebook.com/groups/cawoodstock/posts/3544749255627956/ 
   
 - start-time: 1430
   end-time: 1530
