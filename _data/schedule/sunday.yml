@@ -11,7 +11,7 @@
   venue: "Cawood All Saints' Church"
 
 - start-time: 1200
-  end-time: 1300
+  end-time: 1400
   kids-activity: true
   name: "Young Musicians's Open Jam Session"
   description: |
@@ -27,8 +27,8 @@
   link:
   venue: "The Jolly Sailor"
 
-- start-time: 1300
-  end-time: 1430
+- start-time: 1400
+  end-time: 1530
   kids-activity: false
   name: "Debra Simpson"
   description: |
@@ -36,14 +36,33 @@
   link: "bands#deb-simpson"
   venue: "The Jolly Sailor"
   
-- start-time: 1200
-  end-time: 1300
-  kids-activity: true
-  name: "Waifs and Strays"
-  description:
-  link: "bands#waifs-n-strays"
+- start-time: 1530
+  end-time: 1630
+  kids-activity: false
+  name: "Pete Brown and Stuart Bolton"
+  description: |
+    Acoustic and electric covers duo in the lounge area of the Jolly Sailor
+  link:
   venue: "The Jolly Sailor"
   
+- start-time: 1630
+  end-time: 1700
+  kids-activity: false
+  name: "The Funk Cats"
+  description: |
+    Instrumental Funk Band (featuring a Nuno Bettencourt lookalike on guitar) Seriously Funky.
+  link:
+  venue: "The Jolly Sailor"
+  
+- start-time: 1800
+  end-time: 1900
+  kids-activity: false
+  name: "Rubix Cube (solo set)"
+  description: |
+    Solo set from one member of the 80s Party Band 'Rubix Cube'
+  link:
+  venue: "The Jolly Sailor"
+
 - start-time: 1930
   end-time: 2100
   kids-activity: false
