@@ -2,3 +2,4 @@ name: Cawoodstock
 description: Cawoodstock Music and Cultural Festival
 paginate: 10
 baseurl: ''
+livereload: true
