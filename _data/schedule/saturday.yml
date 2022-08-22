@@ -1,103 +1,59 @@
 # SATURDAY SCHEDULE DATA
 # * venue relative links are inferred: "venues#slugified-venue-name"
 
-- start-time: 1100
-  end-time: 1400
-  kids-activity: true
-  name: "Refreshments at Cawood Church"
-  description: |
-    Refreshments are served at Cawood's historic church on Cawoodstock Saturday, Sunday and Monday, in aid of church funds. Please do go along to see this beautiful church, one of very few  Royal Peculiars (exempt from the jurisdiction of the diocese and the province in which it lies and subject to the direct jurisdiction of the monarch) outside London. You will also be supporting Cawood church by buying refreshments.
-  link: 
-  venue: "Cawood All Saints' Church"
-
-- start-time: 1200
-  end-time: 1300
+- start-time: 1330
+  end-time: 1445
   kids-activity: false
-  name: "Sophie Moss"
-  description: |
-    Sophie is a Singer/Songwriter from Castleford, West Yorkshire.
-  link: https://www.facebook.com/sophiemossartist/
+  name: "Debra Simpson"
+  description: ""
+  link:
   venue: "The Jolly Sailor"
   
-- start-time: 1300
-  end-time: 1430
-  kids-activity: false
-  name: "Michael Collinson"
-  description: "Michael Collinson from The Lights acoustic duo plays us an acoustic solo set"
-  link: "bands#michael-collinson"
-  venue: "The Jolly Sailor"
-  
-- start-time: 1400
+- start-time: 1445
   end-time: 1600
-  kids-activity: true
-  name: Kids Crafts in the Old Boys' School
-  description: |
-    On Saturday 28th August, alongside Cawoodstock & the Fairy Trail, Cawood Brownies & Rainbows will be hosting a joint fund raising event at the OBS from 2-4pm, offering a range of children's crafts for all ages including the ever-popular sand art & fairy-themed activities. We will also be serving hot & cold drinks & home made refreshments. Please come along and support us if you can! All profits will be used by our Rainbow & Brownie leaders to support the fun, varied & challenging programme of activities we offer to our young people.
-  link: https://www.facebook.com/groups/cawoodstock/posts/3544749255627956/ 
-  
-- start-time: 1430
-  end-time: 1530
   kids-activity: false
-  name: "The Lydia Bousfield Group"
-  description: |
-    Lydia will line up with her brother Isaac, on bass, Aunty Amanda on viola and Dad, Marcus on electric guitar to sing songs written by Sting, Amy Winehouse, Damien Rice, and several well-known Jazz standards.
+  name: "Kev Jones"
+  description: ""
   link:
   venue: "The Jolly Sailor"
   
-- start-time: 1530
-  end-time: 1700
+- start-time: 1600
+  end-time: 1730
   kids-activity: false
-  name: "CeeJay"
-  description: 
+  name: "Headlight Dodging Rabbits"
+  description: ""
   link:
   venue: "The Jolly Sailor"
   
-- start-time: 1700
+- start-time: 1730
   end-time: 1900
   kids-activity: false
-  name: "Jake Segrave on guitar"
-  description: 
+  name: "The Lydia Bousfield Trio"
+  description: ""
   link:
-  venue: "The Ferry Inn"
-  
-- start-time: 1700
-  end-time: 1830
+  venue: "The Jolly Sailor"
+
+- start-time: 1900
+  end-time: 2100
   kids-activity: false
-  name: "Wildflowers"
-  description: 
+  name: "Bella Robey"
+  description: ""
   link:
   venue: "The Jolly Sailor"
   
 - start-time: 1900
-  end-time: 2100
+  end-time: 2200
   kids-activity: false
-  name: Louis Brown Elvis Tribute
-  description: 
+  name: "The Best of Soul and Motown with Jimmy Mac"
+  description: ""
   link:
   venue: "The Ferry Inn"
-  
-- start-time: 1830
-  end-time: 2000
-  kids-activity: false
-  name: "Nick Ward"
-  description: 
-  link:
-  venue: "The Jolly Sailor"
-  
-- start-time: 2000
-  end-time: 2100
-  kids-activity: false
-  name: "Tri-starr"
-  description: 
-  link:
-  venue: "The Jolly Sailor"
   
 - start-time: 2100
   end-time: "late"
   kids-activity: false
   name: "The Sicknotes Of Cawood"
-  description: |
-    The Sicknotes lineup of guitar, double bass, drums, and 3 singers return to their home venue bringing more of their Cawoodstock-headlining Ramshackle Sound and unusual blend of Rockabilly, jazz, blues and pop. Something for everyone, from chilled dark jazz sounds right up to danceable, floor-filling cheese. 
+  description: ""
   link:
   venue: "The Jolly Sailor"
 

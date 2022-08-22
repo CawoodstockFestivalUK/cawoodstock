@@ -2,70 +2,50 @@
 # * venue relative links are inferred: "venues#slugified-venue-name"
 
 
-- start-time: 1430
-  end-time: 1545
+- start-time: 1530
+  end-time: 1630
   kids-activity: false
-  name: "Natural Antagonists"
-  description:
-  link: "bands#natural-antagonists"
-  venue: "The Jolly Sailor"
-  
-- start-time: 1545
-  end-time: 1700
-  kids-activity: false
-  name: "Lindsey Shields"
-  description:
+  name: "Woodside Wingers"
+  description: ""
   link:
   venue: "The Jolly Sailor"
   
-- start-time: 1700
+- start-time: 1630
   end-time: 1800
   kids-activity: false
-  name: "Darren Butler"
-  description:
+  name: "Will Robey"
+  description: ""
   link:
   venue: "The Jolly Sailor"
-
+  
 - start-time: 1800
-  end-time: 1900
+  end-time: 1930
   kids-activity: false
-  name: "Kit Frost"
-  description: |
-    Piano and vocals from Cawood's own Kit Frost, covering jazz, soul, and R&B classics
-  link: "bands#kit-frost"
+  name: "Darren Butler"
+  description: ""
+  link:
   venue: "The Jolly Sailor"
   
 - start-time: 1900
-  end-time: 2000
+  end-time: 2330
   kids-activity: false
-  name: "James Willis"
-  description:
+  name: "Julian Socha and Stryder's Budgie - 2 band special"
+  description: ""
+  link:
+  venue: "The Ferry Inn"
+  
+- start-time: 1930
+  end-time: 2200
+  kids-activity: false
+  name: "Fahrenheit V"
+  description: ""
   link:
   venue: "The Jolly Sailor"
   
-- start-time: 2000
-  end-time: 2100
+- start-time: 2200
+  end-time: 2330
   kids-activity: false
-  name: "Kris Crump"
-  description: |
-    Chris is another talented local musician playing acoustic music with an unusual Country and Western vibe, as well as solo vocals that are out of this world.
-  link: "bands#kris-crump"
-  venue: "The Jolly Sailor"
-
-- start-time: 2000
-  end-time: 2200
-  kids-activity: false
-  name: "Julian Socha"
-  description: |
-    Electric and Acoustic Guitarist Singer-Songwriter returns to the Ferry Inn for Cawoodstock.
-  link: "https://www.facebook.com/TheFerryInnAllNew/posts/4496277413750500"
-  venue: "The Ferry Inn"
-  
-- start-time: 2100
-  end-time: "late"
-  kids-activity: false
-  name: "Open Jam Session"
-  description: |
-    No it's *not* an Open Mic - it's a jam session! Get a drink and bring an instrument. Expect to join in with everyone else's stuff. No rules except don't drown everyone else out with your Mesa/Boogie stack ;-) Aim acoustic... we have instruments at the Jolly including piano, cajon, guitar and uke.
+  name: "In Flux"
+  description: ""
   link:
   venue: "The Jolly Sailor"

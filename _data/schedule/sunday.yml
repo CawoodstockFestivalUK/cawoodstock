@@ -1,89 +1,91 @@
 # SUNDAY SCHEDULE DATA
 # * venue relative links are inferred: "venues#slugified-venue-name"
 
-- start-time: 1100
-  end-time: 1400
-  kids-activity: true
-  name: "Refreshments at Cawood Church"
-  description: |
-    Refreshments are served at Cawood's historic church on Cawoodstock Saturday, Sunday and Monday, in aid of church funds. Please do go along to see this beautiful church, one of very few  Royal Peculiars (exempt from the jurisdiction of the diocese and the province in which it lies and subject to the direct jurisdiction of the monarch) outside London. You will also be supporting Cawood church by buying refreshments.
-  link: 
-  venue: "Cawood All Saints' Church"
 
 - start-time: 1200
-  end-time: 1400
-  kids-activity: true
-  name: "Young Musicians's Open Jam Session"
-  description: |
-    A fun, simple singalong and jam session just for young musicians to get them into jamming! Sing your favourite songs & play instruments with your friends and a live acoustic band! Nobody's going to be put on the spot to play solo, it's a joint effort - a jam, not an open mic. Plenty of musical parents will be around to help out and get everyone involved.
-  link: "other-activities#youthjam"
+  end-time: 1300
+  kids-activity: false
+  name: "The Jolly Ukulele Band"
+  description: ""
+  link: 
   venue: "The Jolly Sailor"
   
-- start-time: 1200
-  end-time: 1300
-  kids-activity: true
-  name: "Yorky Pud Street Band (outside)"
-  description:
-  link:
+- start-time: 1300
+  end-time: 1400
+  kids-activity: false
+  name: "Michael Collinson"
+  description: ""
+  link: 
   venue: "The Jolly Sailor"
 
 - start-time: 1400
-  end-time: 1530
+  end-time: 1500
   kids-activity: false
-  name: "Debra Simpson"
-  description: |
-    original and cover songs in the style of Joan Baez, Joni Mitchell, Sandy Denny and others of the 60's folk revival era. A part of York's music scene for just over 4 years, although she has played and sung for most of her life.
-  link: "bands#deb-simpson"
-  venue: "The Jolly Sailor"
+  name: "The Mayne Lads"
+  description: ""
+  link: 
+  venue: "White Cross Waterski Club"
   
-- start-time: 1530
-  end-time: 1630
+- start-time: 1430
+  end-time: 1600
   kids-activity: false
-  name: "Pete Brown and Stuart Bolton"
-  description: |
-    Acoustic and electric covers duo in the lounge area of the Jolly Sailor
-  link:
+  name: "Richard Halma"
+  description: ""
+  link: 
   venue: "The Jolly Sailor"
+
+- start-time: 1500
+  end-time: 1600
+  kids-activity: false
+  name: "Headlight Dodging Rabbits"
+  description: ""
+  link: 
+  venue: "White Cross Waterski Club"
   
-- start-time: 1630
+- start-time: 1600
   end-time: 1700
   kids-activity: false
-  name: "The Funk Cats"
-  description: |
-    Instrumental Funk Band (featuring a Nuno Bettencourt lookalike on guitar) Seriously Funky.
-  link:
-  venue: "The Jolly Sailor"
-  
-- start-time: 1800
-  end-time: 1900
-  kids-activity: false
-  name: "Rubix Cube (solo set)"
-  description: |
-    Solo set from one member of the 80s Party Band 'Rubix Cube'
-  link:
-  venue: "The Jolly Sailor"
-
-- start-time: 1930
-  end-time: 2100
-  kids-activity: false
-  name: "Harrison Rimmer"
-  description: |
-    Celebrated local singer-songriter and jam session legend returns to Cawoodstock for his third year!
-  link: "bands#harrison-rimmer"
-  venue: "The Jolly Sailor"
-
-- start-time: 1700
-  end-time: 2100
-  kids-activity: false
-  name: "DJ Alex Malam"
-  description: "Playing chilled out dance Ibiza classics"
+  name: "Richard Halma"
+  description: ""
   link: 
-  venue: "The Ferry Inn"
+  venue: "White Cross Waterski Club"
   
-- start-time: 2100
-  end-time: "late"
+- start-time: 1600
+  end-time: 2100
   kids-activity: false
-  name: "The Black Dogs"
-  description: |
-    4-piece Indie Rock covers band closing the Cawoodstock Music and Cultural Festival 2021
+  name: "Alex Malam"
+  description: ""
+  link:
+  venue: "The Jolly Sailor"
+  
+- start-time: 1600
+  end-time: 1700
+  kids-activity: false
+  name: "Happy Jam Adults n Kids"
+  description: ""
+  link: 
+  venue: "The Jolly Sailor"
+  
+- start-time: 1815
+  end-time: 1930
+  kids-activity: false
+  name: "Music Quiz Prizes n Raffle"
+  description: ""
+  link: 
+  venue: "The Jolly Sailor"
+  
+- start-time: 1930
+  end-time: 2130
+  kids-activity: false
+  name: "James Beresford"
+  description: ""
+  link: 
+  venue: "The Jolly Sailor"
+  
+- start-time: 2130
+  end-time: 2330
+  kids-activity: false
+  name: "End Of Festival Show - with Miss Kitty Lee"
+  description: ""
+  link: 
   venue: "The Jolly Sailor"

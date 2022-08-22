@@ -33,7 +33,7 @@
   phone:
   address: "Rythergate, Cawood, Selby YO8 3TP"
   location:
-  participating: false
+  participating: true
 
 - name: "Grangeside Nurseries"
   blurb: |
@@ -75,4 +75,4 @@
   phone:
   address: "All Saints Church, Church End, Cawood, YO8 3SN"
   location:
-  participating: true
+  participating: false
