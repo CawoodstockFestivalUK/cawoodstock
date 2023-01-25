@@ -3,7 +3,7 @@
 # Cawoodstock
 
 * Simple Jekyll-based static site for Cawoodstock Music and Cultural Festival
-* Different years are managed in Git branches, one branch per year, eg `2018`, `2019`, ~~`2020`~~, `2021`
+* Different years are managed in Git branches, one branch per year, eg `2018`, `2019`, ~~`2020`~~, `2021`, `2022`, `2023`
 * There is a `holding` branch which is used in between events
 * The site is deployed via Netlify
 
@@ -11,4 +11,5 @@
 * To create a new Cawoodstock 'year' just fork a previous year into a new branch named after the year, eg `2021`
 * Netlify will build and deploy a site for every branch on the GitHub repo, so the new branch will be at `2021.cawoodstock.org`
 * The 'production' branch is set in Netlify, and this is what will be at the TLD cawoodstock.org
-* Old sites are visible at their year-subdomain.cawoodstock.org URL
+* Old sites are visible at their year-subdomain.cawoodstock.org URL eg https://2019.cawoodstock.org
+
