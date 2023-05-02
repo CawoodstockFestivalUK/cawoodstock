@@ -1,8 +1,8 @@
 # this YAML file contains the key configs for a Cawoodstock instance
 
-year: 2022
+year: 2023
 dates:
-  friday: "Friday 26th August"
-  saturday: "Saturday 27th August"
-  sunday: "Sunday 28th August"
+  friday: "Friday 25th August"
+  saturday: "Saturday 26th August"
+  sunday: "Sunday 27th August"
   monday: ""

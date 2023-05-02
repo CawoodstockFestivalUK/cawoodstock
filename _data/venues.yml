@@ -6,7 +6,7 @@
   phone:
   address: "7 Wistowgate, Cawood, Selby YO8 3SH"
   location:
-  participating: false
+  participating: true
 
 - name: "The Jolly Sailor"
   web: "https://www.facebook.com/jolly.cawood"
@@ -50,7 +50,7 @@
   phone:
   address: "2 High St, Cawood, Selby YO8 3TH"
   location:
-  participating: false
+  participating: true
 
 - name: "Cawood Park Caravan Site"
   blurb: "Cawood Park is located in a tranquil location on the banks of the River Wharfe between Tadcaster and  Selby"
@@ -58,7 +58,7 @@
   phone: "01757 268450"
   address: "Ryther Rd, Cawood, York YO8 3TT"
   location:
-  participating: false
+  participating: true
 
 - name: "Cawood Old Boys' School"
   blurb: |
