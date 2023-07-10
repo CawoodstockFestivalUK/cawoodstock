@@ -35,14 +35,15 @@
   location:
   participating: true
 
-- name: "Grangeside Nurseries"
+- name: "The Village Tea Room"
   blurb: |
-    Grangeside Nurseries and Cafe, a hidden gem in the heart of historic Cawood. We pride ourselves on high quality plants specialising in those that are especially useful to bees and pollinating insects and actively promote environmentally conscientious gardening. We have a cosy cafe with plenty of outdoor seating, serving breakfast baps, lunches and great coffee and cakes
-  web: "https://www.facebook.com/Grangeside-Nurseries-218832071806414/"
+    The Village is a family friendly Tea Room and Garden Centre in Cawood near Selby and York.
+    Normal opening hours are 8:30 to 4:00, however over the Cawoodstock period hours may be extended to accommodate for events, see The Village Tea Room website for details.
+  web: "https://www.thevillage-tearoom.co.uk"
   phone:
   address: "Thorpe Lane, Cawood, YO8 3SG"
   location:
-  participating: false
+  participating: true
 
 - name: "The Pickled Postie"
   blurb:

@@ -2,50 +2,34 @@
 # * venue relative links are inferred: "venues#slugified-venue-name"
 
 
-- start-time: 1530
-  end-time: 1630
+- start-time: "1500"
+  end-time: "1630"
   kids-activity: false
-  name: "Woodside Wingers"
+  name: "Michael Collinson"
   description: ""
   link:
   venue: "The Jolly Sailor"
-  
-- start-time: 1630
-  end-time: 1800
+
+- start-time: "1630"
+  end-time: "1830"
   kids-activity: false
-  name: "Will Robey"
+  name: "Gaelforce"
   description: ""
   link:
   venue: "The Jolly Sailor"
-  
-- start-time: 1800
-  end-time: 1930
+
+- start-time: "1830"
+  end-time: "2030"
   kids-activity: false
-  name: "Darren Butler"
+  name: "Jolly Ukelele Band"
   description: ""
   link:
   venue: "The Jolly Sailor"
-  
-- start-time: 1900
-  end-time: 2330
+
+- start-time: "2030"
+  end-time: "2230"
   kids-activity: false
-  name: "Julian Socha and Stryder's Budgie - 2 band special"
-  description: ""
-  link:
-  venue: "The Ferry Inn"
-  
-- start-time: 1930
-  end-time: 2200
-  kids-activity: false
-  name: "Fahrenheit V"
-  description: ""
-  link:
-  venue: "The Jolly Sailor"
-  
-- start-time: 2200
-  end-time: 2330
-  kids-activity: false
-  name: "In Flux"
+  name: "Sarah Barker"
   description: ""
   link:
   venue: "The Jolly Sailor"

@@ -1,59 +1,50 @@
 # SATURDAY SCHEDULE DATA
 # * venue relative links are inferred: "venues#slugified-venue-name"
 
-- start-time: 1330
-  end-time: 1445
-  kids-activity: false
-  name: "Debra Simpson"
+- start-time: "0830"
+  end-time: "1600"
+  kids-activity: true
+  name: "Kids Day"
+  description: "Face Painting, Rock/Pebble Painting, Fairy Drawing Competition"
+  link:
+  venue: "The Village Tea Room"
+
+- start-time: "1300"
+  end-time: "1500"
+  kids-activity: true
+  name: "Kids Jamming"
   description: ""
   link:
   venue: "The Jolly Sailor"
   
-- start-time: 1445
-  end-time: 1600
+- start-time: "1500"
+  end-time: "1630"
   kids-activity: false
-  name: "Kev Jones"
+  name: "Headlight-Dodging Rabbits"
   description: ""
   link:
   venue: "The Jolly Sailor"
-  
-- start-time: 1600
-  end-time: 1730
+    
+- start-time: "1630"
+  end-time: "1830"
   kids-activity: false
-  name: "Headlight Dodging Rabbits"
+  name: "Lydia Bousfield Trio"
   description: ""
   link:
   venue: "The Jolly Sailor"
-  
-- start-time: 1730
-  end-time: 1900
+    
+- start-time: "1830"
+  end-time: "2030"
   kids-activity: false
-  name: "The Lydia Bousfield Trio"
+  name: "Darren Butler"
   description: ""
   link:
   venue: "The Jolly Sailor"
 
-- start-time: 1900
-  end-time: 2100
+- start-time: "2030"
+  end-time: "2300"
   kids-activity: false
-  name: "Bella Robey"
+  name: "Sicknotes"
   description: ""
   link:
   venue: "The Jolly Sailor"
-  
-- start-time: 1900
-  end-time: 2200
-  kids-activity: false
-  name: "The Best of Soul and Motown with Jimmy Mac"
-  description: ""
-  link:
-  venue: "The Ferry Inn"
-  
-- start-time: 2100
-  end-time: "late"
-  kids-activity: false
-  name: "The Sicknotes Of Cawood"
-  description: ""
-  link:
-  venue: "The Jolly Sailor"
-
