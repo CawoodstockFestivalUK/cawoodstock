@@ -7,9 +7,9 @@
   kids-activity: false
   name: "The Lydia Bousfield Trio"
   description: "Afternoon Tea"
-  link: 
+  link:
   venue: "The Village Tea Room"
-  
+
 - start-time: "1330"
   end-time: "1500"
   kids-activity: false
@@ -17,7 +17,7 @@
   description: "Prize: Gallon of Beer"
   link:
   venue: "The Jolly Sailor"
-    
+
 - start-time: "1500"
   end-time: "1630"
   kids-activity: false
@@ -25,7 +25,7 @@
   description: ""
   link:
   venue: "The Jolly Sailor"
-    
+
 - start-time: "1630"
   end-time: "1900"
   kids-activity: false
@@ -33,12 +33,12 @@
   description: ""
   link:
   venue: "The Jolly Sailor"
-    
+
 - start-time: "1900"
   end-time: "2100"
   kids-activity: false
-  name: "Gaz Rowntree"
-  description: ""
+  name: "The Modloop Collective"
+  description: "The show is a live looping multiple synthesizer, sampler and drum machine performance, no two shows are the same! Started as an experimental modular synthesis experiment, songs started to fall out of jams and turning into something a little more repeatable. The addition of a vocalist further cemented these tracks into songs. We have no idea what genre this music is. Maybe it is dance music?"
   link:
   venue: "The Jolly Sailor"
 

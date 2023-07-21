@@ -1,29 +1,171 @@
 # * The NAME field (slugified) will be used to create an anchor on the bands page
-# * If you set PLAYING THIS YEAR to false then the band won't show on the page
-# * DON'T REMOVE BANDS, JUST DISABLE THEM AS ABOVE
+# * DON'T REMOVE BANDS, JUST COMMENT THEM OUT
 # * Image relative path is inferred: "lower-case-slugified-band-name.jpg"
 
-
-# - name: "Natural Antagonists"
-#   blurb: "a blend of melodic guitar and vocal harmonies performing original and well-known material"
-#   lineup:
-#   facebook:
-#   web:
-  
-
-# - name: "Michael Stanns (Ryan Shaw Music)"
-#   blurb: "ryanshaw.jpg"
-#   lineup:
-#   facebook: "https://www.facebook.com/ryan.shaw.16568"
-#   web:
-
+- name: "Michael Collinson"
+  blurb: |
+    Michael Collinson from The Lights acoustic duo, playing acoustic solo this year at Cawoodstock
+  lineup:
+  facebook: "https://www.facebook.com/michael.collinson.182"
+  web:
 
 - name: "Shab 'Elvis' Hussain"
   blurb: "Cawood's own Elvis!"
   lineup: "Shahab Hussain. Skiffle band: Patrick Morris, Gaz Rowntree, Marcus Baw"
   facebook: "https://www.facebook.com/shahab.hussain.399"
   web:
-  
+
+- name: "The Bousfield International Jazz Trio"
+  blurb: |
+    A great jazz trio formed from four people especially for Cawoodstock, showcasing native Cawoodian and future trombone superstar Isaac Bousfield, with jazz classics and easy tunes backed by jazz bass, violin and guitar.
+  lineup: "Isaac Bousfield, Marcus Bousfield, Patricio Morríz, Marcus Baw"
+  facebook:
+  web:
+
+- name: "The Lydia Bousfield Trio"
+  blurb: |
+    A local jazz trio showcasing native Cawoodian and future singing superstar Lydia Bousfield, with jazz classics and easy tunes backed by bass, violin and guitar.
+  lineup: Lydia Bousfield (vocals), Isaac Bousfield (bass/trombone), Marcus Bousfield (piano/guitar)
+  facebook:
+  web:
+
+- name: "Gaelforce"
+  blurb:
+  lineup:
+  facebook:
+  web:
+
+- name: "Jolly Ukelele Band"
+  blurb:
+  lineup:
+  facebook:
+  web:
+
+- name: Miss Vintage
+  blurb:
+  lineup: Sarah Barker
+  facebook:
+  web:
+
+- name: Headlight-Dodging Rabbits
+  blurb:
+  lineup:
+  facebook:
+  web:
+
+- name: Darren Butler
+  blurb: |
+    Darren is a solo act (Vocals/Guitar) playing late 50s to 70s with the odd 80s tune.. Beatles, Simon & Garfunkel, Dylan, Elvis and more.
+  lineup: Darren Butler
+  facebook: https://www.facebook.com/profile.php?id=100013704673833
+  web:
+
+- name: Rose Hewick
+  blurb:
+  lineup:
+  facebook:
+  web:
+
+- name: Ukelele Sunshine Revival Band
+  blurb: |
+    USR is a ukulele band playing an eclectic range of covers of popular songs. We are a party band that will entertain with songs that will get you foot-tapping, dancing and smiling.
+  lineup: |
+    Rory Barke: tenor ukulele (low G) and vocals, Terry Brett: Baritone ukulele, banjolele and vocals, Diane Neville-Beck: Tenor,ukulele and vocals, Maria Parks: Bass ukulele, Gill MacGregor: Recorder, percussion, Stuart Priest: Cajon and percussion.
+  facebook: https://www.facebook.com/ukulelesunshinerevival
+  web: https://www.ukulelesunshinerevival.co.uk/index.php
+
+- name: The Modloop Collective
+  blurb:
+  lineup:
+  facebook:
+  web:
+
+- name: Miss Kitty Lee Cabaret Show
+  blurb:
+  lineup:
+  facebook:
+  web:
+
+- name: The Sicknotes
+  blurb: |
+    Rockabilly, rock, and pop covers in their own famous 'ramshackle' style - from pop tunes to danceable swing-a-billy and cool sultry jazz.
+  lineup: |
+    Jim Morrow (drums), Marcus Baw (vocals, guitar), Patrick Morris (vocals, double bass)
+  facebook: "https://www.facebook.com/SicknotesOfCawood/"
+  web: https://thesicknotes.co.uk
+
+- name: "Julian Socha"
+  blurb: "Electric and Acoustic Guitarist Singer-Songwriter"
+  lineup: "Julian Socha"
+  facebook: "https://www.facebook.com/juliansochamusic/"
+  web:
+
+- name: Harrison Rimmer
+  blurb: Celebrated local singer-songriter and jam session legend
+  lineup: Harrison Rimmer
+  facebook: https://www.facebook.com/harrison.rimmer
+  web: https://harrisonrimmer1.bandcamp.com/
+
+# - name: "Miles Salter"
+#   blurb: |
+#     Miles Salter heads up Miles and The Chain Gang and plays acoustically in North Yorkshire. He is also a writer, poet and events manager. Miles takes his cues from Bruce Springsteen, Van Morrison, Bob Dylan and more.
+#   lineup: "Miles Salter"
+#   facebook: "https://www.facebook.com/miles.salter.9"
+#   web:
+
+# - name: "Deb Simpson"
+#   blurb: |
+#     original and cover songs in the style of Joan Baez, Joni Mitchell, Sandy Denny and others of the 60's folk revival era. A part of York's music scene for just over 4 years, although she has played and sung for most of her life.
+#   lineup: "Deb Simpson"
+#   facebook: "https://www.facebook.com/debra.simpson.79"
+#   web:
+
+# - name: "No Debris"
+#   blurb: |
+#    a York and Selby based trio of vocals, guitars, mandolin, harmonica, cajon and the occasional toot of treble recorder. Along with some original stuff we also cover the likes of The Eagles, Creedence Clearwater Revival, Simon & Garfunkel, Nanci Griffiths, Bob Dylan and more.
+#   lineup: "Deb Simpson, Brian Worrall and Dave Hume"
+#   facebook:
+#   web:
+
+# - name: "Folk-ish"
+#   blurb: |
+#     Folk-ish are a highly diverse group of musicians, ranging in ages from 11 to 77! They bring together a host of different instruments, styles and tastes, and smush them together into a band... Expect an eclectic mix of pop, rock and country covers - there’s something for everyone to sing along to!
+#   lineup:
+#   facebook: "https://www.facebook.com/folkish1"
+#   web:
+
+# - name: "Waifs n Strays"
+#   blurb: |
+#     Since forming in early 2016 Waifs & Strays have played at a number of events at local venues in and around York.
+#   lineup: "Diane Neville-Beck, Maria Parks, JJ Langley, Kate Scott-Huges, Reid B"
+#   facebook: "https://www.facebook.com/waifsandstraysyork/"
+#   web:
+
+# - name: "Ryan Ellerby"
+#   blurb: |
+#     Ryan is a local soloist and acoustic act, bringing his unique style to Cawoodstock
+#   lineup:
+#   facebook: "https://www.facebook.com/RME207/"
+#   web:
+
+# - name: "Peter Brown"
+#   blurb: |
+#     Lead singer and singer songwriter of Fool’s Mate. Playing a mix of his own material and Fool's Mate material, with choice covers in his own style.
+#   lineup:
+#   facebook: "https://www.facebook.com/peter.brown.5439"
+#   web: "https://www.facebook.com/Foolsmateband/"
+
+# - name: "Natural Antagonists"
+#   blurb: "a blend of melodic guitar and vocal harmonies performing original and well-known material"
+#   lineup:
+#   facebook:
+#   web:
+
+# - name: "Michael Stanns (Ryan Shaw Music)"
+#   blurb: "ryanshaw.jpg"
+#   lineup:
+#   facebook: "https://www.facebook.com/ryan.shaw.16568"
+#   web:
 
 # - name: "Pop Friction"
 #   blurb: |
@@ -32,22 +174,11 @@
 #   facebook: "https://www.facebook.com/pg/popfrictionband/"
 #   web:
 
-
-- name: "The Sicknotes"
-  blurb: |
-    Rockabilly, rock, and pop covers in their own famous 'ramshackle' style - from pop tunes to danceable swing-a-billy and cool sultry jazz
-  lineup: |
-    Jim Morrow (drums), Marcus Baw (vocals, guitar), Patrick Morris (vocals, double bass)
-  facebook: "https://www.facebook.com/SicknotesOfCawood/"
-  web:
-  
-
 # - name: "the Yorkuleles"
 #   blurb: "York-based Ukulele Club and Orchestra"
 #   lineup:
 #   facebook: "https://www.facebook.com/yorkuleles/"
 #   web: "https://www.yorkuleles.co.uk"
-
 
 # - name: "Disco Factor"
 #   blurb: |
@@ -56,13 +187,11 @@
 #   facebook: "https://www.facebook.com/discofactor/"
 #   web:
 
-
 # - name: "Stryder's Budgie"
 #   blurb: "A lump of cosmic froak right in your ears"
 #   lineup: "John Budgie, Paul Budgie, Billy Budgie, Ben Budgie, Richard Budgie"
 #   facebook: "https://www.facebook.com/paul.featherstone.1441"
 #   web:
-
 
 # - name: "The Renames"
 #   blurb: |
@@ -71,20 +200,11 @@
 #   facebook: "https://www.facebook.com/therenamesyork/"
 #   web:
 
-
 # - name: "Kit Frost"
 #   blurb: "Cawoodian jazzy piano and vocals covering modern classics and jazz greats"
 #   lineup: "Kit Frost"
 #   facebook: "https://www.facebook.com/KitFrostmusic/"
 #   web:
-  
-
-# - name: "Glamchop"
-#   blurb: "Rock/pop and oldies"
-#   lineup:
-#   facebook: https://www.facebook.com/GlamChopCoversBand/
-#   web:
-  
 
 # - name: "Mark Byrne"
 #   blurb: |
@@ -92,7 +212,6 @@
 #   lineup:
 #   facebook: "https://www.facebook.com/dearmarkbyrne"
 #   web:
-  
 
 # - name: "KAYA"
 #   blurb: |
@@ -100,7 +219,6 @@
 #   lineup:
 #   facebook: "https://www.facebook.com/KayaBandOfficial/"
 #   web:
-
 
 # - name: "Pineapple Head"
 #   blurb: |
@@ -110,176 +228,9 @@
 #   facebook: "https://www.facebook.com/TheOnlyPineAppleHead/"
 #   web:
 
-
 # - name: "Hannah and the Enchanted Harp"
 #   blurb: |
 #     Teacher and Musician - although called 'Hannah the Harp', I also sing, and play piano too! Teaching all ages harp and piano. Also available for weddings/ events - send a message to discuss how I can help you for your special day.
 #   lineup: Hannah Luckins
 #   facebook: "https://www.facebook.com/HannahTheHarp/"
 #   web:
-
-
-- name: "Julian Socha"
-  blurb: "Electric and Acoustic Guitarist Singer-Songwriter"
-  lineup: "Julian Socha"
-  facebook: "https://www.facebook.com/juliansochamusic/"
-  web:
-  
-
-- name: "Harrison Rimmer"
-  blurb: "Celebrated local singer-songriter and jam session legend"
-  lineup: "Harrison Rimmer"
-  facebook: "https://www.facebook.com/harrison.rimmer"
-  web:
-  
-
-# - name: "Miles Salter"
-#   blurb: |
-#     Miles Salter heads up Miles and The Chain Gang and plays acoustically in North Yorkshire. He is also a writer, poet and events manager. Miles takes his cues from Bruce Springsteen, Van Morrison, Bob Dylan and more.
-#   lineup: "Miles Salter"
-#   facebook: "https://www.facebook.com/miles.salter.9"
-#   web:
-
-
-# - name: "Deb Simpson"
-#   blurb: |
-#     original and cover songs in the style of Joan Baez, Joni Mitchell, Sandy Denny and others of the 60's folk revival era. A part of York's music scene for just over 4 years, although she has played and sung for most of her life.
-#   lineup: "Deb Simpson"
-#   facebook: "https://www.facebook.com/debra.simpson.79"
-#   web:
-  
-
-# - name: "No Debris"
-#   blurb: |
-#    a York and Selby based trio of vocals, guitars, mandolin, harmonica, cajon and the occasional toot of treble recorder. Along with some original stuff we also cover the likes of The Eagles, Creedence Clearwater Revival, Simon & Garfunkel, Nanci Griffiths, Bob Dylan and more.
-#   lineup: "Deb Simpson, Brian Worrall and Dave Hume"
-#   facebook:
-#   web:
-
-
-# - name: "Folk-ish"
-#   blurb: |
-#     Folk-ish are a highly diverse group of musicians, ranging in ages from 11 to 77! They bring together a host of different instruments, styles and tastes, and smush them together into a band... Expect an eclectic mix of pop, rock and country covers - there’s something for everyone to sing along to!
-#   lineup:
-#   facebook: "https://www.facebook.com/folkish1"
-#   web:
-
-
-# - name: "Waifs n Strays"
-#   blurb: |
-#     Since forming in early 2016 Waifs & Strays have played at a number of events at local venues in and around York.
-#   lineup: "Diane Neville-Beck, Maria Parks, JJ Langley, Kate Scott-Huges, Reid B"
-#   facebook: "https://www.facebook.com/waifsandstraysyork/"
-#   web:
-  
-
-# - name: "Ryan Ellerby"
-#   blurb: |
-#     Ryan is a local soloist and acoustic act, bringing his unique style to Cawoodstock
-#   lineup:
-#   facebook: "https://www.facebook.com/RME207/"
-#   web:
-
-
-- name: "Michael Collinson"
-  blurb: |
-    Michael Collinson from The Lights acoustic duo, playing acoustic solo this year at Cawoodstock
-  lineup:
-  facebook: "https://www.facebook.com/michael.collinson.182"
-  web:
-  
-
-# - name: "Peter Brown"
-#   blurb: |
-#     Lead singer and singer songwriter of Fool’s Mate. Playing a mix of his own material and Fool's Mate material, with choice covers in his own style.
-#   lineup:
-#   facebook: "https://www.facebook.com/peter.brown.5439"
-#   web: "https://www.facebook.com/Foolsmateband/"
-
-
-- name: "The Bousfield International Jazz Trio"
-  blurb: |
-    A great jazz trio formed from four people especially for Cawoodstock, showcasing native Cawoodian and future trombone superstar Isaac Bousfield, with jazz classics and easy tunes backed by jazz bass, violin and guitar.
-  lineup: "Isaac Bousfield, Marcus Bousfield, Patricio Morríz, Marcus Baw"
-  facebook:
-  web:
-  
-
-- name: "The Lydia Bousfield Trio"
-  blurb: |
-    A great jazz trio formed from four people especially for Cawoodstock, showcasing native Cawoodian and future trombone superstar Isaac Bousfield, with jazz classics and easy tunes backed by jazz bass, violin and guitar.
-  lineup: "Lydia Bousfield (vocals), Isaac Bousfield (bass/trombone), Marcus Bousfield (piano/guitar)"
-  facebook:
-  web:
-  
-
-  name: "Gaelforce"
-  blurb: |
-
-  lineup:
-  facebook:
-  web:
-
-
-  name: "Jolly Ukelele Band"
-  blurb: |
-
-  lineup:
-  facebook:
-  web:
-
-
-  name: "Sarah Barker"
-  blurb: |
-
-  lineup:
-  facebook:
-  web:
-
-
-  name: "Headlight-Dodging Rabbits"
-  blurb: |
-
-  lineup:
-  facebook:
-  web:
-
-
-  name: "Darren Butler"
-  blurb: |
-
-  lineup:
-  facebook:
-  web:
-
-
-  name: "Rose Hewick"
-  blurb: |
-
-  lineup:
-  facebook:
-  web:
-
-
-  name: "Ukelele Sunshine Revival Band"
-  blurb: |
-
-  lineup:
-  facebook:
-  web:
-
-
-  name: "Gaz Rowntree"
-  blurb: |
-
-  lineup:
-  facebook:
-  web:
-
-
-  name: "Miss Kitty Lee Cabaret Show"
-  blurb: |
-
-  lineup:
-  facebook:
-  web:
