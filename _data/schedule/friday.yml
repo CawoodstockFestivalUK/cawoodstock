@@ -13,7 +13,7 @@
 - start-time: "1630"
   end-time: "1830"
   kids-activity: false
-  name: "Gaelforce"
+  name: "Woodside Wingers"
   description: ""
   link:
   venue: "The Jolly Sailor"
@@ -25,6 +25,14 @@
   description: ""
   link:
   venue: "The Jolly Sailor"
+
+- start-time: "1900"
+  end-time: "2300"
+  kids-activity: false
+  name: "DJ set with Alex Malm"
+  description:
+  link:
+  venue: "The Ferry Inn"
 
 - start-time: "2030"
   end-time: "2230"

@@ -1,6 +1,14 @@
 # SUNDAY SCHEDULE DATA
 # * venue relative links are inferred: "venues#slugified-venue-name"
 
+- start-time: "1000
+  end-time: "1100"
+  kids-activity: false
+  name: "The Bousfield International Jazz Trio"
+  description: |
+    Violin, Electric jazz guitar and Jazz Bass to start your Sunday morning, with coffee and breakfast at the Village Tea Rooms.
+  link:
+  venue: "The Village Tea Room"
 
 - start-time: "1400"
   end-time: "1600"
@@ -17,6 +25,22 @@
   description: "Prize: Gallon of Beer"
   link:
   venue: "The Jolly Sailor"
+
+- start-time: "1500"
+  end-time: "1700"
+  kids-activity: false
+  name: "Mila Lee"
+  description: ""
+  link:
+  venue: "The Ferry Inn"
+
+- start-time: "1700"
+  end-time: "2000"
+  kids-activity: false
+  name: "Julian Socha"
+  description: ""
+  link:
+  venue: "The Ferry Inn"
 
 - start-time: "1500"
   end-time: "1630"
@@ -39,7 +63,8 @@
   end-time: "2100"
   kids-activity: false
   name: "The Modloop Collective"
-  description: "The show is a live looping multiple synthesizer, sampler and drum machine performance, no two shows are the same! Started as an experimental modular synthesis experiment, songs started to fall out of jams and turning into something a little more repeatable. The addition of a vocalist further cemented these tracks into songs. We have no idea what genre this music is. Maybe it is dance music?"
+  description: |
+    The show is a live looping multiple synthesizer, sampler and drum machine performance, no two shows are the same! Started as an experimental modular synthesis experiment, songs started to fall out of jams and turning into something a little more repeatable. The addition of a vocalist further cemented these tracks into songs. We have no idea what genre this music is. Maybe it is dance music?
   link:
   venue: "The Jolly Sailor"
 
@@ -50,3 +75,19 @@
   description: ""
   link:
   venue: "The Jolly Sailor"
+
+# - start-time: "1500"
+#   end-time: "1630"
+#   kids-activity: false
+#   name: "Headlight-Dodging Rabbits"
+#   description: |
+#   link:
+#   venue: "White Cross Waterski Club"
+
+# - start-time: "1700"
+#   end-time: "1900"
+#   kids-activity: false
+#   name: "The Sicknotes of Cawood"
+#   description: |
+#   link:
+#   venue: "White Cross Waterski Club"

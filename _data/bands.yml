@@ -70,8 +70,9 @@
   web: https://www.ukulelesunshinerevival.co.uk/index.php
 
 - name: The Modloop Collective
-  blurb:
-  lineup:
+  blurb: |
+    The show is a live looping multiple synthesizer, sampler and drum machine performance, no two shows are the same! Started as an experimental modular synthesis experiment, songs started to fall out of jams and turning into something a little more repeatable. The addition of a vocalist further cemented these tracks into songs. We have no idea what genre this music is. Maybe it is dance music?
+  lineup: Gaz Rowntree
   facebook:
   web:
 
@@ -81,7 +82,7 @@
   facebook:
   web:
 
-- name: The Sicknotes
+- name: The Sicknotes of Cawood
   blurb: |
     Rockabilly, rock, and pop covers in their own famous 'ramshackle' style - from pop tunes to danceable swing-a-billy and cool sultry jazz.
   lineup: |
@@ -96,7 +97,7 @@
   web:
 
 - name: Harrison Rimmer
-  blurb: Celebrated local singer-songriter and jam session legend
+  blurb: Celebrated local singer-songriter and jam session legend.
   lineup: Harrison Rimmer
   facebook: https://www.facebook.com/harrison.rimmer
   web: https://harrisonrimmer1.bandcamp.com/

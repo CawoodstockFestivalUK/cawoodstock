@@ -51,7 +51,7 @@
   phone:
   address: "2 High St, Cawood, Selby YO8 3TH"
   location:
-  participating: true
+  participating: false
 
 - name: "Cawood Park Caravan Site"
   blurb: "Cawood Park is located in a tranquil location on the banks of the River Wharfe between Tadcaster and  Selby"
@@ -59,7 +59,7 @@
   phone: "01757 268450"
   address: "Ryther Rd, Cawood, York YO8 3TT"
   location:
-  participating: true
+  participating: false
 
 - name: "Cawood Old Boys' School"
   blurb: |

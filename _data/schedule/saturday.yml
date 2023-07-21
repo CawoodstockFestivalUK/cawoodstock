@@ -16,7 +16,7 @@
   description: ""
   link:
   venue: "The Jolly Sailor"
-  
+
 - start-time: "1500"
   end-time: "1630"
   kids-activity: false
@@ -24,7 +24,15 @@
   description: ""
   link:
   venue: "The Jolly Sailor"
-    
+
+- start-time: "1600"
+  end-time: "1730"
+  kids-activity: false
+  name: "Stryder's Budgie"
+  description: ""
+  link:
+  venue: "The Jolly Sailor"
+
 - start-time: "1630"
   end-time: "1830"
   kids-activity: false
@@ -32,7 +40,15 @@
   description: ""
   link:
   venue: "The Jolly Sailor"
-    
+
+- start-time: "1800"
+  end-time: "1900"
+  kids-activity: false
+  name: "Elwood J Blues - Blues Brothers Commitments"
+  description: ""
+  link:
+  venue: "The Ferry Inn"
+
 - start-time: "1830"
   end-time: "2030"
   kids-activity: false
@@ -44,7 +60,7 @@
 - start-time: "2030"
   end-time: "2300"
   kids-activity: false
-  name: "Sicknotes"
+  name: "The Sicknotes of Cawood"
   description: ""
   link:
   venue: "The Jolly Sailor"
