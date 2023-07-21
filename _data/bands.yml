@@ -9,16 +9,11 @@
   facebook: "https://www.facebook.com/michael.collinson.182"
   web:
 
-- name: "Shab 'Elvis' Hussain"
-  blurb: "Cawood's own Elvis!"
-  lineup: "Shahab Hussain. Skiffle band: Patrick Morris, Gaz Rowntree, Marcus Baw"
-  facebook: "https://www.facebook.com/shahab.hussain.399"
-  web:
 
 - name: "The Bousfield International Jazz Trio"
   blurb: |
-    A great jazz trio formed from four people especially for Cawoodstock, showcasing native Cawoodian and future trombone superstar Isaac Bousfield, with jazz classics and easy tunes backed by jazz bass, violin and guitar.
-  lineup: "Isaac Bousfield, Marcus Bousfield, Patricio Morríz, Marcus Baw"
+    A jazz trio of jazz bass, violin and guitar, playing jazz and swing classics.
+  lineup: "Marcus Bousfield, Patricio Morris, Marcus Baw"
   facebook:
   web:
 
@@ -125,6 +120,12 @@
 #    a York and Selby based trio of vocals, guitars, mandolin, harmonica, cajon and the occasional toot of treble recorder. Along with some original stuff we also cover the likes of The Eagles, Creedence Clearwater Revival, Simon & Garfunkel, Nanci Griffiths, Bob Dylan and more.
 #   lineup: "Deb Simpson, Brian Worrall and Dave Hume"
 #   facebook:
+#   web:
+
+# - name: "Shab 'Elvis' Hussain"
+#   blurb: "Cawood's own Elvis!"
+#   lineup: "Shahab Hussain. Skiffle band: Patrick Morris, Gaz Rowntree, Marcus Baw"
+#   facebook: "https://www.facebook.com/shahab.hussain.399"
 #   web:
 
 # - name: "Folk-ish"
