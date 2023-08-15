@@ -9,7 +9,6 @@
   facebook: "https://www.facebook.com/michael.collinson.182"
   web:
 
-
 - name: "The Bousfield International Jazz Trio"
   blurb: |
     A jazz trio of jazz bass, violin and guitar, playing jazz and swing classics.
@@ -24,12 +23,6 @@
   facebook:
   web:
 
-- name: "Gaelforce"
-  blurb:
-  lineup:
-  facebook:
-  web:
-
 - name: "Jolly Ukelele Band"
   blurb:
   lineup:
@@ -37,7 +30,8 @@
   web:
 
 - name: Miss Vintage
-  blurb:
+  blurb: |
+    Sarah Barker is Miss Vintage. A classy mix of jazz and swing plus fresh covers of pop classics thrown in to make an entertaining set guaranteed to get your feet tapping.
   lineup: Sarah Barker
   facebook:
   web:
@@ -101,6 +95,14 @@
   lineup: Harrison Rimmer
   facebook: https://www.facebook.com/harrison.rimmer
   web: https://harrisonrimmer1.bandcamp.com/
+
+- name: "Richard Halma"
+  blurb: |
+    "The Man With The Hat" - off the wall and unusual covers and originals from the sharpest-dressed solo artist in Yorkshire!
+  lineup: Richard Halma, Hat, Guitar
+  facebook: https://www.facebook.com/richardhalmamusic/
+  web:
+
 
 # - name: "Miles Salter"
 #   blurb: |
@@ -236,3 +238,4 @@
 #   lineup: Hannah Luckins
 #   facebook: "https://www.facebook.com/HannahTheHarp/"
 #   web:
+

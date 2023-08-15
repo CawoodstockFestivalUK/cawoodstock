@@ -1,13 +1,13 @@
 {% for event in events %}
   <tr>
+    <td>
+      <a href="venues#{{ event.venue | slugify }}">{{ event.venue }}</a>
+    </td>
     <td>{{ event.start-time }}-{{ event.end-time }}</td>
     <td>
       {% if event.kids-activity %}<i class="fas fa-child" title="Kids' Activity"></i>{% endif %}
-      {{ event.name }}
+      <a href="bands#{{ event.name | slugify }}">{{ event.name }}</a>
       <p>{{ event.description }}</p>
-    </td>
-    <td>
-      <a href="venues#{{ event.venue | slugify }}">{{ event.venue }}</a>
     </td>
   </tr>
 {% endfor %}

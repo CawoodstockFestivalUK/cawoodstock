@@ -1,20 +1,21 @@
 # SUNDAY SCHEDULE DATA
 # * venue relative links are inferred: "venues#slugified-venue-name"
 
-- start-time: "1000
+- start-time: "1000"
   end-time: "1100"
   kids-activity: false
   name: "The Bousfield International Jazz Trio"
   description: |
-    Violin, Electric jazz guitar and Jazz Bass to start your Sunday morning, with coffee and breakfast at the Village Tea Rooms.
+    Violin, Electric jazz guitar and Jazz Bass to start your Sunday morning, with coffee and breakfast at the Village Tea Rooms. Starring Patrick 'Marcus' Morris, Marcus Bousfield and Marcus 'Patrick' Baw.
   link:
   venue: "The Village Tea Room"
 
-- start-time: "1400"
-  end-time: "1600"
+- start-time: "1100"
+  end-time: "1200"
   kids-activity: false
   name: "The Lydia Bousfield Trio"
-  description: "Afternoon Tea"
+  description: |
+    A local jazz trio showcasing native Cawoodian and future singing superstar Lydia Bousfield, with jazz classics and easy tunes backed by bass, violin and guitar.
   link:
   venue: "The Village Tea Room"
 
@@ -38,15 +39,16 @@
   end-time: "2000"
   kids-activity: false
   name: "Julian Socha"
-  description: ""
+  description: "Electric and Acoustic Guitarist Singer-Songwriter. You've never seen or heard anything like Julian's great covers and unusual style ranging from flamenco through to Rage Against The Machine style pitch-shifting!"
   link:
   venue: "The Ferry Inn"
 
 - start-time: "1500"
-  end-time: "1630"
+  end-time: "1600"
   kids-activity: false
   name: "Rose Hewick"
-  description: ""
+  description: |
+    15 year old singer/songwriter plays laid-back covers and originals.
   link:
   venue: "The Jolly Sailor"
 
@@ -76,18 +78,43 @@
   link:
   venue: "The Jolly Sailor"
 
-# - start-time: "1500"
-#   end-time: "1630"
-#   kids-activity: false
-#   name: "Headlight-Dodging Rabbits"
-#   description: |
-#   link:
-#   venue: "White Cross Waterski Club"
+- start-time: "1500"
+  end-time: "1630"
+  kids-activity: false
+  name: "Headlight-Dodging Rabbits"
+  description: ""
+  link:
+  venue: "White Cross Waterski Club"
 
-# - start-time: "1700"
-#   end-time: "1900"
-#   kids-activity: false
-#   name: "The Sicknotes of Cawood"
-#   description: |
-#   link:
-#   venue: "White Cross Waterski Club"
+- start-time: "1500"
+  end-time: "1630"
+  kids-activity: false
+  name: "Richard Halma"
+  description: "The Man With The Hat"
+  link:
+  venue: "White Cross Waterski Club"
+
+- start-time: "1500"
+  end-time: "1630"
+  kids-activity: false
+  name: "Silver Lining"
+  description: |
+    Local teen band Silver Lining are composed of Rose Hewick, Lilia Cole, Alice Baw, Seth Bradley, and Alex Eliott. Come along and show some support for the next generation of Cawood musicians!
+  link:
+  venue: "White Cross Waterski Club"
+
+- start-time: "1500"
+  end-time: "1630"
+  kids-activity: false
+  name: "The Lydia Bousfield Trio"
+  description: "A local jazz trio showcasing native Cawoodian and future singing superstar Lydia Bousfield, with jazz classics and easy tunes backed by bass, violin and guitar."
+  link:
+  venue: "White Cross Waterski Club"
+
+- start-time: "1700"
+  end-time: "1830"
+  kids-activity: false
+  name: "The Sicknotes of Cawood"
+  description: "Just in case you missed out on your dose of raucous swingabilly on Saturday in the Jolly Sailor, The Sicknotes of Cawood return to the 'Ski Club to rockabillify your evening."
+  link:
+  venue: "White Cross Waterski Club"
