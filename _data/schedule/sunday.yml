@@ -78,24 +78,8 @@
   link:
   venue: "The Jolly Sailor"
 
-- start-time: "1500"
-  end-time: "1630"
-  kids-activity: false
-  name: "Headlight-Dodging Rabbits"
-  description: ""
-  link:
-  venue: "White Cross Waterski Club"
-
-- start-time: "1500"
-  end-time: "1630"
-  kids-activity: false
-  name: "Richard Halma"
-  description: "The Man With The Hat"
-  link:
-  venue: "White Cross Waterski Club"
-
-- start-time: "1500"
-  end-time: "1630"
+- start-time: "1200"
+  end-time: "1230"
   kids-activity: false
   name: "Silver Lining"
   description: |
@@ -103,11 +87,28 @@
   link:
   venue: "White Cross Waterski Club"
 
-- start-time: "1500"
-  end-time: "1630"
+- start-time: "1300"
+  end-time: "1400"
+  kids-activity: false
+  name: "Richard Halma"
+  description: |
+    "The Man With The Hat" - off the wall and unusual covers and originals from the sharpest-dressed solo artist in Yorkshire!
+  link: https://www.facebook.com/richardhalmamusic/
+  venue: "White Cross Waterski Club"
+
+- start-time: "1400"
+  end-time: "1530"
   kids-activity: false
   name: "The Lydia Bousfield Trio"
   description: "A local jazz trio showcasing native Cawoodian and future singing superstar Lydia Bousfield, with jazz classics and easy tunes backed by bass, violin and guitar."
+  link:
+  venue: "White Cross Waterski Club"
+
+- start-time: "1530"
+  end-time: "1700"
+  kids-activity: false
+  name: "Headlight-Dodging Rabbits"
+  description: ""
   link:
   venue: "White Cross Waterski Club"
 
