@@ -1,6 +1,6 @@
 # FRIDAY SCHEDULE DATA
 # * venue relative links are inferred: "venues#slugified-venue-name"
-
+# * band relative links are inferred: "bands#slugified-band-name"
 
 - start-time: "1500"
   end-time: "1630"
@@ -9,7 +9,7 @@
   description: |
     Solo live looping act bringing your favourite songs to life with drums, bass, keys, guitars and vocals all from one person. A visual and audible treat for all.
   link: https://www.facebook.com/michael.collinson.182
-  venue: "The Jolly Sailor"
+  venue: The Jolly Sailor
 
 - start-time: "1630"
   end-time: "1830"
@@ -18,7 +18,7 @@
   description: |
     Celebrated local singer-songriter and jam session legend. Order his debut album 'Larkholme' on Bandcamp right now, then come see him and sing along.
   link: https://www.facebook.com/harrison.rimmer
-  venue: "The Jolly Sailor"
+  venue: The Jolly Sailor
 
 - start-time: "1830"
   end-time: "2030"
@@ -26,7 +26,7 @@
   name: "Jolly Ukelele Band"
   description: ""
   link:
-  venue: "The Jolly Sailor"
+  venue: The Jolly Sailor
 
 - start-time: "1900"
   end-time: "2300"
@@ -34,7 +34,7 @@
   name: "DJ set with Alex Malm"
   description:
   link:
-  venue: "The Ferry Inn"
+  venue: The Ferry Inn
 
 - start-time: "2030"
   end-time: "2230"
@@ -43,4 +43,4 @@
   description: |
     Sarah Barker is Miss Vintage. A classy mix of jazz and swing plus fresh covers of pop classics thrown in to make an entertaining set guaranteed to get your feet tapping.
   link: https://facebook.com/missvintage2
-  venue: "The Jolly Sailor"
+  venue: The Jolly Sailor

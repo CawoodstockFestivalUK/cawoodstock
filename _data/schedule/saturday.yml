@@ -1,5 +1,6 @@
 # SATURDAY SCHEDULE DATA
 # * venue relative links are inferred: "venues#slugified-venue-name"
+# * band relative links are inferred: "bands#slugified-band-name"
 
 - start-time: "0830"
   end-time: "1600"
@@ -8,7 +9,7 @@
   description: |
     A full day of organised creative and fun Kids activities including Face Painting, Rock/Pebble Painting, and a Fairy Drawing Competition. Face painting & children’s activities on throughout the day. See individual listings for more details
   link:
-  venue: "The Village Tea Room"
+  venue: The Village Tea Room
 
 - start-time: "1000"
   end-time: "1100"
@@ -17,7 +18,7 @@
   description: |
     With a fairy & unicorn theme by Rachel Arbon Love2getmessy- singing & dancing at the end of the session.
   link:
-  venue: "The Village Tea Room"
+  venue: The Village Tea Room
 
 - start-time: "1315"
   end-time: "1400"
@@ -25,7 +26,7 @@
   name: "Little Movers Selby are joining us to do a dancing session."
   description:
   link:
-  venue: "The Village Tea Room"
+  venue: The Village Tea Room
 
 - start-time: "1400"
   end-time: "1530"
@@ -34,7 +35,7 @@
   description: |
     Drama & music workshop with Sara Jackson. (2-2:45 ages 5-11, 2:45-3:30 ages 12-16)
   link:
-  venue: "The Village Tea Room"
+  venue: The Village Tea Room
 
 - start-time: "1400"
   end-time: "1530"
@@ -43,7 +44,7 @@
   description: |
     Drama & music workshop with Sara Jackson. (2-2:45 ages 5-11, 2:45-3:30 ages 12-16)
   link:
-  venue: "The Village Tea Room"
+  venue: The Village Tea Room
 
 - start-time: "1230"
   end-time: "1300"
@@ -51,7 +52,7 @@
   name: "Storytelling & rhyming with Usborne books"
   description:
   link:
-  venue: "The Village Tea Room"
+  venue: The Village Tea Room
 
 - start-time: "1300"
   end-time: "1500"
@@ -60,7 +61,7 @@
   description: |
     In what has become something of a Cawoodstock tradition once again we have the Kids Jamming Session, this is an opportunity to get younger players involved in an open jam (not an open mic!) where everyone is welcome to join in and sing and play along with everyone else's songs. It's designed to be non-intimidating and welcoming to all abilities, all instruments, and all kinds of music. A few adults will be around to help get things going, and some of our experienced Cawood young musicians will be there to welcome you all. Come to participate or to listen!
   link:
-  venue: "The Jolly Sailor"
+  venue: The Jolly Sailor
 
 - start-time: "1500"
   end-time: "1630"
@@ -68,25 +69,25 @@
   name: "Headlight-Dodging Rabbits"
   description: ""
   link:
-  venue: "The Jolly Sailor"
+  venue: The Jolly Sailor
 
 - start-time: "1600"
   end-time: "1730"
   kids-activity: false
-  name: "Stryder's Budgie"
+  name: Stryder's Budgie
   description: |
     "A lump of cosmic froak right in your ears." Is what they have told me to put.
   link:
-  venue: "The Ferry Inn"
+  venue: The Ferry Inn
 
 - start-time: "1630"
   end-time: "1830"
   kids-activity: false
-  name: "Lydia Bousfield Trio"
+  name: Lydia Bousfield Trio
   description: |
     A local jazz trio showcasing native Cawoodian and future singing superstar Lydia Bousfield, with jazz classics and easy tunes backed by bass, violin and guitar.
   link:
-  venue: "The Jolly Sailor"
+  venue: The Jolly Sailor
 
 - start-time: "1800"
   end-time: "1900"
@@ -95,7 +96,7 @@
   description: |
     The perfect party night - prepare to shake your tail feathers right into the midnight hour!
   link: https://www.facebook.com/profile.php?id=100015641220771
-  venue: "The Ferry Inn"
+  venue: The Ferry Inn
 
 - start-time: "1830"
   end-time: "2030"
@@ -103,7 +104,7 @@
   name: "Darren Butler"
   description: ""
   link:
-  venue: "The Jolly Sailor"
+  venue: The Jolly Sailor
 
 - start-time: "2030"
   end-time: "2400"
@@ -112,4 +113,4 @@
   description: |
     Kicking out more of their trademark 'Ramshackle'-sounding Swingabilly, and headlining their 5th Cawoodstock, The Sicknotes Of Cawood will be joined by Sarah Barker (Miss Vintage) to finish up their set with some classic Imelda May and Amy Winehouse numbers!
   link: https://www.facebook.com/sicknotesofcawood
-  venue: "The Jolly Sailor"
+  venue: The Jolly Sailor
