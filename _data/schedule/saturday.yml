@@ -81,7 +81,7 @@
   venue: The Ferry Inn
 
 - start-time: "1630"
-  end-time: "1830"
+  end-time: "1800"
   kids-activity: false
   name: Lydia Bousfield Trio
   description: |
@@ -99,7 +99,7 @@
   venue: The Ferry Inn
 
 - start-time: "1830"
-  end-time: "2030"
+  end-time: "2000"
   kids-activity: false
   name: "Darren Butler"
   description: ""
@@ -107,7 +107,7 @@
   venue: The Jolly Sailor
 
 - start-time: "2030"
-  end-time: "2400"
+  end-time: "2300"
   kids-activity: false
   name: "The Sicknotes of Cawood"
   description: |

@@ -83,7 +83,7 @@
   venue: The Jolly Sailor
 
 - start-time: "1630"
-  end-time: "1730"
+  end-time: "1800"
   kids-activity: false
   name: Ukelele Sunshine Revival Band
   description: |
@@ -92,7 +92,7 @@
   venue: The Jolly Sailor
 
 - start-time: "1900"
-  end-time: "2100"
+  end-time: "2030"
   kids-activity: false
   name: The Modloop Collective
   description: |
