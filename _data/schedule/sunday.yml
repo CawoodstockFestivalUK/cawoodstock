@@ -48,7 +48,7 @@
   kids-activity: false
   name: "Rose Hewick"
   description: |
-    15 year old singer/songwriter plays laid-back covers and originals.
+    Rose is a 15 year old native Cawoodian singer/songwriter playing laid-back covers and originals.
   link:
   venue: "The Jolly Sailor"
 
@@ -101,7 +101,7 @@
   kids-activity: false
   name: "The Lydia Bousfield Trio"
   description: "A local jazz trio showcasing native Cawoodian and future singing superstar Lydia Bousfield, with jazz classics and easy tunes backed by bass, violin and guitar."
-  link:
+  link: https://www.facebook.com/profile.php?id=100085427855259
   venue: "White Cross Waterski Club"
 
 - start-time: "1530"
@@ -117,5 +117,5 @@
   kids-activity: false
   name: "The Sicknotes of Cawood"
   description: "Just in case you missed out on your dose of raucous swingabilly on Saturday in the Jolly Sailor, The Sicknotes of Cawood return to the 'Ski Club to rockabillify your evening."
-  link:
+  link: https://www.facebook.com/sicknotesofcawood
   venue: "White Cross Waterski Club"

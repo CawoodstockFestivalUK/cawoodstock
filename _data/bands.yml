@@ -4,8 +4,8 @@
 
 - name: "Michael Collinson"
   blurb: |
-    Michael Collinson from The Lights acoustic duo, playing acoustic solo this year at Cawoodstock
-  lineup:
+    Solo live looping act bringing your favourite songs to life with drums, bass, keys, guitars and vocals all from one person. A visual and audible treat for all.
+  lineup: Michael Collinson
   facebook: "https://www.facebook.com/michael.collinson.182"
   web:
 
@@ -13,14 +13,14 @@
   blurb: |
     A jazz trio of jazz bass, violin and guitar, playing jazz and swing classics.
   lineup: "Marcus Bousfield, Patricio Morris, Marcus Baw"
-  facebook:
+  facebook: n/a
   web:
 
 - name: "The Lydia Bousfield Trio"
   blurb: |
     A local jazz trio showcasing native Cawoodian and future singing superstar Lydia Bousfield, with jazz classics and easy tunes backed by bass, violin and guitar.
   lineup: Lydia Bousfield (vocals), Isaac Bousfield (bass/trombone), Marcus Bousfield (piano/guitar)
-  facebook:
+  facebook: https://www.facebook.com/profile.php?id=100085427855259
   web:
 
 - name: "Jolly Ukelele Band"
@@ -29,11 +29,18 @@
   facebook:
   web:
 
+- name: "Elwood J Blues - Elwood's Commitment To The Blues"
+  blurb: |
+    The perfect party night - prepare to shake your tail feathers right into the midnight hour!
+  lineup: Elwood J Blues
+  facebook: https://www.facebook.com/profile.php?id=100015641220771
+  web:
+
 - name: Miss Vintage
   blurb: |
     Sarah Barker is Miss Vintage. A classy mix of jazz and swing plus fresh covers of pop classics thrown in to make an entertaining set guaranteed to get your feet tapping.
   lineup: Sarah Barker
-  facebook:
+  facebook: https://facebook.com/missvintage2
   web:
 
 - name: Headlight-Dodging Rabbits
@@ -44,14 +51,15 @@
 
 - name: Darren Butler
   blurb: |
-    Darren is a solo act (Vocals/Guitar) playing late 50s to 70s with the odd 80s tune.. Beatles, Simon & Garfunkel, Dylan, Elvis and more.
+    Darren is a solo act (Vocals/Guitar) playing late 50s to 70s with the odd 80s tune.... Beatles, Simon & Garfunkel, Dylan, Elvis and more.
   lineup: Darren Butler
   facebook: https://www.facebook.com/profile.php?id=100013704673833
   web:
 
 - name: Rose Hewick
-  blurb:
-  lineup:
+  blurb: |
+    Rose is a 15 year old native Cawoodian singer/songwriter playing laid-back covers and originals
+  lineup: Rose Hewick
   facebook:
   web:
 
@@ -72,13 +80,13 @@
 
 - name: Miss Kitty Lee Cabaret Show
   blurb:
-  lineup:
+  lineup: Miss Kitty Lee
   facebook:
   web:
 
 - name: The Sicknotes of Cawood
   blurb: |
-    Rockabilly, rock, and pop covers in their own famous 'ramshackle' style - from pop tunes to danceable swing-a-billy and cool sultry jazz.
+    Rockabilly, rock, and pop covers in their own famous 'ramshackle' style - from pop tunes to danceable swing-a-billy and cool sultry jazz. 90% of the right chords or your money back. Nude (under his clothes) double bass playing. Bavarian hats, Lederhösen, and all the high-impedance, low signal-to-noise ratio mayhem you can handle.
   lineup: |
     Jim Morrow (drums), Marcus Baw (vocals, guitar), Patrick Morris (vocals, double bass)
   facebook: "https://www.facebook.com/SicknotesOfCawood/"
@@ -91,7 +99,7 @@
   web:
 
 - name: Harrison Rimmer
-  blurb: Celebrated local singer-songriter and jam session legend.
+  blurb: Celebrated local singer-songriter and jam session legend. Order his debut album 'Larkholme' on Bandcamp right now, then come see him and sing along.
   lineup: Harrison Rimmer
   facebook: https://www.facebook.com/harrison.rimmer
   web: https://harrisonrimmer1.bandcamp.com/
@@ -103,6 +111,11 @@
   facebook: https://www.facebook.com/richardhalmamusic/
   web:
 
+- name: "Stryder's Budgie"
+  blurb: "A lump of cosmic froak right in your ears"
+  lineup: "John Budgie, Paul Budgie, Billy Budgie, Ben Budgie, Richard Budgie"
+  facebook: "https://www.facebook.com/paul.featherstone.1441"
+  web:
 
 # - name: "Miles Salter"
 #   blurb: |
@@ -189,12 +202,6 @@
 #     Some of the best disco tunes to have made their way on to the radio at the height of the Disco era. Disco Factor are a choreographed group with 2 girls and 1 guy who just love to entertain. If these don’t get you on the dance floor, nothing will!
 #   lineup:
 #   facebook: "https://www.facebook.com/discofactor/"
-#   web:
-
-# - name: "Stryder's Budgie"
-#   blurb: "A lump of cosmic froak right in your ears"
-#   lineup: "John Budgie, Paul Budgie, Billy Budgie, Ben Budgie, Richard Budgie"
-#   facebook: "https://www.facebook.com/paul.featherstone.1441"
 #   web:
 
 # - name: "The Renames"

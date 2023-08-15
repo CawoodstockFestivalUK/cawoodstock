@@ -5,15 +5,17 @@
   end-time: "1600"
   kids-activity: true
   name: "Kids Day"
-  description: "Face Painting, Rock/Pebble Painting, Fairy Drawing Competition"
+  description: |
+    A full day of organised creative and fun Kids activities including Face Painting, Rock/Pebble Painting, and a Fairy Drawing Competition
   link:
   venue: "The Village Tea Room"
 
 - start-time: "1300"
   end-time: "1500"
   kids-activity: true
-  name: "Kids Jamming"
-  description: ""
+  name: "Kids Jam Session"
+  description: |
+    In what has become something of a Cawoodstock tradition once again we have the Kids Jamming Session, this is an opportunity to get younger players involved in an open jam (not an open mic!) where everyone is welcome to join in and sing and play along with everyone else's songs. It's designed to be non-intimidating and welcoming to all abilities, all instruments, and all kinds of music. A few adults will be around to help get things going, and some of our experienced Cawood young musicians will be there to welcome you all. Come to participate or to listen!
   link:
   venue: "The Jolly Sailor"
 
@@ -29,24 +31,27 @@
   end-time: "1730"
   kids-activity: false
   name: "Stryder's Budgie"
-  description: ""
+  description: |
+    "A lump of cosmic froak right in your ears." Is what they have told me to put.
   link:
-  venue: "The Jolly Sailor"
+  venue: "The Ferry Inn"
 
 - start-time: "1630"
   end-time: "1830"
   kids-activity: false
   name: "Lydia Bousfield Trio"
-  description: ""
+  description: |
+    A local jazz trio showcasing native Cawoodian and future singing superstar Lydia Bousfield, with jazz classics and easy tunes backed by bass, violin and guitar.
   link:
   venue: "The Jolly Sailor"
 
 - start-time: "1800"
   end-time: "1900"
   kids-activity: false
-  name: "Elwood J Blues - Blues Brothers Commitments"
-  description: ""
-  link:
+  name: "Elwood J Blues - Elwood's Commitment To The Blues"
+  description: |
+    The perfect party night - prepare to shake your tail feathers right into the midnight hour!
+  link: https://www.facebook.com/profile.php?id=100015641220771
   venue: "The Ferry Inn"
 
 - start-time: "1830"
@@ -58,9 +63,10 @@
   venue: "The Jolly Sailor"
 
 - start-time: "2030"
-  end-time: "2300"
+  end-time: "2400"
   kids-activity: false
   name: "The Sicknotes of Cawood"
-  description: ""
-  link:
+  description: |
+    Kicking out more of their trademark 'Ramshackle'-sounding Swingabilly, and headlining their 5th Cawoodstock, The Sicknotes Of Cawood will be joined by Sarah Barker (Miss Vintage) to finish up their set with some classic Imelda May and Amy Winehouse numbers!
+  link: https://www.facebook.com/sicknotesofcawood
   venue: "The Jolly Sailor"
