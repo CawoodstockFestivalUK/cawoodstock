@@ -10,13 +10,13 @@
   link:
   venue: "The Jolly Sailor"
 
-- start-time: "1630"
-  end-time: "1830"
-  kids-activity: false
-  name: "Woodside Wingers"
-  description: ""
-  link:
-  venue: "The Jolly Sailor"
+# - start-time: "1630"
+#   end-time: "1830"
+#   kids-activity: false
+#   name: "Woodside Wingers"
+#   description: ""
+#   link:
+#   venue: "The Jolly Sailor"
 
 - start-time: "1830"
   end-time: "2030"
