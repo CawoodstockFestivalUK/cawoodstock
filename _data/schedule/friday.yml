@@ -6,17 +6,19 @@
   end-time: "1630"
   kids-activity: false
   name: "Michael Collinson"
-  description: ""
-  link:
+  description: |
+    Solo live looping act bringing your favourite songs to life with drums, bass, keys, guitars and vocals all from one person. A visual and audible treat for all.
+  link: https://www.facebook.com/michael.collinson.182
   venue: "The Jolly Sailor"
 
-# - start-time: "1630"
-#   end-time: "1830"
-#   kids-activity: false
-#   name: "Woodside Wingers"
-#   description: ""
-#   link:
-#   venue: "The Jolly Sailor"
+- start-time: "1630"
+  end-time: "1830"
+  kids-activity: false
+  name: "Harrison Rimmer"
+  description: |
+    Celebrated local singer-songriter and jam session legend. Order his debut album 'Larkholme' on Bandcamp right now, then come see him and sing along.
+  link: https://www.facebook.com/harrison.rimmer
+  venue: "The Jolly Sailor"
 
 - start-time: "1830"
   end-time: "2030"
@@ -38,6 +40,7 @@
   end-time: "2230"
   kids-activity: false
   name: "Miss Vintage"
-  description: "Sarah Barker is Miss Vintage. A classy mix of jazz and swing plus fresh covers of pop classics thrown in to make an entertaining set guaranteed to get your feet tapping."
+  description: |
+    Sarah Barker is Miss Vintage. A classy mix of jazz and swing plus fresh covers of pop classics thrown in to make an entertaining set guaranteed to get your feet tapping.
   link: https://facebook.com/missvintage2
   venue: "The Jolly Sailor"

@@ -10,11 +10,11 @@
 #   venue:          (optional) (will eventually link through to venues page)
 #   venue-link:     (optional - venue information link)
 
-# - start-time: 1100
-#   end-time: 1400
-#   kids-activity: true
-#   name: "Refreshments at Cawood Church"
-#   description: |
-#     Refreshments are served at Cawood's historic church on Cawoodstock Saturday, Sunday and Monday, in aid of church funds. Please do go along to see this beautiful church, one of very few  Royal Peculiars (exempt from the jurisdiction of the diocese and the province in which it lies and subject to the direct jurisdiction of the monarch) outside London. You will also be supporting Cawood church by buying refreshments.
-#   link: 
-#   venue: "Cawood All Saints' Church"
+- start-time: 1200
+  end-time: 1245
+  kids-activity: trfalseue
+  name: "Silver Lining"
+  description: |
+    Local teen band Silver Lining are composed of Rose Hewick, Lilia Cole, Alice Baw, Seth Bradley, and Alex Eliott. Come along and show some support for the next generation of Cawood musicians!
+  link:
+  venue: "Cawood All Saints' Church"

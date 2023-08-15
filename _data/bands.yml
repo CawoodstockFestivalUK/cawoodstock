@@ -2,34 +2,34 @@
 # * DON'T REMOVE BANDS, JUST COMMENT THEM OUT
 # * Image relative path is inferred: "lower-case-slugified-band-name.jpg"
 
-- name: "Michael Collinson"
+- name: Michael Collinson
   blurb: |
     Solo live looping act bringing your favourite songs to life with drums, bass, keys, guitars and vocals all from one person. A visual and audible treat for all.
   lineup: Michael Collinson
   facebook: "https://www.facebook.com/michael.collinson.182"
   web:
 
-- name: "The Bousfield International Jazz Trio"
+- name: The Bousfield International Jazz Trio
   blurb: |
     A jazz trio of jazz bass, violin and guitar, playing jazz and swing classics.
-  lineup: "Marcus Bousfield, Patricio Morris, Marcus Baw"
+  lineup: Marcus Bousfield, Patricio Morris, Marcus Baw.
   facebook: n/a
   web:
 
-- name: "The Lydia Bousfield Trio"
+- name: The Lydia Bousfield Trio
   blurb: |
     A local jazz trio showcasing native Cawoodian and future singing superstar Lydia Bousfield, with jazz classics and easy tunes backed by bass, violin and guitar.
   lineup: Lydia Bousfield (vocals), Isaac Bousfield (bass/trombone), Marcus Bousfield (piano/guitar)
   facebook: https://www.facebook.com/profile.php?id=100085427855259
   web:
 
-- name: "Jolly Ukelele Band"
+- name: Jolly Ukelele Band
   blurb:
   lineup:
   facebook:
   web:
 
-- name: "Elwood J Blues - Elwood's Commitment To The Blues"
+- name: Elwood J Blues - Elwood's Commitment To The Blues
   blurb: |
     The perfect party night - prepare to shake your tail feathers right into the midnight hour!
   lineup: Elwood J Blues
@@ -46,6 +46,14 @@
 - name: Headlight-Dodging Rabbits
   blurb:
   lineup:
+  facebook:
+  web:
+
+- name: Silver Lining
+  blurb: |
+    Local teen band Silver Lining play a selection of covers and originals, with a great close-harmony style all of their own. Come along and show some support for the next generation of Cawood musicians!
+  lineup: |
+    Rose Hewick (vocals, guitar, uke), Lilia Cole (bass), Alice Baw (vocals), Seth Bradley (drums), and Alex Eliott (piano/keys)
   facebook:
   web:
 
@@ -92,7 +100,7 @@
   facebook: "https://www.facebook.com/SicknotesOfCawood/"
   web: https://thesicknotes.co.uk
 
-- name: "Julian Socha"
+- name: Julian Socha
   blurb: "Electric and Acoustic Guitarist Singer-Songwriter"
   lineup: "Julian Socha"
   facebook: "https://www.facebook.com/juliansochamusic/"
@@ -104,17 +112,30 @@
   facebook: https://www.facebook.com/harrison.rimmer
   web: https://harrisonrimmer1.bandcamp.com/
 
-- name: "Richard Halma"
+- name: Richard Halma
   blurb: |
     "The Man With The Hat" - off the wall and unusual covers and originals from the sharpest-dressed solo artist in Yorkshire!
   lineup: Richard Halma, Hat, Guitar
   facebook: https://www.facebook.com/richardhalmamusic/
   web:
 
-- name: "Stryder's Budgie"
-  blurb: "A lump of cosmic froak right in your ears"
-  lineup: "John Budgie, Paul Budgie, Billy Budgie, Ben Budgie, Richard Budgie"
+- name: Stryder's Budgie
+  blurb: A lump of cosmic froak right in your ears
+  lineup: John Budgie, Paul Budgie, Billy Budgie, Ben Budgie, Richard Budgie.
   facebook: "https://www.facebook.com/paul.featherstone.1441"
+  web:
+
+- name: Chris Foster
+  blurb: |
+    Cawoodian jazzy piano and superlative vocals covering modern classics and jazz greats.
+  lineup: "Chris Foster"
+  facebook: "https://www.facebook.com/KitFrostmusic/"
+  web:
+
+- name: DJ set with Alex Malm
+  blurb:
+  lineup: Alex Malm
+  facebook:
   web:
 
 # - name: "Miles Salter"
@@ -209,12 +230,6 @@
 #     Local York band, popular around the local pub and festival circuit. Mathilde, Dan and Derek look forward to returning to Cawoodstock again this year.
 #   lineup:
 #   facebook: "https://www.facebook.com/therenamesyork/"
-#   web:
-
-# - name: "Kit Frost"
-#   blurb: "Cawoodian jazzy piano and vocals covering modern classics and jazz greats"
-#   lineup: "Kit Frost"
-#   facebook: "https://www.facebook.com/KitFrostmusic/"
 #   web:
 
 # - name: "Mark Byrne"

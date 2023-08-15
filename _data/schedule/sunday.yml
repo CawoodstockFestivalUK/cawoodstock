@@ -1,12 +1,21 @@
 # SUNDAY SCHEDULE DATA
 # * venue relative links are inferred: "venues#slugified-venue-name"
 
-- start-time: "1000"
+- start-time: "0930"
   end-time: "1100"
   kids-activity: false
   name: "The Bousfield International Jazz Trio"
   description: |
-    Violin, Electric jazz guitar and Jazz Bass to start your Sunday morning, with coffee and breakfast at the Village Tea Rooms. Starring Patrick 'Marcus' Morris, Marcus Bousfield and Marcus 'Patrick' Baw.
+    Jazz Breakfast returns to Cawoodstock! Violin, Electric jazz guitar and Jazz Bass to start your Sunday morning, with coffee and breakfast at the Village Tea Rooms. Starring Patrick 'Marcus' Morris, Marcus 'Marcus' Bousfield and Marcus 'Patrick' Baw.
+  link:
+  venue: "The Village Tea Room"
+
+- start-time: "1100"
+  end-time: "1600"
+  kids-activity: false
+  name: "Afternoon Tea"
+  description: |
+    Afternoon tea 11am-4pm with a range of vocalists singing music through the ages. See individual listings for details about the artists.
   link:
   venue: "The Village Tea Room"
 
@@ -19,11 +28,29 @@
   link:
   venue: "The Village Tea Room"
 
+- start-time: "1230"
+  end-time: "1400"
+  kids-activity: false
+  name: "Miss Vintage"
+  description: |
+    Sarah Barker is Miss Vintage. A classy mix of jazz and swing plus fresh covers of pop classics thrown in to make an entertaining set guaranteed to get your feet tapping.
+  link: https://facebook.com/missvintage2
+  venue: "The Village Tea Room"
+
+- start-time: "1500"
+  end-time: "1600"
+  kids-activity: false
+  name: "Chris Foster"
+  description: |
+    Cawoodian jazzy piano and superlative vocals covering modern classics and jazz greats
+  link: https://facebook.com/missvintage2
+  venue: "The Village Tea Room"
+
 - start-time: "1330"
   end-time: "1500"
   kids-activity: false
   name: "Name That Song Quiz"
-  description: "Prize: Gallon of Beer"
+  description: "Prize: A Gallon of Beer!"
   link:
   venue: "The Jolly Sailor"
 
@@ -39,7 +66,8 @@
   end-time: "2000"
   kids-activity: false
   name: "Julian Socha"
-  description: "Electric and Acoustic Guitarist Singer-Songwriter. You've never seen or heard anything like Julian's great covers and unusual style ranging from flamenco through to Rage Against The Machine style pitch-shifting!"
+  description: |
+    Electric and Acoustic Guitarist Singer-Songwriter. You've never seen or heard anything like Julian's great covers and unusual style ranging from flamenco through to Rage Against The Machine style pitch-shifting!
   link:
   venue: "The Ferry Inn"
 
