@@ -5,7 +5,7 @@
 - start-time: "0830"
   end-time: "1600"
   kids-activity: true
-  name: "Children's Day with musical links"
+  name: Children's Day with musical links
   description: |
     A full day of organised creative and fun Kids activities including Face Painting, Rock/Pebble Painting, and a Fairy Drawing Competition. Face painting & children’s activities on throughout the day. See individual listings for more details
   link:
@@ -14,7 +14,7 @@
 - start-time: "1000"
   end-time: "1100"
   kids-activity: true
-  name: "Messy Play"
+  name: Messy Play
   description: |
     With a fairy & unicorn theme by Rachel Arbon Love2getmessy- singing & dancing at the end of the session.
   link:
@@ -23,7 +23,7 @@
 - start-time: "1315"
   end-time: "1400"
   kids-activity: true
-  name: "Little Movers Selby are joining us to do a dancing session."
+  name: Little Movers Selby are joining us to do a dancing session
   description:
   link:
   venue: The Village Tea Room
@@ -31,16 +31,7 @@
 - start-time: "1400"
   end-time: "1530"
   kids-activity: true
-  name: "Drama & music workshop with Sara Jackson."
-  description: |
-    Drama & music workshop with Sara Jackson. (2-2:45 ages 5-11, 2:45-3:30 ages 12-16)
-  link:
-  venue: The Village Tea Room
-
-- start-time: "1400"
-  end-time: "1530"
-  kids-activity: true
-  name: "Drama & music workshop with Sara Jackson."
+  name: Drama & music workshop with Sara Jackson
   description: |
     Drama & music workshop with Sara Jackson. (2-2:45 ages 5-11, 2:45-3:30 ages 12-16)
   link:
@@ -49,7 +40,15 @@
 - start-time: "1230"
   end-time: "1300"
   kids-activity: true
-  name: "Storytelling & rhyming with Usborne books"
+  name: Storytelling & rhyming with Usborne books
+  description:
+  link:
+  venue: The Village Tea Room
+
+- start-time: "1200"
+  end-time: "1300"
+  kids-activity: true
+  name: Circus Performers
   description:
   link:
   venue: The Village Tea Room
