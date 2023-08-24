@@ -127,6 +127,15 @@
   venue: White Cross Waterski Club
 
 - start-time: "1400"
+  end-time: "1500"
+  kids-activity: false
+  name: The Cereal Offenders
+  description: |
+    Two escapees from East Yorkshire based band ShedJam with acoustic guitars & a love of rock
+  link: https://www.facebook.com/thecerealoffendersband
+  venue: The Castle Inn
+
+- start-time: "1400"
   end-time: "1530"
   kids-activity: false
   name: The Lydia Bousfield Trio

@@ -70,14 +70,14 @@
   link:
   venue: The Jolly Sailor
 
-# - start-time: "1600"
-#   end-time: "1730"
-#   kids-activity: false
-#   name: Stryder's Budgie
-#   description: |
-#     "A lump of cosmic froak right in your ears." Is what they have told me to put.
-#   link:
-#   venue: The Ferry Inn
+- start-time: "1800"
+  end-time: "1900"
+  kids-activity: false
+  name: Steve Barrick
+  description: |
+    Steve Barrick - solo singer of covers and some original songs
+  link:
+  venue: The Castle Inn
 
 - start-time: "1630"
   end-time: "1800"
